@@ -1,0 +1,849 @@
+[09-Oct-2020 01:07:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:07:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:07:08 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:07:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:07:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:07:12 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:08:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:08:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:08:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:08:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:08:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:08:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:08:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 33
+[09-Oct-2020 01:11:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:11:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:11:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:12:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:12:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:12:03 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:12:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:12:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:12:07 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:12:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:12:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:12:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:12:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:12:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:12:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:12:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 33
+[09-Oct-2020 01:15:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:15:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:15:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:18:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:18:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:18:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:18:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:18:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:18:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:20:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:20:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:20:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:22:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:22:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:22:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:23:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:23:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:23:09 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:23:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:23:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:23:49 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:24:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:24:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:24:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:25:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:25:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:25:49 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:25:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:25:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:25:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:26:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:26:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:26:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:26:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:26:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:26:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:28:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:28:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:28:08 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:28:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:28:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:28:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:28:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 33
+[09-Oct-2020 01:38:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:38:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:38:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:38:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:38:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:38:18 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:40:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:40:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:40:02 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:40:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:40:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:40:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:40:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:40:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:40:49 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:41:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:41:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:41:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:41:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:41:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:41:45 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:41:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:41:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:41:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:44:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:44:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:44:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:44:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:44:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:44:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:45:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:45:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:45:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:45:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:45:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:45:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:45:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:45:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:45:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:45:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:45:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:45:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:46:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:46:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:46:02 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:49:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:49:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:49:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:49:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:49:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:49:53 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:49:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 33
+[09-Oct-2020 01:50:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:50:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:50:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:50:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 33
+[09-Oct-2020 01:51:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:51:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:51:16 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:51:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:51:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:51:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:53:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:53:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:53:02 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:53:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:53:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:53:13 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:53:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:53:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:53:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:54:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:54:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:54:03 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:54:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:54:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:54:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:55:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:55:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:55:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:55:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:55:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:55:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:56:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:56:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:56:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:56:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:56:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:56:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:57:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:57:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:57:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:57:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:57:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:57:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:57:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:57:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:57:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:58:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:58:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:58:24 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:58:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:58:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:58:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 01:58:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 01:58:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 01:58:44 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:00:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:00:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:00:19 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:00:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:00:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:00:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:01:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:01:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:01:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:01:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:01:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:01:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:02:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:02:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:02:17 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:02:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:02:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:02:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:02:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:02:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:02:39 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:03:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:03:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:03:12 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:04:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:04:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:04:27 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:04:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:04:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:04:39 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:04:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:04:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:04:57 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:06:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:06:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:06:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:06:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:06:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:06:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:06:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:06:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:06:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:06:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:06:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:06:53 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:07:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/cp41534/public_html/u-p/filesLogic.php on line 3
+[09-Oct-2020 02:07:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/cp41534/public_html/u-p/filesLogic.php on line 6
+[09-Oct-2020 02:07:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:25:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/cp41534/public_html/u-p/filesLogic.php on line 42
+[09-Oct-2020 02:25:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ']' in /home/cp41534/public_html/u-p/filesLogic.php on line 42
+[09-Oct-2020 02:26:09 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:26:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:27:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:27:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:27:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:35 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:28:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:29:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:30:17 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:30:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:33:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:33:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:33:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:34:03 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:34:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:35:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:35:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:36:06 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:37:24 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:37:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:37:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:38:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 02:38:13 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 03:14:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 04:36:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 04:37:59 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 04:49:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 04:49:43 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 06:03:49 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 06:06:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 06:08:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 06:18:19 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 07:23:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 09:11:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 09:12:24 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 11:00:03 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 11:53:04 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 12:05:43 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 12:05:59 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 12:06:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 12:16:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 15:41:49 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 16:35:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:17:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:25:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:31:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:42:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:43:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:48:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:50:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:51:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:51:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:54:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/cp41534/public_html/u-p/filesLogic.php:4
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 4
+[09-Oct-2020 19:54:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/cp41534/public_html/u-p/filesLogic.php:4
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 4
+[09-Oct-2020 19:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_set_charset() in /home/cp41534/public_html/u-p/filesLogic.php:4
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 4
+[09-Oct-2020 19:55:05 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/cp41534/public_html/u-p/filesLogic.php on line 4
+[09-Oct-2020 19:55:05 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:55:24 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, string given in /home/cp41534/public_html/u-p/filesLogic.php on line 4
+[09-Oct-2020 19:55:24 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 19:59:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 20:00:06 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 21:06:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 21:11:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 21:17:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 21:23:09 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 21:23:43 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 21:24:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[09-Oct-2020 21:25:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 01:08:13 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 03:31:51 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 05:17:19 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 06:06:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 07:34:04 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 07:39:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 10:32:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 15:49:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 19:49:08 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 19:59:22 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 21:30:06 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 21:30:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[10-Oct-2020 23:01:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 01:28:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 04:07:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 05:29:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 05:29:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 05:29:59 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 06:07:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 09:06:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 09:24:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 10:52:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 12:30:27 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 13:27:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 13:30:07 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 13:30:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 15:04:59 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 15:35:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 16:49:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[11-Oct-2020 17:02:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 02:18:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 05:02:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 05:02:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 05:03:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 06:13:57 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 06:39:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 12:28:04 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 13:39:19 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 16:01:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 16:17:13 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 17:22:45 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 18:59:02 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 20:08:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 21:09:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[12-Oct-2020 23:33:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 00:03:35 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 00:04:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 00:44:57 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 02:10:39 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 04:43:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 04:43:45 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 04:44:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 04:44:35 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 04:54:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 05:58:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 06:47:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 06:59:39 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 07:02:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 07:02:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 07:02:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 07:17:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 07:54:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 07:55:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 07:55:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 08:00:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 09:23:51 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 09:24:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 10:34:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 11:22:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 11:28:13 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 11:28:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 11:56:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 12:24:45 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 12:39:12 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 13:19:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 14:03:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 14:16:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 16:13:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 19:20:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[13-Oct-2020 19:30:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 07:33:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 07:44:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 09:01:57 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 09:25:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 12:44:39 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 13:10:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 13:55:06 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:07:06 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:07:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:08:07 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:08:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:09:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:09:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:09:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:18:01 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:20:09 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:20:57 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:21:35 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:21:43 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:22:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:22:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:22:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:22:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:23:07 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:24:17 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:26:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 14:32:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[14-Oct-2020 17:27:22 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[15-Oct-2020 17:10:51 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[15-Oct-2020 17:19:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[15-Oct-2020 17:19:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[17-Oct-2020 13:01:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[17-Oct-2020 13:02:39 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[17-Oct-2020 13:05:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[17-Oct-2020 13:06:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[17-Oct-2020 13:13:16 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[17-Oct-2020 23:48:27 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[18-Oct-2020 12:56:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[18-Oct-2020 13:35:18 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[18-Oct-2020 13:49:05 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[20-Oct-2020 08:56:19 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[21-Oct-2020 02:07:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[22-Oct-2020 03:09:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[22-Oct-2020 07:00:19 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[22-Oct-2020 07:00:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[22-Oct-2020 15:40:09 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[22-Oct-2020 15:41:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[22-Oct-2020 15:47:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[22-Oct-2020 16:12:03 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 12:36:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 12:36:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 12:37:01 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 12:37:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 12:38:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 12:38:57 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 17:19:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 18:59:59 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:00:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:02:08 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:04:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:06:06 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:06:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:06:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:07:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:07:44 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:08:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:09:17 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:09:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:10:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:11:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:11:27 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 19:59:59 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 20:53:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:28:09 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:31:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:31:45 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:32:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:33:01 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:33:07 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:33:24 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:36:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:36:53 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:38:17 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:38:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:40:53 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:40:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:41:05 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:44:18 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:44:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:44:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:45:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:50:18 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:50:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:51:22 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:51:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:51:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:51:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:55:02 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:55:53 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:55:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:56:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:56:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:56:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:56:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:56:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:56:51 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:57:02 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:57:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:58:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:58:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:59:44 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 21:59:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:00:45 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:02:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:02:17 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:03:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:04:05 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:06:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:07:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:07:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:08:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:08:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:12:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:12:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:12:44 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:13:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:14:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:14:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:15:44 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:16:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:16:51 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:17:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:17:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:18:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:18:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:19:01 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:19:05 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:19:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:19:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:25:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:25:44 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:25:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:25:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:26:16 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:26:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:28:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:29:04 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:29:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:29:24 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:29:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:30:09 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:30:12 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:30:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:31:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:31:06 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:31:44 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:31:48 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:36:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:36:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[23-Oct-2020 22:37:05 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 00:20:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:03:12 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:17:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:17:35 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:18:17 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:18:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:18:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:19:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:19:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:26:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:26:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:31:39 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:31:43 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:31:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:34:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:34:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:36:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:36:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:36:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:37:01 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:37:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:37:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:37:51 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:37:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:38:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:40:11 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:40:28 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:40:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:40:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:50:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:51:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:51:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:51:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:55:43 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:55:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:56:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:56:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:57:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:57:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:58:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 10:58:02 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:00:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:04:08 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:04:12 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:04:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:04:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:05:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 14:35:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home/cp41534/public_html/u-p/filesLogic.php:52
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 52
+[24-Oct-2020 11:05:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 14:35:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home/cp41534/public_html/u-p/filesLogic.php:52
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 52
+[24-Oct-2020 11:05:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 14:35:47 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home/cp41534/public_html/u-p/filesLogic.php:52
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 52
+[24-Oct-2020 11:06:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 14:36:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home/cp41534/public_html/u-p/filesLogic.php:52
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 52
+[24-Oct-2020 11:06:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:06:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:06:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 14:36:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home/cp41534/public_html/u-p/filesLogic.php:52
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 52
+[24-Oct-2020 11:07:14 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 14:37:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function close() in /home/cp41534/public_html/u-p/filesLogic.php:52
+Stack trace:
+#0 /home/cp41534/public_html/u-p/index.php(1): include()
+#1 {main}
+  thrown in /home/cp41534/public_html/u-p/filesLogic.php on line 52
+[24-Oct-2020 11:09:03 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:09:27 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:09:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:09:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:10:04 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:11:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:12:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:12:43 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:13:12 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:13:39 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:13:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:14:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:14:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:16:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:17:04 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:17:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:17:49 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:17:53 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:18:03 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:28:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:28:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:29:09 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:29:24 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:29:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:29:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:29:50 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:30:01 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:31:00 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:31:08 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:31:25 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:31:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:38:59 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:39:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:47:18 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:47:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:48:24 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:53:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:54:51 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[24-Oct-2020 11:55:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[25-Oct-2020 20:23:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[26-Oct-2020 07:58:32 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[26-Oct-2020 08:00:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[26-Oct-2020 08:05:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[26-Oct-2020 08:32:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[26-Oct-2020 08:35:12 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:38:44 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:40:13 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:40:42 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:42:36 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:42:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:43:47 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:44:27 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:44:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[27-Oct-2020 15:48:35 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 04:33:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 04:34:18 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 04:34:34 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 04:34:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 04:35:17 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 04:35:27 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 05:22:23 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 05:25:51 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 05:26:02 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 05:26:21 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 05:26:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 12:40:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 14:41:40 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 23:19:56 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 23:20:46 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 23:20:59 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 23:26:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 23:32:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 23:32:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 23:33:54 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[28-Oct-2020 23:33:58 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[29-Oct-2020 10:44:10 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[29-Oct-2020 10:45:33 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[29-Oct-2020 10:49:55 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[29-Oct-2020 21:00:41 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 05:47:30 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 05:47:38 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 05:47:45 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 05:48:22 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 05:48:26 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 06:33:22 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 13:04:05 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 13:05:37 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 13:08:35 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 14:32:20 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 14:33:06 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 14:33:52 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 14:34:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 14:55:15 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 15:36:45 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 15:42:31 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[31-Oct-2020 16:19:03 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[02-Nov-2020 11:11:29 UTC] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, null given in /home/cp41534/public_html/u-p/filesLogic.php on line 8
+[07-Feb-2021 21:19:01 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/Ticket_5413649136_1392095.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:19:01 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpq4juDX' to '../u53rUpl0ad55/Ticket_5413649136_1392095.pdf' in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:19:28 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:19:28 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYvTLI5' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:19:39 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:19:39 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHiUDco' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:19:59 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:19:59 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1W18Or' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:32:15 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:32:15 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXmOQta' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/up/filesLogic.php on line 37
+[07-Feb-2021 21:35:41 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:35:41 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxTVyhZ' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:36:38 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/Ticket_5413649136_1392095.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:36:38 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVby1fU' to '../u53rUpl0ad55/Ticket_5413649136_1392095.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:36:40 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/Ticket_5413649136_1392095.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:36:40 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpxD8dg7' to '../u53rUpl0ad55/Ticket_5413649136_1392095.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:47:36 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:47:36 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvbf8J7' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:53:25 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:53:25 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPDp8rP' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:55:05 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/Ticket_5413649136_1392095.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 21:55:05 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJZMLLI' to '../u53rUpl0ad55/Ticket_5413649136_1392095.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:05:50 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:05:50 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4qZGLx' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:09:15 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/Ticket_5413649136_1392095.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:09:15 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPa0Hu0' to '../u53rUpl0ad55/Ticket_5413649136_1392095.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:15:44 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/Ticket_5413649136_1392095.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:15:44 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSoVjui' to '../u53rUpl0ad55/Ticket_5413649136_1392095.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:25:57 Asia/Tehran] PHP Parse error:  syntax error, unexpected end of file in /home/cp41534/public_html/u-p/filesLogic.php on line 94
+[07-Feb-2021 22:26:29 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:26:29 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkODV03' to '../u53rUpl0ad55/535dd9ef-da5c-41d8-9246-55f98468a39c.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:28:20 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/Ticket_5413649136_1392095.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[07-Feb-2021 22:28:20 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQ0neNa' to '../u53rUpl0ad55/Ticket_5413649136_1392095.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[23-Feb-2021 22:02:50 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/Ticket_5413649136_1392095.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[23-Feb-2021 22:02:50 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNLDlMe' to '../u53rUpl0ad55/Ticket_5413649136_1392095.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[12-Mar-2021 13:04:22 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/اصلاحیه نهایی کتاب نکته و تست روانشناسی رشد.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[12-Mar-2021 13:04:22 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpA8AnbI' to '../u53rUpl0ad55/اصلاحیه نهایی کتاب نکته و تست روانشناسی رشد.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[03-Apr-2021 23:05:54 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/An important file.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[03-Apr-2021 23:05:54 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAXECXM' to '../u53rUpl0ad55/An important file.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[03-Apr-2021 23:10:29 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/An important file.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[03-Apr-2021 23:10:29 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpi5zeJi' to '../u53rUpl0ad55/An important file.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[03-Apr-2021 23:12:11 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/An important file.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[03-Apr-2021 23:12:11 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHMOF1o' to '../u53rUpl0ad55/An important file.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[03-Apr-2021 23:13:40 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/An important file.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[03-Apr-2021 23:13:40 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgzCAFs' to '../u53rUpl0ad55/An important file.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[18-Apr-2021 11:12:34 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/نقش کن مرا.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[18-Apr-2021 11:12:34 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpK2y6zd' to '../u53rUpl0ad55/نقش کن مرا.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[18-Apr-2021 11:12:55 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/نقش کن مرا.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[18-Apr-2021 11:12:55 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7uf9Ok' to '../u53rUpl0ad55/نقش کن مرا.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[27-Apr-2021 10:16:14 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/کامل.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[27-Apr-2021 10:16:14 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAybeCC' to '../u53rUpl0ad55/کامل.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[29-Apr-2021 19:05:20 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/ارکان.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[29-Apr-2021 19:05:20 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php25RSGP' to '../u53rUpl0ad55/ارکان.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 02:02:11 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/ناشناخته ی کتاب های خیابان تاریک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 02:02:11 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMPsAK1' to '../u53rUpl0ad55/ناشناخته ی کتاب های خیابان تاریک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 02:04:00 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/ناشناخته ی کتاب های خیابان تاریک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 02:04:00 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpy1NwJX' to '../u53rUpl0ad55/ناشناخته ی کتاب های خیابان تاریک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 02:04:06 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/ناشناخته ی کتاب های خیابان تاریک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 02:04:06 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJYRsvF' to '../u53rUpl0ad55/ناشناخته ی کتاب های خیابان تاریک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 10:50:06 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/ناشناخته ی کتاب های خیابان تاریک.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 10:50:06 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpecMw0s' to '../u53rUpl0ad55/ناشناخته ی کتاب های خیابان تاریک.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 15:33:55 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/book.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 15:33:55 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgYMEaD' to '../u53rUpl0ad55/book.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 15:34:33 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/When Nietzsche Wept - Yalom, Irvin D_.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 15:34:33 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpe1DHtS' to '../u53rUpl0ad55/When Nietzsche Wept - Yalom, Irvin D_.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 15:36:11 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/book.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 15:36:11 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptrEbbY' to '../u53rUpl0ad55/book.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:20:04 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/فایل های کتاب.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:20:04 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptsY6OQ' to '../u53rUpl0ad55/فایل های کتاب.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:20:19 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/فایل های کتاب.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:20:19 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php34rCBF' to '../u53rUpl0ad55/فایل های کتاب.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:20:46 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/فایل های کتاب.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:20:46 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnAGNoq' to '../u53rUpl0ad55/فایل های کتاب.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:21:09 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/فایل های کتاب.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:21:09 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpSVgZle' to '../u53rUpl0ad55/فایل های کتاب.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:23:05 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/فایل های کتاب.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[05-May-2021 18:23:05 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpG5LRgG' to '../u53rUpl0ad55/فایل های کتاب.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[06-May-2021 11:06:23 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/test.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[06-May-2021 11:06:23 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUTAir8' to '../u53rUpl0ad55/test.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[06-May-2021 11:06:52 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/test.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[06-May-2021 11:06:52 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXdkdcS' to '../u53rUpl0ad55/test.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[08-May-2021 17:40:04 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/test.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[08-May-2021 17:40:04 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFcA0lT' to '../u53rUpl0ad55/test.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[08-May-2021 17:47:05 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/test.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[08-May-2021 17:47:05 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1svAmc' to '../u53rUpl0ad55/test.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:08:59 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/کتاب شوالیه املاک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:08:59 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4DgIrE' to '../u53rUpl0ad55/کتاب شوالیه املاک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:09:28 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/کتاب شوالیه املاک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:09:28 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdwsvS7' to '../u53rUpl0ad55/کتاب شوالیه املاک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:09:57 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/کتاب شوالیه املاک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:09:57 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphHwWhY' to '../u53rUpl0ad55/کتاب شوالیه املاک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:10:30 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/کتاب شوالیه املاک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:10:30 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYg59UY' to '../u53rUpl0ad55/کتاب شوالیه املاک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:10:48 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/کتاب شوالیه املاک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:10:48 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpijIYaK' to '../u53rUpl0ad55/کتاب شوالیه املاک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:48:43 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/کتاب شوالیه املاک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 18:48:43 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppT7kaS' to '../u53rUpl0ad55/کتاب شوالیه املاک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 19:00:03 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/1.zip): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 19:00:03 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7TDnu0' to '../u53rUpl0ad55/1.zip' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 19:08:35 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/9ba3a46c313641949dbc378793b97533-compressed-da0003b8a1f7165c50238453025594fe.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 19:08:35 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpviCyZT' to '../u53rUpl0ad55/9ba3a46c313641949dbc378793b97533-compressed-da0003b8a1f7165c50238453025594fe.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 19:55:06 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/9ba3a46c313641949dbc378793b97533-compressed-da0003b8a1f7165c50238453025594fe.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 19:55:06 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMC6ZJn' to '../u53rUpl0ad55/9ba3a46c313641949dbc378793b97533-compressed-da0003b8a1f7165c50238453025594fe.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 19:55:38 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/شوالیه املاک.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 19:55:38 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUEiUKb' to '../u53rUpl0ad55/شوالیه املاک.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 20:01:11 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/9ba3a46c313641949dbc378793b97533-compressed-da0003b8a1f7165c50238453025594fe.pdf): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[09-May-2021 20:01:11 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuKcMdP' to '../u53rUpl0ad55/9ba3a46c313641949dbc378793b97533-compressed-da0003b8a1f7165c50238453025594fe.pdf' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[12-May-2021 12:51:02 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/نقش کن مرا.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[12-May-2021 12:51:02 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpULz8Tz' to '../u53rUpl0ad55/نقش کن مرا.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[12-May-2021 12:53:26 Asia/Tehran] PHP Warning:  move_uploaded_file(../u53rUpl0ad55/نقش کن مرا.docx): failed to open stream: No such file or directory in /home/cp41534/public_html/u-p/filesLogic.php on line 37
+[12-May-2021 12:53:26 Asia/Tehran] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfPY3Dw' to '../u53rUpl0ad55/نقش کن مرا.docx' in /home/cp41534/public_html/u-p/filesLogic.php on line 37

@@ -1,0 +1,2536 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Xecuter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 07:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: framework/admin/ui/logo-options.php:44
+msgid " In pixels"
+msgstr ""
+
+#: inc/widgets/widget-featured-1c.php:140
+#: inc/widgets/widget-featured-2c.php:140
+#: inc/widgets/widget-featured-3c.php:130
+msgid " Space in Between Posts"
+msgstr ""
+
+#: framework/builder/builder-options.php:16
+msgid "&"
+msgstr ""
+
+#: functions.php:284
+msgid "0"
+msgstr ""
+
+#: functions.php:285 framework/builder/builder-options.php:20
+#: framework/menu/menu-item-custom-fields-options.php:143
+msgid "1"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:211
+msgid "1.5x"
+msgstr ""
+
+#: framework/category-meta.php:248 framework/builder/block-panel.php:479
+#: framework/builder/block-panel.php:487
+msgid "1/1"
+msgstr ""
+
+#: framework/builder/builder-options.php:29
+msgid "10"
+msgstr ""
+
+#: framework/category-meta.php:260
+msgid "16/6"
+msgstr ""
+
+#: framework/category-meta.php:246 framework/builder/block-panel.php:464
+#: framework/builder/block-panel.php:469 framework/builder/block-panel.php:477
+#: framework/builder/block-panel.php:485
+#: framework/menu/menu-item-custom-fields-options.php:184
+msgid "16/9"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:210
+msgid "1x"
+msgstr ""
+
+#: framework/builder/builder-options.php:21
+#: framework/menu/menu-item-custom-fields-options.php:144
+msgid "2"
+msgstr ""
+
+#: framework/category-meta.php:259
+msgid "2/5"
+msgstr ""
+
+#: framework/builder/builder-options.php:22
+#: framework/menu/menu-item-custom-fields-options.php:145
+msgid "3"
+msgstr ""
+
+#: framework/category-meta.php:249 framework/builder/block-panel.php:488
+msgid "3/5"
+msgstr ""
+
+#: framework/category-meta.php:270
+msgid "300px"
+msgstr ""
+
+#: framework/builder/builder-options.php:23
+#: framework/menu/menu-item-custom-fields-options.php:146
+msgid "4"
+msgstr ""
+
+#: framework/category-meta.php:247 framework/builder/block-panel.php:470
+#: framework/builder/block-panel.php:478 framework/builder/block-panel.php:486
+#: framework/menu/menu-item-custom-fields-options.php:185
+msgid "4/3"
+msgstr ""
+
+#: framework/category-meta.php:271
+msgid "400px"
+msgstr ""
+
+#: framework/builder/builder-options.php:24
+#: framework/menu/menu-item-custom-fields-options.php:147
+msgid "5"
+msgstr ""
+
+#: framework/builder/block-panel.php:463
+msgid "5/2"
+msgstr ""
+
+#: framework/category-meta.php:272
+msgid "500px"
+msgstr ""
+
+#: framework/builder/builder-options.php:25
+#: framework/menu/menu-item-custom-fields-options.php:148
+msgid "6"
+msgstr ""
+
+#: framework/category-meta.php:273
+msgid "600px"
+msgstr ""
+
+#: framework/builder/builder-options.php:26
+msgid "7"
+msgstr ""
+
+#: framework/builder/builder-options.php:27
+msgid "8"
+msgstr ""
+
+#: framework/builder/builder-options.php:28
+msgid "9"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:12
+msgid "Above Content Area"
+msgstr ""
+
+#: inc/widget.php:281
+msgid "Above Content For Ads"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:30
+msgid "Above Main Column Area"
+msgstr ""
+
+#: inc/widget.php:305
+msgid "Above Main Column For Ads"
+msgstr ""
+
+#: framework/builder/builder.php:23 framework/builder/builder.php:235
+#: framework/builder/builder.php:308
+msgid "Add"
+msgstr ""
+
+#: framework/builder/builder.php:246
+msgid "Add Box"
+msgstr ""
+
+#: framework/admin/ui/general.php:69
+msgid "Add Custom CSS Code"
+msgstr ""
+
+#: framework/admin/ui/general.php:62
+msgid "Add Custom Script Code"
+msgstr ""
+
+#: framework/custom-sidebar.php:64
+msgid "Add More!"
+msgstr ""
+
+#: framework/builder/builder.php:191 framework/builder/builder.php:208
+msgid "Add New Row"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:619
+msgid "Add New Slide."
+msgstr ""
+
+#: framework/custom-sidebar.php:16
+msgid "Add Sidebar"
+msgstr ""
+
+#: framework/builder/block-panel.php:210 framework/builder/builder.php:61
+msgid "Add Tab"
+msgstr ""
+
+#: inc/widgets/widget-ads-html.php:10
+msgid "Ads / Html"
+msgstr ""
+
+#: framework/builder/builder-options.php:15 inc/widgets/widget-ads.php:11
+msgid "Ads Banner"
+msgstr ""
+
+#: inc/widgets/widget-ads-html.php:11
+msgid "Ads Html Code"
+msgstr ""
+
+#: inc/widgets/widget-ads.php:61
+msgid "Ads Image path:"
+msgstr ""
+
+#: framework/builder/block-panel.php:145 framework/builder/builder.php:52
+msgid "Ads link"
+msgstr ""
+
+#: inc/widgets/widget-ads.php:65
+msgid "Ads link:"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:2
+msgid "ADS Settings"
+msgstr ""
+
+#: functions.php:314
+msgid "ago"
+msgstr ""
+
+#: framework/admin/functions.options.php:42
+#: framework/builder/block-panel.php:389 framework/builder/builder.php:33
+#: framework/menu/menu-item-custom-fields-options.php:173
+#: inc/widgets/widget-featured-1c.php:116
+#: inc/widgets/widget-featured-2c.php:116
+#: inc/widgets/widget-featured-3c.php:106 inc/widgets/widget-grid-1c.php:110
+#: inc/widgets/widget-grid-2c.php:107 inc/widgets/widget-list-1c.php:128
+#: inc/widgets/widget-list-2.php:128 inc/widgets/widget-list-3.php:124
+#: inc/widgets/widget-slider.php:130 inc/widgets/widget-text-1c.php:103
+#: inc/widgets/widget-text-2.php:115 inc/widgets/widget-text-3.php:112
+msgid "All Categories"
+msgstr ""
+
+#: framework/builder/block-panel.php:165 framework/builder/builder.php:59
+#: inc/widgets/widget-slider.php:205
+msgid "Animation Pause Time"
+msgstr ""
+
+#: framework/builder/block-panel.php:161 framework/builder/builder.php:58
+#: inc/widgets/widget-slider.php:201
+msgid "Animation Speed"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:124
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:118
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:67
+msgid "Archive Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:62
+msgid "Archive Sidebar"
+msgstr ""
+
+#: functions.php:273
+msgid "Archives"
+msgstr ""
+
+#: functions.php:316
+msgid "at"
+msgstr ""
+
+#: inc/widget.php:221 framework/builder/block-panel.php:118
+#: framework/builder/block-panel.php:458
+msgid "Author"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:64
+msgid "Author Box"
+msgstr ""
+
+#: framework/builder/builder.php:44 framework/admin/ui/blog.php:165
+#: framework/admin/ui/single-options.php:77
+msgid "Author Meta"
+msgstr ""
+
+#: functions.php:274
+msgid "Author:"
+msgstr ""
+
+#: framework/metabox.php:215 framework/metabox.php:338
+#: framework/admin/ui/styling-general.php:19
+#: framework/admin/ui/styling-general.php:86
+#: framework/admin/ui/styling-general.php:102
+#: framework/admin/ui/styling-general.php:117
+#: framework/admin/ui/styling-general.php:162
+msgid "Background Color"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:132
+msgid "Background Color Main Row"
+msgstr ""
+
+#: framework/category-meta.php:335 framework/metabox.php:233
+#: framework/metabox.php:356 framework/admin/ui/styling-general.php:38
+msgid "Background Pattern"
+msgstr ""
+
+#: framework/builder/block-panel.php:170 framework/builder/builder.php:68
+msgid "Background Thumb"
+msgstr ""
+
+#: framework/category-meta.php:315 framework/category-meta.php:323
+#: framework/metabox.php:222 framework/metabox.php:345
+#: framework/admin/ui/styling-general.php:27
+msgid "Background Type"
+msgstr ""
+
+#: framework/builder/builder.php:70 framework/builder/builder.php:329
+msgid "Backround Color"
+msgstr ""
+
+#: framework/builder/builder.php:69 framework/builder/builder.php:328
+msgid "Backround Image"
+msgstr ""
+
+#: framework/admin/functions.options.php:167
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:740
+#: framework/admin/functions.options.php:161
+msgid "Backup Options"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:79
+msgid "bbPress Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:74
+msgid "bbPress Sidebar"
+msgstr ""
+
+#: framework/admin/ui/networking.php:156
+msgid "Behance"
+msgstr ""
+
+#: inc/widget.php:329 framework/admin/ui/ads-settings.php:48
+msgid "Below Article Area"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:21
+msgid "Below Content Area"
+msgstr ""
+
+#: inc/widget.php:293
+msgid "Below Content For Ads"
+msgstr ""
+
+#: inc/widget.php:317 framework/admin/ui/ads-settings.php:39
+msgid "Below Main Column Area"
+msgstr ""
+
+#: framework/builder/block-panel.php:447
+msgid "Best Reviews"
+msgstr ""
+
+#: framework/builder/block-panel.php:448
+msgid "Best Reviews 1 day ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:450
+msgid "Best Reviews 1 month ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:449
+msgid "Best Reviews 1 week ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:451
+msgid "Best Reviews 1 year ago"
+msgstr ""
+
+#: framework/metabox.php:443
+msgid "Between 0 to 100"
+msgstr ""
+
+#: framework/admin/ui/blog.php:2
+msgid "Blog"
+msgstr ""
+
+#: framework/category-meta.php:298
+msgid "Blog Author Meta"
+msgstr ""
+
+#: framework/category-meta.php:296
+msgid "Blog Categories Meta"
+msgstr ""
+
+#: framework/category-meta.php:301
+msgid "Blog Comments Meta"
+msgstr ""
+
+#: framework/category-meta.php:299
+msgid "Blog Date Meta"
+msgstr ""
+
+#: framework/admin/ui/blog.php:12
+msgid "Blog in Homepage"
+msgstr ""
+
+#: framework/category-meta.php:142 framework/category-meta.php:188
+#: framework/admin/ui/blog.php:30 framework/admin/ui/blog.php:45
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/admin/ui/blog.php:145
+msgid "Blog Post Meta Settings"
+msgstr ""
+
+#: framework/category-meta.php:297
+msgid "Blog Review Meta"
+msgstr ""
+
+#: framework/admin/ui/blog.php:21
+msgid "Blog Title"
+msgstr ""
+
+#: framework/category-meta.php:300
+msgid "Blog Views Meta"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:9
+msgid "Body Style"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:113
+msgid "Breadcrumbs Style"
+msgstr ""
+
+#. Name of the template
+msgid "Builder Template"
+msgstr ""
+
+#: functions.php:283
+msgid "by"
+msgstr ""
+
+#: framework/builder/builder-options.php:6
+msgid "Carousel"
+msgstr ""
+
+#: framework/admin/ui/blog.php:149 framework/admin/ui/single-options.php:93
+msgid "Categories Meta"
+msgstr ""
+
+#: inc/widget.php:218 framework/builder/block-panel.php:44
+#: framework/builder/block-panel.php:48 framework/builder/builder.php:29
+#: framework/admin/ui/single-options.php:208
+msgid "Category"
+msgstr ""
+
+#: framework/builder/block-panel.php:110 framework/builder/builder.php:41
+msgid "Category Meta"
+msgstr ""
+
+#: framework/metabox.php:482
+msgid "checkbox Show Featured Video"
+msgstr ""
+
+#: framework/metabox.php:408
+msgid "checkbox Show Review Post"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:195
+msgid "Choose Icon"
+msgstr ""
+
+#: framework/category-meta.php:349 framework/metabox.php:248
+#: framework/metabox.php:371 framework/builder/builder.php:74
+msgid "Choose Image"
+msgstr ""
+
+#: framework/metabox.php:417
+msgid "Circular"
+msgstr ""
+
+#: framework/metabox.php:61
+msgid "Circular Review"
+msgstr ""
+
+#: framework/builder/block-panel.php:153 framework/builder/builder.php:54
+msgid "Code"
+msgstr ""
+
+#: inc/widgets/widget-ads-html.php:47
+msgid "Code:"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:63
+msgid "Color Logo Description"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:50
+msgid "Color Logo Title"
+msgstr ""
+
+#: framework/builder/builder-options.php:8
+msgid "Column"
+msgstr ""
+
+#: framework/category-meta.php:81
+#: framework/menu/menu-item-custom-fields-options.php:142
+#: framework/admin/ui/general.php:21
+msgid "Columns"
+msgstr ""
+
+#: functions.php:322
+msgid "Comment Already"
+msgstr ""
+
+#: inc/widget.php:220 framework/builder/block-panel.php:115
+#: framework/builder/block-panel.php:455
+msgid "Comments"
+msgstr ""
+
+#: functions.php:323
+msgid "Comments Already"
+msgstr ""
+
+#: functions.php:324
+msgid "Comments are Closed."
+msgstr ""
+
+#: framework/admin/ui/single-options.php:230
+msgid "Comments Layout"
+msgstr ""
+
+#: framework/builder/builder.php:47 framework/admin/ui/blog.php:190
+#: framework/admin/ui/single-options.php:109
+msgid "Comments Meta"
+msgstr ""
+
+#: functions.php:286
+msgid "Comments Off"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:226
+msgid "Comments Settings"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:60
+#: framework/admin/ui/header-options.php:85
+msgid ""
+"Controls right (left on RTL) menu padding. Use a number without \"px\", "
+"Example 10"
+msgstr ""
+
+#: framework/functions.php:69
+msgid "Create Navigation Menu"
+msgstr ""
+
+#: framework/admin/ui/general.php:68
+msgid "CSS Code"
+msgstr ""
+
+#: framework/category-meta.php:347
+msgid "Custom Background"
+msgstr ""
+
+#: framework/metabox.php:246 framework/metabox.php:369
+#: framework/admin/ui/styling-general.php:52
+msgid "Custom Background Image"
+msgstr ""
+
+#: framework/category-meta.php:136
+msgid "Custom Blog"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:112
+msgid "Custom Favicon"
+msgstr ""
+
+#: framework/category-meta.php:329 framework/metabox.php:228
+#: framework/metabox.php:351 framework/admin/ui/logo-options.php:17
+#: framework/admin/ui/styling-general.php:34
+msgid "Custom Image"
+msgstr ""
+
+#: framework/metabox.php:90
+msgid "Custom Image Ratio"
+msgstr ""
+
+#: framework/category-meta.php:117 framework/metabox.php:103
+#: framework/metabox.php:287
+msgid "Custom Sidebar"
+msgstr ""
+
+#: framework/builder/block-panel.php:375 framework/builder/builder.php:35
+msgid "Custom Slides"
+msgstr ""
+
+#: framework/category-meta.php:304
+msgid "Custom Style"
+msgstr ""
+
+#: framework/custom-sidebar.php:85
+msgid "Custom-Sidebar"
+msgstr ""
+
+#: framework/builder/block-panel.php:499
+msgid "Dark"
+msgstr ""
+
+#: functions.php:289
+msgid "Dashboard"
+msgstr ""
+
+#: inc/widget.php:219 framework/builder/block-panel.php:117
+#: framework/builder/block-panel.php:457
+#: framework/admin/ui/header-options.php:192
+msgid "Date"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:203
+msgid "Date Alignment"
+msgstr ""
+
+#: framework/builder/builder.php:45 framework/admin/ui/blog.php:173
+#: framework/admin/ui/single-options.php:85
+msgid "Date Meta"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:188
+msgid "Date Options"
+msgstr ""
+
+#: functions.php:307
+msgid "Day"
+msgstr ""
+
+#: functions.php:306
+msgid "Days"
+msgstr ""
+
+#: framework/category-meta.php:124 framework/category-meta.php:326
+#: framework/metabox.php:93 framework/metabox.php:106 framework/metabox.php:127
+#: framework/metabox.php:137 framework/metabox.php:147
+#: framework/metabox.php:157 framework/metabox.php:168
+#: framework/metabox.php:180 framework/metabox.php:190
+#: framework/metabox.php:200 framework/metabox.php:225
+#: framework/metabox.php:290 framework/metabox.php:314
+#: framework/metabox.php:324 framework/metabox.php:348
+#: framework/admin/functions.options.php:10
+#: framework/menu/menu-item-custom-fields-options.php:209
+msgid "Default"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:1071
+msgid "Delete"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:1068
+msgid "Description (optional)"
+msgstr ""
+
+#: framework/builder/block-panel.php:128
+msgid "Details in Vertical align middle"
+msgstr ""
+
+#: framework/admin/ui/networking.php:78
+msgid "DeviantArt"
+msgstr ""
+
+#: framework/admin/ui/networking.php:113
+msgid "Digg"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:17
+#: framework/admin/ui/ads-settings.php:26
+#: framework/admin/ui/ads-settings.php:35
+#: framework/admin/ui/ads-settings.php:44
+#: framework/admin/ui/ads-settings.php:53 framework/admin/ui/blog.php:17
+#: framework/admin/ui/blog.php:116 framework/admin/ui/blog.php:139
+#: framework/admin/ui/blog.php:153 framework/admin/ui/blog.php:161
+#: framework/admin/ui/blog.php:169 framework/admin/ui/blog.php:177
+#: framework/admin/ui/blog.php:186 framework/admin/ui/blog.php:194
+#: framework/admin/ui/general.php:12 framework/admin/ui/header-options.php:16
+#: framework/admin/ui/header-options.php:80
+#: framework/admin/ui/header-options.php:112
+#: framework/admin/ui/header-options.php:142
+#: framework/admin/ui/header-options.php:169
+#: framework/admin/ui/header-options.php:195
+#: framework/admin/ui/sidebars-options.php:15
+#: framework/admin/ui/sidebars-options.php:23
+#: framework/admin/ui/single-options.php:43
+#: framework/admin/ui/single-options.php:51
+#: framework/admin/ui/single-options.php:60
+#: framework/admin/ui/single-options.php:68
+#: framework/admin/ui/single-options.php:81
+#: framework/admin/ui/single-options.php:89
+#: framework/admin/ui/single-options.php:97
+#: framework/admin/ui/single-options.php:105
+#: framework/admin/ui/single-options.php:113
+#: framework/admin/ui/single-options.php:126
+#: framework/admin/ui/single-options.php:134
+#: framework/admin/ui/single-options.php:142
+#: framework/admin/ui/single-options.php:150
+#: framework/admin/ui/single-options.php:158
+#: framework/admin/ui/single-options.php:169
+#: framework/admin/ui/single-options.php:182
+msgid "Disable"
+msgstr ""
+
+#: framework/builder/block-panel.php:18 framework/builder/builder.php:22
+#: framework/builder/builder.php:322 framework/builder/builder.php:355
+msgid "Done"
+msgstr ""
+
+#: framework/admin/ui/blog.php:135
+msgid "Donot Load All Page in Pagenavi"
+msgstr ""
+
+#: framework/admin/ui/networking.php:50
+msgid "dribbble"
+msgstr ""
+
+#: framework/admin/ui/networking.php:64
+msgid "Dropbox"
+msgstr ""
+
+#: functions.php:282
+msgid "Edit"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:16
+#: framework/admin/ui/ads-settings.php:25
+#: framework/admin/ui/ads-settings.php:34
+#: framework/admin/ui/ads-settings.php:43
+#: framework/admin/ui/ads-settings.php:52 framework/admin/ui/blog.php:16
+#: framework/admin/ui/blog.php:115 framework/admin/ui/blog.php:138
+#: framework/admin/ui/blog.php:152 framework/admin/ui/blog.php:160
+#: framework/admin/ui/blog.php:168 framework/admin/ui/blog.php:176
+#: framework/admin/ui/blog.php:185 framework/admin/ui/blog.php:193
+#: framework/admin/ui/general.php:11 framework/admin/ui/header-options.php:15
+#: framework/admin/ui/header-options.php:79
+#: framework/admin/ui/header-options.php:194
+#: framework/admin/ui/sidebars-options.php:14
+#: framework/admin/ui/sidebars-options.php:22
+#: framework/admin/ui/single-options.php:42
+#: framework/admin/ui/single-options.php:50
+#: framework/admin/ui/single-options.php:59
+#: framework/admin/ui/single-options.php:67
+#: framework/admin/ui/single-options.php:80
+#: framework/admin/ui/single-options.php:88
+#: framework/admin/ui/single-options.php:96
+#: framework/admin/ui/single-options.php:104
+#: framework/admin/ui/single-options.php:112
+#: framework/admin/ui/single-options.php:125
+#: framework/admin/ui/single-options.php:133
+#: framework/admin/ui/single-options.php:141
+#: framework/admin/ui/single-options.php:149
+#: framework/admin/ui/single-options.php:157
+#: framework/admin/ui/single-options.php:168
+#: framework/admin/ui/single-options.php:181
+msgid "Enable"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:13
+#: framework/admin/ui/ads-settings.php:31
+msgid "Enable Ads Widget In Above Content"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:49
+msgid "Enable Ads Widget In Below Article"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:22
+msgid "Enable Ads Widget In Below Content"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:40
+msgid "Enable Ads Widget In Below Main Column Area"
+msgstr ""
+
+#: framework/admin/ui/blog.php:13
+msgid "Enable Blog In The Homepage"
+msgstr ""
+
+#: framework/category-meta.php:138
+msgid "Enable Custom Blog"
+msgstr ""
+
+#: framework/category-meta.php:78
+msgid "Enable Custom Columns"
+msgstr ""
+
+#: functions.php:276
+msgid "Error 404"
+msgstr ""
+
+#: framework/admin/options.php:12
+msgid "Error!"
+msgstr ""
+
+#: framework/metabox.php:501
+msgid ""
+"Example For Youtuble , Copy \"p1ewg7Xvuo0\" in \"https://www.youtube."
+"com/watch?v=p1ewg7Xvuo0\""
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:145
+msgid "Excerpt Color Posts"
+msgstr ""
+
+#: framework/admin/ui/typography.php:12
+msgid "Exmple Google Font"
+msgstr ""
+
+#: framework/admin/ui/typography.php:42
+msgid "Exmple Standard Font"
+msgstr ""
+
+#: framework/admin/options.php:37
+msgid "Expand"
+msgstr ""
+
+#: framework/admin/ui/networking.php:20
+msgid "Facebook"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:130
+msgid "Facebook Button"
+msgstr ""
+
+#: framework/builder/block-panel.php:494
+msgid "Fade"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:125
+msgid "Favicon for Apple iPad (72px x 72px)."
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:119
+msgid "Favicon for Apple iPhone (57px x 57px)."
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:113
+msgid "Favicon for your Website"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:107
+msgid "Favicon Options"
+msgstr ""
+
+#: framework/builder/builder-options.php:9
+msgid "Featured"
+msgstr ""
+
+#: framework/metabox.php:56
+msgid "Featured Image Meta"
+msgstr ""
+
+#: framework/metabox.php:479
+msgid "Featured Video"
+msgstr ""
+
+#: framework/metabox.php:487
+msgid "Featured Video Type"
+msgstr ""
+
+#: framework/metabox.php:498
+msgid "Featured Video Url"
+msgstr ""
+
+#: functions.php:278
+msgid "First"
+msgstr ""
+
+#: framework/admin/ui/networking.php:71
+msgid "Flickr"
+msgstr ""
+
+#: framework/admin/ui/typography.php:23 framework/admin/ui/typography.php:55
+msgid "Font Family Body"
+msgstr ""
+
+#: framework/admin/ui/typography.php:29 framework/admin/ui/typography.php:61
+msgid "Font Family Logo"
+msgstr ""
+
+#: framework/admin/ui/typography.php:113
+msgid "Font Line Heights"
+msgstr ""
+
+#: framework/admin/ui/typography.php:69
+msgid "Font Size"
+msgstr ""
+
+#: framework/admin/ui/typography.php:104
+msgid "Font Size Article Text"
+msgstr ""
+
+#: framework/admin/ui/typography.php:88
+msgid "Font Size Breadcrumbs"
+msgstr ""
+
+#: framework/admin/ui/typography.php:74
+msgid "Font Size in Main Head"
+msgstr ""
+
+#: framework/admin/ui/typography.php:81
+msgid "Font Size in Top Header"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:56
+msgid "Font Size Logo Description"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:43
+msgid "Font Size Logo Title"
+msgstr ""
+
+#: framework/admin/ui/typography.php:95
+msgid "Font Size Title Box"
+msgstr ""
+
+#: inc/widget.php:247
+msgid "Footer Column 1"
+msgstr ""
+
+#: inc/widget.php:258
+msgid "Footer Column 2"
+msgstr ""
+
+#: inc/widget.php:269
+msgid "Footer Column 3"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:157
+msgid "Footer Style"
+msgstr ""
+
+#: framework/builder/block-panel.php:149 framework/builder/builder.php:53
+msgid "Full Size Image"
+msgstr ""
+
+#: inc/widgets/widget-ads.php:69
+msgid "Full Size Image:"
+msgstr ""
+
+#: framework/metabox.php:117 framework/metabox.php:304
+msgid "Full Width Post"
+msgstr ""
+
+#: framework/category-meta.php:75 framework/admin/ui/general.php:2
+msgid "General"
+msgstr ""
+
+#: framework/admin/ui/blog.php:8
+msgid "General Blog Options"
+msgstr ""
+
+#: framework/metabox.php:5 framework/metabox.php:8
+msgid "General Options"
+msgstr ""
+
+#: framework/admin/ui/typography.php:8
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/admin/ui/networking.php:34
+msgid "Google+"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:138
+msgid "Google+ Button"
+msgstr ""
+
+#: framework/builder/builder-options.php:12
+msgid "Grid"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:21
+msgid "Header Height"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:2
+msgid "Header Options"
+msgstr ""
+
+#: framework/builder/block-panel.php:67 framework/builder/block-panel.php:71
+#: framework/builder/builder.php:63
+msgid "Height"
+msgstr ""
+
+#: framework/metabox.php:138 framework/metabox.php:148
+#: framework/metabox.php:158 framework/metabox.php:169
+#: framework/metabox.php:181 framework/metabox.php:191
+#: framework/metabox.php:201 framework/metabox.php:315
+#: framework/metabox.php:325 framework/admin/ui/general.php:43
+msgid "Hide"
+msgstr ""
+
+#: framework/metabox.php:165
+msgid "Hide Author Bio"
+msgstr ""
+
+#: framework/metabox.php:187 framework/metabox.php:311
+msgid "Hide Below Ads Widget"
+msgstr ""
+
+#: framework/metabox.php:197 framework/metabox.php:321
+msgid "Hide Comments"
+msgstr ""
+
+#: framework/metabox.php:154
+msgid "Hide Next and Previous Post"
+msgstr ""
+
+#: framework/metabox.php:134
+msgid "Hide Post Meta"
+msgstr ""
+
+#: framework/metabox.php:144
+msgid "Hide Post Share"
+msgstr ""
+
+#: framework/metabox.php:124
+msgid "Hide Post Tags"
+msgstr ""
+
+#: framework/metabox.php:177
+msgid "Hide Related Post"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:19
+msgid "Hide Sidebar in Mobile"
+msgstr ""
+
+#: framework/builder/builder.php:31
+msgid "hieght"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:32
+msgid "Home Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:27
+msgid "Home Sidebar"
+msgstr ""
+
+#: functions.php:272
+msgid "Homepage"
+msgstr ""
+
+#: functions.php:309
+msgid "Hour"
+msgstr ""
+
+#: functions.php:308
+msgid "Hours"
+msgstr ""
+
+#: framework/builder/builder-options.php:17
+msgid "Html"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://rezadeveloper.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://rezadeveloper.com/xecuter"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:207
+msgid "Icon Size"
+msgstr ""
+
+#: framework/category-meta.php:267 framework/admin/ui/blog.php:100
+msgid "Image Height"
+msgstr ""
+
+#: framework/category-meta.php:243 framework/category-meta.php:256
+#: framework/builder/block-panel.php:75 framework/builder/block-panel.php:78
+#: framework/builder/block-panel.php:81 framework/builder/block-panel.php:84
+#: framework/builder/builder.php:64
+#: framework/menu/menu-item-custom-fields-options.php:182
+#: inc/widgets/widget-featured-1c.php:131
+#: inc/widgets/widget-featured-2c.php:131
+#: inc/widgets/widget-featured-3c.php:121 inc/widgets/widget-grid-1c.php:125
+#: inc/widgets/widget-grid-2c.php:122 inc/widgets/widget-list-1c.php:152
+#: inc/widgets/widget-list-2.php:152 inc/widgets/widget-list-3.php:148
+#: inc/widgets/widget-slider.php:145 inc/widgets/widget-text-2.php:130
+#: inc/widgets/widget-text-3.php:127 framework/admin/ui/blog.php:76
+#: framework/admin/ui/blog.php:88 framework/admin/ui/single-options.php:28
+#: framework/admin/ui/single-options.php:214
+msgid "Image Ratio"
+msgstr ""
+
+#: framework/category-meta.php:220 framework/category-meta.php:231
+#: framework/builder/block-panel.php:60 framework/builder/block-panel.php:63
+#: framework/builder/builder.php:67 inc/widgets/widget-list-1c.php:143
+#: inc/widgets/widget-list-2.php:143 inc/widgets/widget-list-3.php:139
+#: framework/admin/ui/blog.php:57 framework/admin/ui/blog.php:66
+msgid "Image Size"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:1048
+msgid "Image URL"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:751
+msgid "Import Options"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:785
+msgid "Import Predefined Styles"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:113
+#: framework/admin/ui/header-options.php:143
+#: framework/admin/ui/header-options.php:170
+msgid "in Main Header"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:57
+#: framework/admin/ui/logo-options.php:70
+#: framework/admin/ui/logo-options.php:83 framework/admin/ui/typography.php:75
+#: framework/admin/ui/typography.php:82 framework/admin/ui/typography.php:89
+#: framework/admin/ui/typography.php:96 framework/admin/ui/typography.php:105
+#: framework/admin/ui/typography.php:117
+msgid "In pixels"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:114
+#: framework/admin/ui/header-options.php:144
+#: framework/admin/ui/header-options.php:171
+msgid "in Top Header"
+msgstr ""
+
+#: framework/admin/ui/general.php:56
+msgid "input  Text in Bottom Footer"
+msgstr ""
+
+#: framework/admin/ui/networking.php:157
+msgid ""
+"Insert your custom link to show the Behance icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:79
+msgid ""
+"Insert your custom link to show the DeviantArt icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:114
+msgid "Insert your custom link to show the Digg icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:51
+msgid ""
+"Insert your custom link to show the dribbble icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:65
+msgid ""
+"Insert your custom link to show the Dropbox icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:21
+msgid ""
+"Insert your custom link to show the Facebook icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:72
+msgid ""
+"Insert your custom link to show the Flickr icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:35
+msgid ""
+"Insert your custom link to show the Google+ icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:143
+msgid ""
+"Insert your custom link to show the Instagram icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:58
+msgid ""
+"Insert your custom link to show the LinkedIn icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:150
+msgid ""
+"Insert your custom link to show the PayPal icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:136
+msgid ""
+"Insert your custom link to show the Pinterest icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:14
+msgid "Insert your custom link to show the RSS icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:107
+msgid ""
+"Insert your custom link to show the Skype icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:121
+msgid ""
+"Insert your custom link to show the StumbleUpon icon. Leave blank to hide "
+"icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:42
+msgid ""
+"Insert your custom link to show the Telegram icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:128
+msgid ""
+"Insert your custom link to show the Tumblr icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:28
+msgid ""
+"Insert your custom link to show the Twitter icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:100
+msgid ""
+"Insert your custom link to show the Vimeo icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:93
+msgid ""
+"Insert your custom link to show the yahoo icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:86
+msgid ""
+"Insert your custom link to show the YouTube icon. Leave blank to hide icon"
+msgstr ""
+
+#: framework/admin/ui/networking.php:142
+msgid "Instagram"
+msgstr ""
+
+#: inc/widget.php:283 inc/widget.php:295 inc/widget.php:307 inc/widget.php:319
+#: inc/widget.php:331
+msgid "just for show ADS widget"
+msgstr ""
+
+#: framework/category-meta.php:224 framework/category-meta.php:236
+#: framework/builder/block-panel.php:399 framework/builder/block-panel.php:407
+#: framework/admin/ui/blog.php:62 framework/admin/ui/blog.php:72
+msgid "Large"
+msgstr ""
+
+#: functions.php:279
+msgid "Last"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:739
+msgid "Last Backup :"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:72
+#: framework/admin/ui/header-options.php:99
+#: framework/admin/ui/header-options.php:128
+#: framework/admin/ui/header-options.php:155
+#: framework/admin/ui/header-options.php:182
+#: framework/admin/ui/header-options.php:208
+#: framework/admin/ui/logo-options.php:101
+msgid "Left"
+msgstr ""
+
+#: framework/builder/block-panel.php:498
+msgid "Light"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:47
+msgid "Light Box Image"
+msgstr ""
+
+#: framework/category-meta.php:289 framework/builder/block-panel.php:106
+#: framework/builder/builder.php:40 inc/widgets/widget-featured-1c.php:159
+#: inc/widgets/widget-featured-2c.php:159 inc/widgets/widget-grid-1c.php:143
+#: inc/widgets/widget-list-1c.php:170 inc/widgets/widget-list-2.php:170
+#: inc/widgets/widget-slider.php:168 inc/widgets/widget-text-1c.php:127
+#: inc/widgets/widget-text-2.php:148 framework/admin/ui/blog.php:127
+msgid "Limit Excerpt length"
+msgstr ""
+
+#: framework/category-meta.php:281 framework/builder/block-panel.php:101
+#: framework/builder/builder.php:39 inc/widgets/widget-featured-1c.php:154
+#: inc/widgets/widget-featured-2c.php:154 inc/widgets/widget-grid-1c.php:138
+#: inc/widgets/widget-grid-2c.php:131 inc/widgets/widget-list-1c.php:165
+#: inc/widgets/widget-list-2.php:165 inc/widgets/widget-list-3.php:158
+#: inc/widgets/widget-slider.php:163 inc/widgets/widget-text-1c.php:122
+#: inc/widgets/widget-text-2.php:143 inc/widgets/widget-text-3.php:136
+#: framework/admin/ui/blog.php:119
+msgid "Limit Title length"
+msgstr ""
+
+#: framework/admin/ui/typography.php:116
+msgid "Line Height Article Text"
+msgstr ""
+
+#: inc/widgets/widget-text-link.php:49
+msgid "Link"
+msgstr ""
+
+#: framework/builder/builder.php:331 framework/admin/ui/styling-general.php:168
+msgid "Link Color"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:140
+msgid "Link Color Title Posts"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:1065
+msgid "Link URL (optional)"
+msgstr ""
+
+#: framework/admin/ui/networking.php:57
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:146
+msgid "Linkedin Button"
+msgstr ""
+
+#: framework/builder/builder-options.php:13
+#: framework/admin/ui/single-options.php:235
+msgid "List"
+msgstr ""
+
+#: functions.php:287
+msgid "Load more"
+msgstr ""
+
+#: functions.php:292
+msgid "Log In"
+msgstr ""
+
+#: functions.php:291
+msgid "Log Out"
+msgstr ""
+
+#: inc/widgets/widget-login.php:92
+msgid "Login"
+msgstr ""
+
+#: inc/widgets/widget-login.php:10 framework/admin/ui/header-options.php:108
+msgid "Login Form"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:124
+msgid "Login Form Alignment"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:104
+msgid "Login Form Options"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:97
+msgid "Logo Alignment"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:2
+msgid "Logo And Favicon"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:82
+msgid "Logo Height"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:29
+msgid "Logo Image"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:8
+msgid "Logo Options"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:13
+msgid "Logo Type"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:69
+msgid "Logo Width"
+msgstr ""
+
+#: functions.php:298
+msgid "Lost Your Password?"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:24
+msgid "Main Header Height"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:82
+msgid "Main Header Style"
+msgstr ""
+
+#: framework/functions.php:45
+msgid "Main Menu"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:68
+msgid "Main Menu Alignment"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:59
+msgid "Main Menu Item Padding"
+msgstr ""
+
+#: framework/category-meta.php:223 framework/category-meta.php:235
+#: framework/builder/block-panel.php:398 framework/builder/block-panel.php:406
+#: framework/admin/ui/blog.php:61 framework/admin/ui/blog.php:71
+msgid "Medium"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:153
+msgid "Mega Menu"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:54
+msgid "Menu Options"
+msgstr ""
+
+#: framework/builder/builder.php:333
+msgid "Meta Color"
+msgstr ""
+
+#: functions.php:311
+msgid "Minute"
+msgstr ""
+
+#: functions.php:310
+msgid "Minutes"
+msgstr ""
+
+#: functions.php:305
+msgid "Month"
+msgstr ""
+
+#: functions.php:304
+msgid "Months"
+msgstr ""
+
+#: framework/builder/block-panel.php:437
+msgid "Most Comments "
+msgstr ""
+
+#: framework/builder/block-panel.php:438
+msgid "Most Comments 1 day ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:440
+msgid "Most Comments 1 month ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:439
+msgid "Most Comments 1 week ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:441
+msgid "Most Comments 1 year ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:442
+msgid "Most Views"
+msgstr ""
+
+#: framework/builder/block-panel.php:443
+msgid "Most Views - 1 day ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:445
+msgid "Most Views - 1 month ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:444
+msgid "Most Views - 1 week ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:446
+msgid "Most Views - 1 year ago"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:68
+msgid "Mosue Over"
+msgstr ""
+
+#: framework/metabox.php:490
+msgid "Mp4"
+msgstr ""
+
+#: functions.php:281
+msgid "Next"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:56
+msgid "Next And Previous Post"
+msgstr ""
+
+#: functions.php:321
+msgid "No Comments Yet"
+msgstr ""
+
+#: framework/builder/block-panel.php:139 framework/builder/builder.php:50
+msgid "Nofollow"
+msgstr ""
+
+#: inc/widgets/widget-ads.php:57
+msgid "Nofollow:"
+msgstr ""
+
+#: framework/category-meta.php:105 framework/category-meta.php:327
+#: framework/metabox.php:59 framework/metabox.php:226 framework/metabox.php:349
+#: inc/widget.php:216 framework/admin/functions.options.php:34
+#: framework/builder/block-panel.php:497
+#: framework/menu/menu-item-custom-fields-options.php:156
+#: framework/admin/ui/styling-general.php:32
+msgid "None"
+msgstr ""
+
+#: inc/widgets/widget-recent-comments.php:85
+msgid "Number of Comments"
+msgstr ""
+
+#: inc/widgets/widget-featured-1c.php:110
+#: inc/widgets/widget-featured-2c.php:110
+#: inc/widgets/widget-featured-3c.php:100 inc/widgets/widget-grid-1c.php:104
+#: inc/widgets/widget-grid-2c.php:101 inc/widgets/widget-list-1c.php:122
+#: inc/widgets/widget-list-2.php:122 inc/widgets/widget-list-3.php:118
+#: inc/widgets/widget-slider.php:124 inc/widgets/widget-text-1c.php:97
+#: inc/widgets/widget-text-2.php:109 inc/widgets/widget-text-3.php:106
+msgid "Number of Posts"
+msgstr ""
+
+#: framework/builder/block-panel.php:31
+msgid "Number of Posts to show"
+msgstr ""
+
+#: framework/builder/builder.php:32
+msgid "Number of posts to show"
+msgstr ""
+
+#: functions.php:277
+msgid "of"
+msgstr ""
+
+#: functions.php:326
+msgid "Oops! That Page can&rsquo;t be found."
+msgstr ""
+
+#: framework/builder/block-panel.php:135 framework/builder/builder.php:49
+msgid "Open in New Window"
+msgstr ""
+
+#: inc/widgets/widget-ads.php:53
+msgid "Open in New Window:"
+msgstr ""
+
+#: framework/builder/block-panel.php:18 framework/builder/builder.php:21
+#: framework/builder/builder.php:321 framework/builder/builder.php:349
+msgid "Options"
+msgstr ""
+
+#: framework/admin/options.php:8 framework/admin/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:8
+msgid "Options Sidebar"
+msgstr ""
+
+#: framework/admin/options.php:4
+msgid "Options Updated"
+msgstr ""
+
+#: framework/builder/block-panel.php:52 framework/builder/builder.php:30
+msgid "Order by"
+msgstr ""
+
+#: framework/admin/ui/translation.php:2
+msgid "Orginal"
+msgstr ""
+
+#: functions.php:275
+msgid "Page"
+msgstr ""
+
+#: framework/builder/builder.php:108
+msgid "Page builder"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:55
+msgid "Page Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:50
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/admin/ui/blog.php:134
+msgid "Pagenavi Ajax"
+msgstr ""
+
+#: functions.php:315
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:295
+msgid "Password:"
+msgstr ""
+
+#: framework/category-meta.php:328 framework/metabox.php:227
+#: framework/metabox.php:350 framework/admin/ui/styling-general.php:33
+msgid "Pattern"
+msgstr ""
+
+#: framework/admin/ui/networking.php:149
+msgid "PayPal"
+msgstr ""
+
+#: functions.php:318
+msgid "Pingback:"
+msgstr ""
+
+#: framework/admin/ui/networking.php:135
+msgid "Pinterest"
+msgstr ""
+
+#: framework/admin/ui/blog.php:128
+msgid "Please Enter Maximum Number of characters"
+msgstr ""
+
+#: framework/admin/ui/blog.php:120
+msgid "Please enter Maximum number of characters"
+msgstr ""
+
+#: framework/builder/block-panel.php:120
+msgid "Post"
+msgstr ""
+
+#: framework/builder/block-panel.php:114 framework/builder/builder.php:42
+msgid "Post Meta"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:39
+msgid "Post Tags"
+msgstr ""
+
+#: framework/builder/builder.php:28
+msgid "Post Type"
+msgstr ""
+
+#: framework/builder/block-panel.php:36
+msgid "Post type"
+msgstr ""
+
+#: framework/builder/block-panel.php:374 framework/builder/builder.php:34
+#: framework/menu/menu-item-custom-fields-options.php:138
+msgid "Posts"
+msgstr ""
+
+#: inc/widgets/widget-featured-1c.php:11
+msgid "Posts Box Featured 1 Column"
+msgstr ""
+
+#: inc/widgets/widget-featured-2c.php:11
+msgid "Posts Box Featured 2 Column"
+msgstr ""
+
+#: inc/widgets/widget-featured-3c.php:11
+msgid "Posts Box Featured 3 Column"
+msgstr ""
+
+#: inc/widgets/widget-grid-1c.php:11
+msgid "Posts Box Grid 1 Column"
+msgstr ""
+
+#: inc/widgets/widget-grid-2c.php:11
+msgid "Posts Box Grid 2 Column"
+msgstr ""
+
+#: inc/widgets/widget-list-1c.php:11
+msgid "Posts Box List 1 Column"
+msgstr ""
+
+#: inc/widgets/widget-list-2.php:11
+msgid "Posts Box List 2"
+msgstr ""
+
+#: inc/widgets/widget-list-3.php:11
+msgid "Posts Box List 3"
+msgstr ""
+
+#: inc/widgets/widget-slider.php:11
+msgid "Posts Box Slider"
+msgstr ""
+
+#: inc/widgets/widget-text-1c.php:11
+msgid "Posts Box Text 1 Column"
+msgstr ""
+
+#: inc/widgets/widget-text-2.php:11
+msgid "Posts Box Text 2"
+msgstr ""
+
+#: inc/widgets/widget-text-3.php:11
+msgid "Posts Box Text 3"
+msgstr ""
+
+#: inc/widgets/widget-featured-1c.php:167
+#: inc/widgets/widget-featured-2c.php:167 inc/widgets/widget-grid-1c.php:151
+#: inc/widgets/widget-grid-2c.php:140 inc/widgets/widget-list-1c.php:178
+#: inc/widgets/widget-list-2.php:178 inc/widgets/widget-list-3.php:166
+#: inc/widgets/widget-slider.php:176 inc/widgets/widget-text-1c.php:131
+#: inc/widgets/widget-text-2.php:156 inc/widgets/widget-text-3.php:146
+msgid "Posts Meta"
+msgstr ""
+
+#: inc/widgets/widget-featured-1c.php:176
+#: inc/widgets/widget-featured-2c.php:176 inc/widgets/widget-grid-1c.php:160
+#: inc/widgets/widget-grid-2c.php:149 inc/widgets/widget-list-1c.php:187
+#: inc/widgets/widget-list-2.php:187 inc/widgets/widget-list-3.php:175
+#: inc/widgets/widget-slider.php:185 inc/widgets/widget-text-1c.php:140
+#: inc/widgets/widget-text-2.php:165 inc/widgets/widget-text-3.php:155
+msgid "Posts Meta 2"
+msgstr ""
+
+#: inc/widgets/widget-featured-1c.php:123
+#: inc/widgets/widget-featured-2c.php:123
+#: inc/widgets/widget-featured-3c.php:113 inc/widgets/widget-grid-1c.php:117
+#: inc/widgets/widget-grid-2c.php:114 inc/widgets/widget-list-1c.php:135
+#: inc/widgets/widget-list-2.php:135 inc/widgets/widget-list-3.php:131
+#: inc/widgets/widget-slider.php:137 inc/widgets/widget-text-1c.php:110
+#: inc/widgets/widget-text-2.php:122 inc/widgets/widget-text-3.php:119
+msgid "Posts Order"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:127
+msgid "Posts Style"
+msgstr ""
+
+#: framework/admin/functions.options.php:184
+msgid "Predefined"
+msgstr ""
+
+#: framework/admin/functions.options.php:189
+#: framework/admin/functions.options.php:213
+msgid "Predefined Layout"
+msgstr ""
+
+#: functions.php:280
+msgid "Previous"
+msgstr ""
+
+#: framework/category-meta.php:308 framework/metabox.php:208
+#: framework/metabox.php:331 framework/admin/ui/styling-general.php:13
+msgid "Primary Color"
+msgstr ""
+
+#: framework/category-meta.php:125 framework/metabox.php:107
+#: framework/metabox.php:291 inc/widget.php:234
+#: framework/admin/functions.options.php:11
+#: framework/builder/block-panel.php:366
+msgid "Primery Sidebar"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:202
+msgid "Query Type"
+msgstr ""
+
+#: framework/builder/block-panel.php:432
+msgid "Randam"
+msgstr ""
+
+#: framework/builder/block-panel.php:433
+msgid "Randam - 1 day ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:435
+msgid "Randam - 1 month ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:434
+msgid "Randam - 1 week ago"
+msgstr ""
+
+#: framework/builder/block-panel.php:436
+msgid "Randam - 1 year ago"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:140
+#: framework/admin/ui/single-options.php:210
+msgid "Random"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:139
+#: framework/admin/ui/single-options.php:207
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/widget-recent-comments.php:11
+#: inc/widgets/widget-recent-comments.php:73
+msgid "Recent Comments"
+msgstr ""
+
+#: framework/builder/block-panel.php:431 framework/admin/ui/blog.php:23
+msgid "Recent Posts"
+msgstr ""
+
+#: functions.php:297
+msgid "Register"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:178
+#: framework/admin/ui/single-options.php:195
+msgid "Related Posts"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:174
+msgid "Related Posts Settings"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:193
+msgid "Related Posts Title"
+msgstr ""
+
+#: functions.php:296
+msgid "Remember Me"
+msgstr ""
+
+#: framework/category-meta.php:353 framework/custom-sidebar.php:50
+#: framework/custom-sidebar.php:59 framework/metabox.php:252
+#: framework/metabox.php:375 framework/admin/class.options_machine.php:978
+#: framework/admin/class.options_machine.php:1054
+#: framework/builder/block-panel.php:342 framework/builder/builder.php:25
+msgid "Remove"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:198
+msgid "Remove Icon"
+msgstr ""
+
+#: framework/admin/ui/general.php:7
+msgid "Responsive Design"
+msgstr ""
+
+#. Description of the theme
+msgid "Responsive WordPress Blog Magazine Theme"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:741
+msgid "Restore Options"
+msgstr ""
+
+#: framework/metabox.php:6 inc/widget.php:217
+msgid "Review"
+msgstr ""
+
+#: framework/metabox.php:405
+msgid "Review Box"
+msgstr ""
+
+#: framework/metabox.php:431
+msgid "Review Excerpt"
+msgstr ""
+
+#: framework/metabox.php:440
+msgid "Review Score"
+msgstr ""
+
+#: framework/builder/block-panel.php:119 framework/builder/block-panel.php:459
+msgid "Review Stars"
+msgstr ""
+
+#: framework/builder/builder.php:43 framework/admin/ui/blog.php:157
+msgid "Review Stars Meta"
+msgstr ""
+
+#: framework/metabox.php:413
+msgid "Review Style"
+msgstr ""
+
+#: framework/metabox.php:424
+msgid "Review Title"
+msgstr ""
+
+#. Author of the theme
+msgid "Reza"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:73
+#: framework/admin/ui/header-options.php:100
+#: framework/admin/ui/header-options.php:129
+#: framework/admin/ui/header-options.php:156
+#: framework/admin/ui/header-options.php:183
+#: framework/admin/ui/header-options.php:209
+#: framework/admin/ui/logo-options.php:102
+msgid "Right"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:186
+msgid "Rows Per Page To Show"
+msgstr ""
+
+#: framework/admin/ui/networking.php:13
+msgid "RSS"
+msgstr ""
+
+#: framework/admin/options.php:43 framework/admin/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: framework/custom-sidebar.php:71
+msgid "Save Changes"
+msgstr ""
+
+#: framework/admin/ui/general.php:8
+msgid ""
+"SCheck this box to use the responsive design features. If left unchecked "
+"then the fixed layout is used."
+msgstr ""
+
+#: framework/admin/ui/general.php:61
+msgid "Script Code"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:138
+msgid "Search Form"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:134
+msgid "Search Form Options"
+msgstr ""
+
+#: functions.php:320
+msgid "Search Results for:"
+msgstr ""
+
+#: functions.php:319
+msgid "Search..."
+msgstr ""
+
+#: framework/admin/ui/header-options.php:151
+msgid "SearchForm Alignment"
+msgstr ""
+
+#: functions.php:313
+msgid "Second"
+msgstr ""
+
+#: functions.php:312
+msgid "Seconds"
+msgstr ""
+
+#: framework/builder/block-panel.php:302 framework/builder/builder.php:27
+msgid "Select"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:39
+msgid "Select a background pattern"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:171
+#: inc/widgets/widget-featured-1c.php:114
+#: inc/widgets/widget-featured-2c.php:114
+#: inc/widgets/widget-featured-3c.php:104 inc/widgets/widget-grid-1c.php:108
+#: inc/widgets/widget-grid-2c.php:105 inc/widgets/widget-list-1c.php:126
+#: inc/widgets/widget-list-2.php:126 inc/widgets/widget-list-3.php:122
+#: inc/widgets/widget-slider.php:128 inc/widgets/widget-text-1c.php:101
+#: inc/widgets/widget-text-2.php:113 inc/widgets/widget-text-3.php:110
+msgid "Select a Category"
+msgstr ""
+
+#: framework/admin/ui/typography.php:15
+msgid "Select a font"
+msgstr ""
+
+#: framework/category-meta.php:121 framework/builder/block-panel.php:174
+#: framework/builder/builder.php:55 framework/builder/builder.php:351
+msgid "Select a Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:68
+msgid "Select a sidebar in Archive Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:80
+msgid "Select a sidebar in bbPress Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:33
+msgid "Select a sidebar in Home Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:56
+msgid "Select a sidebar in Page Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:44
+msgid "Select a sidebar in Single Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:28
+msgid "Select Background Type Gradient , Pattern And Upload Custom Image"
+msgstr ""
+
+#: framework/category-meta.php:102 framework/admin/ui/general.php:31
+msgid "Select Page Builder"
+msgstr ""
+
+#: framework/admin/ui/general.php:32
+msgid "Select Page in Front page displays"
+msgstr ""
+
+#: framework/admin/functions.options.php:214
+msgid "Select Predefined Layout For install click \"Import Predefined Styles\""
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:195
+msgid "Set Icon"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:118
+msgid "Share Post Settings"
+msgstr ""
+
+#: framework/admin/ui/general.php:42
+msgid "Show"
+msgstr ""
+
+#: framework/admin/ui/general.php:39
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: inc/widgets/widget-featured-1c.php:163
+#: inc/widgets/widget-featured-2c.php:163 inc/widgets/widget-grid-1c.php:147
+#: inc/widgets/widget-grid-2c.php:136 inc/widgets/widget-list-1c.php:174
+#: inc/widgets/widget-list-2.php:174 inc/widgets/widget-list-3.php:162
+#: inc/widgets/widget-slider.php:172 inc/widgets/widget-text-2.php:152
+#: inc/widgets/widget-text-3.php:142
+msgid "Show Category Meta"
+msgstr ""
+
+#: framework/category-meta.php:277 framework/builder/block-panel.php:97
+#: framework/builder/builder.php:38 inc/widgets/widget-featured-1c.php:150
+#: inc/widgets/widget-featured-2c.php:150 inc/widgets/widget-grid-1c.php:134
+#: inc/widgets/widget-list-1c.php:161 inc/widgets/widget-list-2.php:161
+#: inc/widgets/widget-slider.php:159 inc/widgets/widget-text-1c.php:118
+#: inc/widgets/widget-text-2.php:139 framework/admin/ui/blog.php:112
+msgid "Show Excerpt Posts"
+msgstr ""
+
+#: framework/builder/block-panel.php:132 framework/builder/builder.php:48
+msgid "Show Load more"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:166
+msgid "Show Only in Mobile"
+msgstr ""
+
+#: framework/builder/block-panel.php:93 framework/builder/builder.php:37
+#: inc/widgets/widget-featured-1c.php:146
+#: inc/widgets/widget-featured-2c.php:146 inc/widgets/widget-slider.php:155
+msgid "Show Title Posts"
+msgstr ""
+
+#: framework/custom-sidebar.php:48 framework/custom-sidebar.php:57
+msgid "Sidebar"
+msgstr ""
+
+#: framework/custom-sidebar.php:28
+msgid "Sidebar Creator Settings"
+msgstr ""
+
+#: framework/custom-sidebar.php:16
+msgid "Sidebar Plugin Optidons"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:2
+msgid "Sidebars"
+msgstr ""
+
+#: functions.php:293
+msgid "Sing In"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:2
+msgid "Single"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:43
+msgid "Single Main Sidebar"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:73
+msgid "Single Post Meta Settings"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:8
+msgid "Single Post Template"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:38
+msgid "Single Sidebar"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:14
+msgid "Single Template"
+msgstr ""
+
+#: framework/metabox.php:66
+msgid "Single template"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:18
+msgid "Site Title"
+msgstr ""
+
+#: framework/admin/ui/networking.php:106
+msgid "Skype"
+msgstr ""
+
+#: framework/builder/block-panel.php:493 inc/widgets/widget-slider.php:114
+msgid "Slide"
+msgstr ""
+
+#: framework/builder/block-panel.php:39 framework/builder/builder-options.php:7
+#: framework/builder/builder.php:36
+msgid "Slider"
+msgstr ""
+
+#: framework/builder/block-panel.php:157 framework/builder/builder.php:57
+#: inc/widgets/widget-slider.php:193
+msgid "Slider Effect"
+msgstr ""
+
+#: framework/category-meta.php:234 framework/builder/block-panel.php:405
+#: framework/admin/ui/blog.php:70
+msgid "Small"
+msgstr ""
+
+#: inc/widgets/widget-social.php:55
+msgid "Social"
+msgstr ""
+
+#: inc/widgets/widget-social.php:10
+msgid "Social Icon"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:161
+msgid "Social Icon Options"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:165
+msgid "Social Icons"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:178
+msgid "Social Icons Alignment"
+msgstr ""
+
+#: framework/admin/ui/networking.php:2
+msgid "Social Media"
+msgstr ""
+
+#: framework/admin/ui/networking.php:9
+msgid "Social Networking"
+msgstr ""
+
+#: framework/admin/ui/typography.php:13 framework/admin/ui/typography.php:43
+msgid "Some description font"
+msgstr ""
+
+#: functions.php:327
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr ""
+
+#: framework/builder/builder.php:73 framework/builder/builder.php:336
+msgid "Space Bottom"
+msgstr ""
+
+#: framework/builder/block-panel.php:88 framework/builder/builder.php:66
+msgid "Space in Between Posts"
+msgstr ""
+
+#: framework/builder/builder.php:72 framework/builder/builder.php:335
+msgid "Space Top"
+msgstr ""
+
+#: framework/admin/ui/typography.php:38
+msgid "Standard Fonts"
+msgstr ""
+
+#: framework/metabox.php:416
+msgid "Stars"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:9
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:12
+msgid "Sticky Main Header"
+msgstr ""
+
+#: framework/admin/ui/sidebars-options.php:11
+msgid "Sticky Main Sidebar"
+msgstr ""
+
+#: framework/builder/builder.php:56 framework/builder/builder.php:326
+#: framework/builder/builder.php:352
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: framework/admin/ui/networking.php:120
+msgid "StumbleUpon"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:2
+msgid "Style"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:141
+msgid "Sub Menu"
+msgstr ""
+
+#: framework/builder/block-panel.php:56 framework/builder/builder.php:60
+msgid "Tabs"
+msgstr ""
+
+#: functions.php:325
+msgid "Tag Archives:"
+msgstr ""
+
+#: functions.php:301 inc/widgets/widget-tags.php:10
+#: inc/widgets/widget-tags.php:48 framework/admin/ui/single-options.php:209
+msgid "Tags"
+msgstr ""
+
+#: framework/admin/ui/networking.php:41
+msgid "Telegram"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:154
+msgid "Telegram Button"
+msgstr ""
+
+#: framework/builder/builder-options.php:14 inc/widgets/widget-text-link.php:45
+msgid "Text"
+msgstr ""
+
+#: framework/metabox.php:449
+msgid "Text Appears Under The Total Score"
+msgstr ""
+
+#: framework/builder/builder.php:332 framework/admin/ui/styling-general.php:75
+#: framework/admin/ui/styling-general.php:87
+#: framework/admin/ui/styling-general.php:103
+#: framework/admin/ui/styling-general.php:118
+#: framework/admin/ui/styling-general.php:174
+msgid "Text Color"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:150
+msgid "Text Color Meta Posts"
+msgstr ""
+
+#: framework/builder/block-panel.php:124 framework/builder/builder.php:62
+msgid "Text in center"
+msgstr ""
+
+#: framework/builder/builder.php:65
+msgid "Text in Vertical align middle"
+msgstr ""
+
+#: inc/widgets/widget-text-link.php:10
+msgid "Text Link"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:67
+msgid "Text link Color"
+msgstr ""
+
+#: framework/admin/ui/typography.php:17 framework/admin/ui/typography.php:48
+msgid "This is my preview text!"
+msgstr ""
+
+#: framework/admin/ui/blog.php:22
+msgid "This text will display in the page Title Bar of the assigned Blog Page"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:194
+msgid "This text will display in title bar Related Posts."
+msgstr ""
+
+#: framework/admin/ui/single-options.php:234
+msgid "Thread"
+msgstr ""
+
+#: framework/builder/builder-options.php:10
+msgid "Thumbnails"
+msgstr ""
+
+#: framework/admin/ui/general.php:52
+msgid "Time Ago Format"
+msgstr ""
+
+#: framework/admin/ui/general.php:47
+msgid "Time Format For Post"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:1045
+#: inc/widgets/widget-featured-1c.php:106
+#: inc/widgets/widget-featured-2c.php:106 inc/widgets/widget-featured-3c.php:96
+#: inc/widgets/widget-grid-1c.php:100 inc/widgets/widget-grid-2c.php:97
+#: inc/widgets/widget-list-1c.php:118 inc/widgets/widget-list-2.php:118
+#: inc/widgets/widget-list-3.php:114 inc/widgets/widget-login.php:97
+#: inc/widgets/widget-recent-comments.php:80 inc/widgets/widget-slider.php:120
+#: inc/widgets/widget-social.php:61 inc/widgets/widget-tags.php:53
+#: inc/widgets/widget-text-1c.php:93 inc/widgets/widget-text-2.php:105
+#: inc/widgets/widget-text-3.php:102
+msgid "Title"
+msgstr ""
+
+#: framework/builder/block-panel.php:274
+msgid "title"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:19
+msgid "Title + Description"
+msgstr ""
+
+#: framework/builder/block-panel.php:26 framework/builder/builder.php:26
+msgid "Title box"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:38
+msgid "Top Header Height"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:98
+msgid "Top Header Style"
+msgstr ""
+
+#: framework/functions.php:46 framework/admin/ui/header-options.php:77
+msgid "Top Menu"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:94
+msgid "Top Menu Alignment"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:84
+msgid "Top Menu Item Padding"
+msgstr ""
+
+#: framework/admin/ui/general.php:51
+msgid "Traditional"
+msgstr ""
+
+#: framework/admin/functions.options.php:174
+#: framework/admin/functions.options.php:236
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: framework/admin/ui/translation.php:3 framework/admin/ui/translation.php:10
+msgid "Translation"
+msgstr ""
+
+#: framework/admin/ui/networking.php:127
+msgid "Tumblr"
+msgstr ""
+
+#: framework/admin/ui/networking.php:27
+msgid "Twitter"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:122
+msgid "Twitter Button"
+msgstr ""
+
+#: framework/admin/ui/typography.php:2
+msgid "Typography"
+msgstr ""
+
+#: framework/admin/class.options_machine.php:982
+msgid "Upgrade your version of WordPress for full media support"
+msgstr ""
+
+#: framework/category-meta.php:349 framework/metabox.php:248
+#: framework/metabox.php:371 framework/admin/class.options_machine.php:1051
+#: framework/builder/block-panel.php:338 framework/builder/builder.php:24
+msgid "Upload"
+msgstr ""
+
+#: framework/builder/block-panel.php:142 framework/builder/builder.php:51
+msgid "Upload Image"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:53
+msgid "Upload images using native media uploader from Wordpress 3.5+"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:30
+msgid "Upload Select an image file for your logo"
+msgstr ""
+
+#: framework/category-meta.php:349 framework/metabox.php:248
+#: framework/metabox.php:371 framework/builder/builder.php:75
+msgid "Use This Image"
+msgstr ""
+
+#: functions.php:294
+msgid "Username:"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:9
+msgid "Using Widgets"
+msgstr ""
+
+#: framework/builder/builder-options.php:11
+msgid "Vertical"
+msgstr ""
+
+#: framework/metabox.php:7 framework/metabox.php:60
+msgid "Video"
+msgstr ""
+
+#: functions.php:299 inc/widget.php:222
+msgid "View"
+msgstr ""
+
+#: framework/admin/ui/blog.php:182 framework/admin/ui/single-options.php:101
+msgid "View Meta"
+msgstr ""
+
+#: functions.php:300 framework/functions.php:113
+#: framework/builder/block-panel.php:116 framework/builder/block-panel.php:456
+msgid "Views"
+msgstr ""
+
+#: framework/builder/builder.php:46
+msgid "Views Meta"
+msgstr ""
+
+#: framework/admin/ui/networking.php:99
+msgid "Vimeo"
+msgstr ""
+
+#: framework/admin/options.php:28
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: functions.php:288
+msgid "Welcome"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:163
+msgid "WhatsApp Button"
+msgstr ""
+
+#: framework/builder/builder-options.php:18
+msgid "Widgets"
+msgstr ""
+
+#. Name of the theme
+msgid "Xecuter"
+msgstr ""
+
+#: framework/admin/ui/networking.php:92
+msgid "Yahoo"
+msgstr ""
+
+#: functions.php:303
+msgid "Year"
+msgstr ""
+
+#: functions.php:302
+msgid "Years"
+msgstr ""
+
+#: framework/admin/functions.options.php:178
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options"
+msgstr ""
+
+#: framework/admin/functions.options.php:240
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\""
+msgstr ""
+
+#: framework/admin/functions.options.php:171
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: framework/custom-sidebar.php:22
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: functions.php:317
+msgid "Your Comment is Awaiting Moderation."
+msgstr ""
+
+#: functions.php:290
+msgid "Your Profile"
+msgstr ""
+
+#: framework/admin/ui/networking.php:85
+msgid "YouTube"
+msgstr ""
+
+#: framework/metabox.php:491
+msgid "Youtube"
+msgstr ""

@@ -1,0 +1,17 @@
+@font-face {
+			font-family: 'sao-vazir';
+			font-weight:normal;
+			font-weight:400;
+			src: url('vazir.woff') format('woff');
+}
+@font-face {
+			font-family: 'sao-vazir';
+			font-weight:bold;
+			font-weight:700;
+			src: url('vazir-bold.woff') format('woff');
+}  
+.rtl h1, .rtl h2, .rtl h3, .rtl h4, .rtl h5, .rtl h6,body.rtl, body.rtl .press-this a.wp-switch-editor,
+body.rtl,body#tinymce.wp-editor,
+#adminmenu a.menu-top, #adminmenu .wp-submenu-head{
+		font-family:'sao-vazir',roboto,tahoma !important;
+}

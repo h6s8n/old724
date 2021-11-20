@@ -1,0 +1,249 @@
+/*//////////////////////////////////////////////////////////////////
+Featured
+/////////////////////////////////////////////////////////////////////
+1. Featrued Posts 
+2. Respansive  (min-width:1921px)
+3. Respansive (min-width: 1500px) 
+4. Respansive Standard
+5. Respansive  (max-width: 1240px)
+6. Respansive (max-width: 1240px) and (min-width: 980px)
+7. Respansive (max-width: 979px)
+8. Respansive (max-width: 979px) and (min-width: 768px)
+9. Respansive (max-width: 767px) and (min-width: 500px) 
+10.Respansive (max-width: 499px)
+*/
+/********************************************************************
+1. Featrued Posts
+*********************************************************************/
+.rd-featured .rd-post-list{padding:10px}
+.rd-post-module-3 .rd-post-container{background:#000;position:relative;padding-bottom:75%;width:100%;height:auto}
+.rd-post-module-3 .rd-post-container .rd-thumb{position:absolute;width:100%;overflow:hidden;height:100%}
+.rd-ratio40.rd-post-module-3 .rd-post-container{padding-bottom:40%}
+.rd-post-module-3 .rd-post-container .rd-thumb .rd-post-thumbnail{width:100.1%;position:absolute;height:100.1%}
+.rd-post-module-3 .rd-post-warp{width:100%;height:100%;position:absolute;padding:0!important}
+.rd-post-module-3 .rd-post-thumbnail::before{background:-moz-linear-gradient(top,rgba(0,0,0,0) 25%,rgba(0,0,0,0.75) 100%);background:-webkit-linear-gradient(top,rgba(0,0,0,0) 25%,rgba(0,0,0,0.75) 100%);background:linear-gradient(to bottom,rgba(0,0,0,0) 25%,rgba(0,0,0,0.75) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000',endColorstr='#bf000000',GradientType=0)}
+.rd-background-none .rd-post-module-3 .rd-post-thumbnail::before{background:none!important}
+.rd-ratio135.rd-post-module-3 .rd-post-thumbnail img{height:100.1%;min-width:100.1%;width:auto}
+.rd-post-module-3 .rd-details{padding:20px;position:absolute;bottom:0;pointer-events:none;width:100%}
+.rd-details-middle .rd-post-module-3 .rd-post-thumbnail::before{background:rgba(0,0,0,0.50)}
+.rd-post-module-3 .rd-thumb:hover .rd-post-thumbnail::before{background:rgba(0,0,0,0.5)!important}
+.rd-details-middle .rd-post-module-3 .rd-details{margin:auto;top:50%;left:50%;bottom:auto;height:auto;transform:translate(-50%,-50%)!important;-webkit-transform:translate(-50%,-50%)!important;-moz-transform:translate(-50%,-50%)!important;-o-transform:translate(-50%,-50%)!important;-ms-transform:translate(-50%,-50%)!important;position:absolute;z-index:1}
+.rd-bgdetails .rd-post-module-3 .rd-details{background:rgba(0,0,0,0.50)}
+#rd-wrapper .rd-post.rd-post-module-3 .rd-details{cursor:pointer}
+#rd-wrapper .rd-post.rd-post-module-3 .rd-title a{overflow:hidden;color:#fff!important;text-shadow:0 2px 3px rgba(0,0,0,0.67)}
+#rd-wrapper .rd-post.rd-post-module-3 .rd-excerpt{color:#e0e0e0!important;text-shadow:0 2px 2px rgba(0,0,0,0.67)}
+#rd-wrapper .rd-post.rd-post-module-3 .rd-meta li,#rd-wrapper .rd-post.rd-post-module-3 .rd-meta li a{color:#ccc!important;text-shadow:0 2px 2px rgba(0,0,0,0.67)}
+.rd-wrapper .rd-post-module-3 .rd-category{margin-bottom:8px;position:relative;bottom:0;width:100%;float:left}
+.rd-column:not(.rd-wide) .rd-featured.rd-module-item{padding:19px}
+.rd-column:not(.rd-wide) .rd-grid.rd-module-item{padding:10px}
+.rd-column:not(.rd-wide) .rd-featured .lSSlideOuter{padding:0;width:100%}
+.rd-column:not(.rd-wide) .rd-featured .rd-title-box{margin-bottom:20px}
+.rd-column:not(.rd-wide) .rd-featured .rd-post-list{padding:0}
+.rd-column:not(.rd-wide) .rd-featured .rd-post{padding:1px}
+.rd-column:not(.rd-wide) .rd-featured.rd-module-item{padding:19px}
+.rd-feature.rd-bottom-thumb-text .rd-post-list .rd-post,.rd-feature.rd-bottom-text .rd-post-list .rd-post{padding:0!important}
+.rd-wide .rd-featured .rd-post-1-1 .rd-details{width:1240px;left:50%;transform:translate(-50%,0);margin-left:0;-webkit-transform:translate(-50%,0);-moz-transform:translate(-50%,0);-o-transform:translate(-50%,0);-ms-transform:translate(-50%,0)}
+.rd-wide .rd-featured.rd-module-item{padding:0}
+.rd-wide .rd-featured .lSSlideOuter{padding:0}
+.rd-wide .rd-featured .rd-post-list{padding:0}
+.rd_content_slider_1c .rd-post,.rd_main_slider_1c .rd-post ,.rd_mini_slider  .rd-post .rd_content_slider_thumb_2 .rd-post,.rd_content_slider_thumb_3 .rd-post,.rd_content_slider_thumb_4 .rd-post,.rd_content_slider_thumb_6 .rd-post, 
+.rd_main_slider_thumb_2 .rd-post,.rd_main_slider_thumb_3 .rd-post,.rd_main_slider_thumb_4 .rd-post,.rd_main_slider_thumb_6 .rd-post{padding:0 !important;}
+.rd_content_slider_thumb_1 .lSSlideOuter,.rd_content_slider_thumb_5  .lSSlideOuter,.rd_main_slider_thumb_1 .lSSlideOuter,.rd_main_slider_thumb_5  .lSSlideOuter{ background:none !important;}
+.rd_content_slider_thumb_5 .rd-post-item{overflow:hidden;}
+.rd_wide_slider_featured_8 .rd-col-3-4 .rd-post,.rd_content_slider_featured_8 .rd-col-3-4 .rd-post,.rd_main_slider_featured_8 .rd-col-3-4 .rd-post{float:right}
+.rd-wide .rd-post-module-3 .rd-post-thumbnail::before{box-shadow:0 0 0 1px rgba(75,75,75,0.15) inset}
+/********************************************************************
+2. Respansive  (min-width:1921px)
+*********************************************************************/
+@media (min-width:1921px) {
+.rd-wide .rd-ratio40f .rd-col-1-2 .rd-post-container,.rd-wide .rd-ratio60 .rd-col-1-3 .rd-post-container,.rd-wide .rd-ratio60f .rd-col-1-3 .rd-post-container{padding-bottom:384px!important}
+.rd-wide .rd-ratio40f .rd-col-2-3 .rd-post-container{padding-bottom:512px!important}
+.rd-wide .rd-ratio60f .rd-col-2-3 .rd-post-container{padding-bottom:768px!important}
+.rd-wide .rd-ratio60f .rd-col-1-2 .rd-post-container,.rd-wide .rd-ratio60  .rd-col-1-2 .rd-post-container,.rd-wide .rd-ratio60 .rd-col-3-4 .rd-col-2-3  .rd-post-container,.rd-wide .rd-ratio75 .rd-col-2-5 .rd-post-container{padding-bottom:576px!important}
+.rd-wide .rd-ratio75 .rd-col-1-2 .rd-post-container,.rd-wide .rd-ratio75 .rd-col-3-4 .rd-col-2-3  .rd-post-container,.rd-wide .rd-ratio75 .rd-col-1-2  .rd-post-container{padding-bottom:720px!important}
+.rd-wide .rd-ratio40f .rd-col-1-3 .rd-post-container{padding-bottom:256px!important}
+.rd-wide .rd-ratio75 .rd-col-1-3 .rd-post-container,.rd-wide .rd-ratio100 .rd-col-1-4 .rd-post-container{padding-bottom:480px!important}
+.rd-wide .rd-ratio100 .rd-col-1-3 .rd-post-container{padding-bottom:680px!important}
+.rd-wide .rd-ratio60 .rd-col-2-5 .rd-post-container{padding-bottom:460px!important}
+.rd-wide .rd-ratio60 .rd-col-1-4 .rd-post-container,.rd-wide .rd-ratio60 .rd-col-3-4 .rd-col-1-3 .rd-post-container{padding-bottom:288px!important}
+.rd-wide .rd-ratio75 .rd-col-1-4 .rd-post-container,.rd-wide .rd-ratio75 .rd-col-3-4 .rd-col-1-3 .rd-post-container{padding-bottom:360px!important}
+.rd-wide .rd-ratio135 .rd-col-1-4 .rd-post-container{padding-bottom:648px!important}
+.rd-wide .rd-ratio60 .rd-col-1-5 .rd-post-container{padding-bottom:230px!important}
+.rd-wide .rd-ratio75 .rd-col-1-5 .rd-post-container{padding-bottom:288px!important}
+.rd-wide .rd-ratio100 .rd-col-1-5 .rd-post-container{padding-bottom:384px!important}
+.rd-wide .rd-ratio135 .rd-col-1-5 .rd-post-container{padding-bottom:518px!important}
+.rd-wide .rd-ratio60 .rd-col-1-6 .rd-post-container{padding-bottom:192px!important}
+.rd-wide .rd-ratio75 .rd-col-1-6 .rd-post-container{padding-bottom:240px!important}
+.rd-wide .rd-ratio100 .rd-col-1-6 .rd-post-container{padding-bottom:320px!important}
+.rd-wide .rd-ratio135 .rd-col-1-6 .rd-post-container{padding-bottom:432px!important}
+.rd-wide .rd-ratio60 .rd-col-1-8 .rd-post-container{padding-bottom:144px!important}
+.rd-wide .rd-ratio75 .rd-col-1-8 .rd-post-container{padding-bottom:180px!important}
+.rd-wide .rd-ratio100 .rd-col-1-8 .rd-post-container{padding-bottom:240px!important}
+.rd-wide .rd-ratio135 .rd-col-1-8 .rd-post-container{padding-bottom:324px!important}
+}
+/********************************************************************
+3. Respansive (min-width: 1500px) 
+*********************************************************************/
+@media (min-width: 1500px) {
+.rd-wide .rd-featured .rd-post-1-1 .rd-title a,.rd-wide .rd-featured .rd-post-2-3 .rd-title a{font-size:38px}
+.rd-wide .rd-ratio60f.rd-featured .rd-post-2-3 .rd-title a{font-size:55px}
+.rd-wide .rd-ratio75.rd-featured .rd-post-1-2 .rd-title a{font-size:45px}
+.rd-wide .rd-featured .rd-post-1-2 .rd-title a{font-size:32px}
+.rd-wide .rd-featured .rd-post-2-5 .rd-title a{font-size:28px}
+.rd-wide .rd-featured .rd-post-1-3 .rd-title a{font-size:24px}
+.rd-wide .rd-featured .rd-post-1-4 .rd-title a{font-size:20px}
+.rd-wide .rd-featured .rd-post-1-5 .rd-title a{font-size:16px}
+.rd-wide .rd-featured .rd-post-1-6 .rd-title a{font-size:14px}
+.rd-wide .rd-featured .rd-post-1-8 .rd-title a{font-size:13px}
+.rd-wide .rd-featured .rd-post-1-1 .rd-excerpt,.rd-wide .rd-featured .rd-post-2-3 .rd-excerpt{font-size:18px; padding-top:2px;}
+.rd-wide .rd-featured .rd-post-1-2 .rd-excerpt{font-size:17px; padding-top:2px;}
+.rd-wide .rd-ratio60f.rd-featured .rd-post-2-3 .rd-excerpt{font-size:23px; padding-top:3px;}
+.rd-wide .rd-ratio75.rd_wide_slider_featured_2 .rd-post-1-2 .rd-excerpt{font-size:22px; padding-top:3px;}
+.rd-wide .rd-featured .rd-post-2-5 .rd-excerpt{font-size:16px}
+.rd-wide .rd-featured .rd-post-1-3 .rd-excerpt{font-size:15px}
+.rd-wide .rd-featured .rd-post-1-4 .rd-excerpt{font-size:13px}
+.rd-wide .rd-featured .rd-col-1-5 .rd-details{padding:18px}
+.rd-wide .rd-featured .rd-col-1-6 .rd-details{padding:15px}
+.rd-wide .rd-featured .rd-col-1-7 .rd-details{padding:12px}
+.rd-wide .rd-featured .rd-col-1-8 .rd-details{padding:10px}
+.rd-wide .rd-col-1-6 .rd-circular{margin:15px}
+.rd-wide .rd-col-1-7 .rd-circular{margin:12px}
+.rd-wide .rd-col-1-8 .rd-circular{margin:10px}
+.rd-wide .rd-featured .rd-category{display:inline-block!important}
+.rd-wide .rd-featured .rd-post.rd-post-1-5 .rd-circular,.rd-wide .rd-featured .rd-post.rd-post-1-6 .rd-circular{display:inline-block!important}
+.rd-wide .rd-featured .rd-post.rd-post-1-8 .rd-circular{display:none}
+.rd-wide .rd-module-item .rd-post.rd-post-1-1 .rd-meta li,.rd-wide .rd-module-item .rd-post.rd-post-1-1 .rd-meta a,.rd-wide .rd-module-item .rd-post.rd-post-1-1 .rd-category a,.rd-wide .rd-module-item .rd-post.rd-post-2-3 .rd-meta li,.rd-wide .rd-module-item .rd-post.rd-post-2-3 .rd-meta a,.rd-wide .rd-module-item .rd-post.rd-post-2-3 .rd-category a{font-size:15px}
+.rd-wide .rd-module-item .rd-post.rd-post-1-2 .rd-meta li,.rd-wide .rd-module-item .rd-post.rd-post-1-2 .rd-meta a,.rd-wide .rd-module-item .rd-post.rd-post-1-2 .rd-category a,.rd-wide .rd-module-item .rd-post.rd-post-2-5 .rd-meta li,.rd-wide .rd-module-item .rd-post.rd-post-2-5 .rd-meta a,.rd-wide .rd-module-item .rd-post.rd-post-2-5 .rd-category a{font-size:14px}
+.rd-wide .rd-module-item .rd-post.rd-post-1-3 .rd-meta li,.rd-wide .rd-module-item .rd-post.rd-post-1-3 .rd-meta a,.rd-wide .rd-module-item .rd-post.rd-post-1-3 .rd-category a,.rd-wide .rd-module-item .rd-post.rd-post-1-4 .rd-meta li,.rd-wide .rd-module-item .rd-post.rd-post-1-4 .rd-meta a,.rd-wide .rd-module-item .rd-post.rd-post-1-4 .rd-category a{font-size:13px}
+.rd-wide .rd-module-item .rd-post .rd-meta li,.rd-wide .rd-module-item .rd-post .rd-meta a,.rd-wide .rd-module-item .rd-post .rd-category a{font-size:12px}
+.rd-module-item .rd-post.rd-post-1-6 .rd-category a{padding:1px 6px 2px}
+.rd-module-item .rd-post.rd-post-1-8 .rd-category a{padding:1px 5px 2px}
+rd-wide .rd-ratio60f.rd-featured .rd-post-2-3{padding-bottom:7px}
+.rd-wide .rd-featured.rd-module-item .rd-post.rd-post-1-1 .rd-category,.rd-wide .rd-featured.rd-module-item .rd-post.rd-post-2-3 .rd-category{padding-bottom:7px}
+.rd-wide .rd-featured.rd-module-item .rd-post.rd-post-1-2 .rd-category{padding-bottom:5px}
+}
+/********************************************************************
+4. Respansive Standard
+*********************************************************************/
+.rd-featured .rd-col-1-4 .rd-details{padding:15px}
+.rd-featured .rd-col-1-5 .rd-details{padding:12px}
+.rd-featured .rd-col-1-6 .rd-details{padding:10px}
+.rd-featured .rd-col-1-8 .rd-details{padding:8px}
+.rd-main .rd-featured .rd-col-1-3 .rd-details{padding:15px}
+.rd-main .rd-featured .rd-col-2-5 .rd-details{padding:15px}
+.rd-main .rd-featured .rd-col-1-4 .rd-details{padding:10px}
+.rd-main .rd-featured .rd-col-1-5 .rd-details{padding:8px}
+.rd-mini .rd-featured .rd-col-1-2 .rd-details{padding:10px}
+.rd-featured .rd-post-1-1 .rd-title a{font-size:34px}
+.rd-featured .rd-post-2-3 .rd-title a{font-size:30px}
+.rd-featured .rd-post-1-2 .rd-title a{font-size:23px}
+.rd-featured .rd-post-2-5 .rd-title a{font-size:21px}
+.rd-featured .rd-post-1-3 .rd-title a{font-size:18px}
+.rd-featured .rd-post-1-4 .rd-title a{font-size:15px}
+.rd-featured.rd-ratio40f .rd-post-1-4 .rd-title a{font-size:18px}
+.rd-featured .rd-post-1-5 .rd-title a{font-size:13px}
+.rd-main .rd-featured .rd-post-1-5 .rd-title a{font-size:14px}
+.rd-featured .rd-post-1-6 .rd-title a{font-size:12px;max-height:calc(3em + 24px)}
+.rd-featured .rd-post-1-8 .rd-title a{font-size:11px;max-height:calc(3em + 24px)}
+.rd-featured .rd-post-1-1 .rd-excerpt{font-size:18px; padding-top:2px;}
+.rd-featured .rd-post-2-3 .rd-excerpt{font-size:17px; padding-top:2px;}
+.rd-featured .rd-post-1-2 .rd-excerpt{font-size:14px}
+.rd-featured .rd-post-2-5 .rd-excerpt{font-size:13px}
+.rd-featured .rd-post-1-3 .rd-excerpt{font-size:13px}
+.rd-featured .rd-post-1-4 .rd-excerpt,.rd-ratio60.rd-featured .rd-post-1-6 .rd-category,.rd-ratio60.rd-featured .rd-post-1-8 .rd-category,.rd-ratio60.rd-featured .rd-post-1-6 .rd-meta,.rd-ratio60.rd-featured .rd-post-1-8 .rd-meta,.rd-details-middle .rd-circular,.rd-ratio60.rd-featured .rd-post.rd-post-1-5 .rd-circular,.rd-ratio60.rd-featured .rd-post.rd-post-1-6 .rd-circular,.rd-featured .rd-post.rd-post-1-8 .rd-circular,.rd-featured .rd-post.rd-post-1-10 .rd-circular{display:none}
+.rd-featured .rd-col-1-4 .rd-circular{margin:15px}
+.rd-featured .rd-col-1-5 .rd-circular{margin:12px}
+.rd-featured .rd-col-1-6 .rd-circular{margin:10px}
+.rd-featured .rd-col-1-8 .rd-circular{margin:8px}
+.rd-featured.rd-module-item .rd-post.rd-post-1-1 .rd-category,.rd-featured.rd-module-item .rd-post.rd-post-2-3 .rd-category{padding-bottom:5px}
+.rd-featured.rd-module-item .rd-post.rd-post-1-2 .rd-category{padding-bottom:3px}
+/********************************************************************
+5. Respansive  (max-width: 1240px)
+*********************************************************************/
+@media (max-width: 1240px) {
+.rd-wide .rd-featured .rd-post .rd-details{width:100%}
+}
+/********************************************************************
+6. Respansive (max-width: 1240px) and (min-width: 980px)
+*********************************************************************/
+@media (max-width: 1240px) and (min-width: 980px) {
+.rd-featured .rd-post-1-1 .rd-title a{font-size:28px}
+.rd-featured .rd-post-2-3 .rd-title a{font-size:28px!important}
+.rd-featured .rd-post-1-2 .rd-title a{font-size:19px!important}
+.rd-featured .rd-post-2-5 .rd-title a{font-size:17px}
+.rd-featured .rd-post-1-3 .rd-title a{font-size:15px}
+.rd-featured.rd-ratio40f .rd-post-1-4 .rd-title a{font-size:17px}
+.rd-featured .rd-post-1-4 .rd-title a{font-size:13px}
+.rd-featured .rd-post-1-5 .rd-title a{font-size:12px}
+.rd-featured .rd-post-1-6 .rd-title a{font-size:11px}
+.rd-main .rd-featured .rd-post-1-6 .rd-title a{font-size:12px;max-height:calc(3em + 24px)}
+.rd-mini .rd-featured .rd-post-1-6 .rd-title a{font-size:12px;max-height:calc(3em + 24px)}
+.rd-featured .rd-post-1-8 .rd-title a{font-size:13px}
+.rd-main .rd-featured .rd-post-1-8 .rd-title a{font-size:11px}
+.rd-ratio60.rd-featured .rd-post-1-4 .rd-category,.rd-ratio60.rd-featured .rd-post-1-4 .rd-meta,.rd-ratio60.rd-featured .rd-post-1-6 .rd-category,.rd-ratio60.rd-featured .rd-post-1-6 .rd-meta,.rd-ratio60.rd-featured .rd-post-1-8 .rd-category,.rd-ratio60.rd-featured .rd-post-1-8 .rd-meta,.rd-featured .rd-post-1-5 .rd-category,.rd-featured .rd-post-1-5 .rd-meta,.rd-main .rd-featured .rd-post-1-6 .rd-category,.rd-main .rd-featured .rd-post-1-6 .rd-meta{display:none}
+.rd-featured .rd-post-1-1 .rd-excerpt{font-size:15px}
+.rd-featured .rd-post-2-3 .rd-excerpt{font-size:16px!important}
+.rd-featured .rd-post-1-2 .rd-excerpt{font-size:12px!important}
+.rd-featured .rd-post-2-5 .rd-excerpt{font-size:12px!important}
+.rd-featured .rd-post-1-3 .rd-excerpt{display:none}
+.rd-featured .rd-post-1-4 .rd-excerpt,.rd-featured.rd-ratio60 .rd-post-1-3 .rd-excerpt,.rd-featured .rd-post-2-5 .rd-excerpt{display:none}
+.rd-featured .rd-col-1-3 .rd-details{padding:15px}
+.rd-featured .rd-col-1-4 .rd-details{padding:12px}
+.rd-featured .rd-col-1-5 .rd-details{padding:10px}
+}
+/********************************************************************
+7. Respansive (max-width: 979px)
+*********************************************************************/
+@media (max-width: 979px) {
+.rd-featured .rd-post-flex{width:100%!important}
+.rd-column:not(.rd-wide) .rd-featured.rd-module-item{padding:19px 9px!important}
+.rd-column:not(.rd-wide) .rd-featured.rd-space.rd-module-item{padding:19px 0!important}
+}
+/********************************************************************
+8. Respansive (max-width: 979px) and (min-width: 768px)
+*********************************************************************/
+@media (max-width: 979px) and (min-width: 768px) {
+.rd-featured .rd-post.rd-979-1c .rd-title a{font-size:28px!important}
+.rd-featured.rd-ratio40f .rd-post.rd-979-2c .rd-title a,.rd-featured .rd-post.rd-979-2c.rd-ratio40f .rd-title a,.rd-featured.rd-ratio60f .rd-post.rd-979-2c .rd-title a,.rd-featured .rd-post.rd-979-2c.rd-ratio60f .rd-title a,.rd-featured.rd-ratio60 .rd-post.rd-979-2c .rd-title a,.rd-featured .rd-post.rd-979-2c.rd-post-60 .rd-title a,.rd-featured.rd-ratio75 .rd-post.rd-979-2c .rd-title a{font-size:18px!important}
+.rd-featured.rd-ratio100 .rd-post.rd-979-2c .rd-title a,.rd-featured.rd-ratio60 .rd-post.rd-979-3c .rd-circular,.rd-featured.rd-ratio60f .rd-post.rd-979-3c .rd-circular{display:none}
+.rd-featured .rd-post.rd-979-2c.rd-post-100 .rd-title a,.rd-featured.rd-ratio135 .rd-post.rd-979-2c .rd-title a{font-size:22px!important}
+.rd-featured.rd-ratio60f .rd-post.rd-979-3c .rd-title a,.rd-featured.rd-ratio40f .rd-post.rd-979-3c .rd-title a,.rd-featured.rd-ratio60 .rd-post.rd-979-3c .rd-title a,.rd-featured.rd-ratio75 .rd-post.rd-979-3c .rd-title a,.rd-ratio60 .rd-featured .rd-post.rd-979-3c .rd-title a,.rd-ratio75 .rd-featured .rd-post.rd-979-3c .rd-title a{font-size:14px!important}
+.rd-featured.rd-ratio100 .rd-post.rd-979-3c .rd-title a,.rd-featured.rd-ratio135 .rd-post.rd-979-3c .rd-title a{font-size:17px!important}
+.rd-featured .rd-post.rd-979-4c .rd-title a{font-size:12px!important}
+.rd-featured .rd-post.rd-979-2c .rd-details{padding:15px!important}
+.rd-featured .rd-post.rd-979-3c .rd-details{padding:10px!important}
+.rd-featured .rd-excerpt,.rd-featured .rd-post.rd-979-3c .rd-meta,.rd-featured .rd-post.rd-979-4c .rd-meta,.rd-featured .rd-post.rd-979-4c .rd-category{display:none}
+.rd-featured .rd-col-979-1c .rd-details{padding:15px}
+.rd-featured .rd-col-979-2c .rd-details{padding:12px}
+.rd-main .rd-featured .rd-col-979-3c .rd-details{padding:10px}
+}
+/********************************************************************
+9. Respansive (max-width: 767px) and (min-width: 500px) 
+*********************************************************************/
+@media (max-width: 767px) and (min-width: 500px) {
+.rd-featured .rd-post.rd-767-1c .rd-title a{font-size:20px!important}
+.rd-featured.rd-ratio60 .rd-post.rd-767-2c .rd-title a,.rd-featured.rd-ratio40f .rd-post.rd-767-2c .rd-title a,.rd-featured .rd-post.rd-767-2c.rd-ratio40f .rd-title a,.rd-featured.rd-ratio60f .rd-post.rd-767-2c .rd-title a,.rd-featured .rd-post.rd-767-2c.rd-ratio60f .rd-title a,.rd-featured.rd-ratio75 .rd-post.rd-767-2c .rd-title a{font-size:14px!important}
+.rd-featured.rd-ratio100 .rd-post.rd-767-2c .rd-title a,.rd-featured.rd-ratio135 .rd-post.rd-767-2c .rd-title a{font-size:17px!important}
+.rd-featured .rd-post.rd-767-3c .rd-circular{display:none}
+.rd-featured.rd-ratio40f .rd-post.rd-767-3c .rd-title a,.rd-featured .rd-post.rd-767-3c.rd-ratio40f .rd-title a,.rd-featured.rd-ratio60f .rd-post.rd-767-3c .rd-title a,.rd-featured .rd-post.rd-767-3c.rd-ratio60f .rd-title a,.rd-featured.rd-ratio60 .rd-post.rd-767-3c .rd-title a,.rd-featured.rd-ratio75 .rd-post.rd-767-3c .rd-title a,.rd-ratio60 .rd-featured .rd-post.rd-767-3c .rd-title a,.rd-ratio75 .rd-featured .rd-post.rd-767-3c .rd-title a{font-size:13px!important;max-height:calc(3em + 24px);font-weight:400}
+.rd-featured.rd-ratio100 .rd-post.rd-767-3c .rd-title a,.rd-featured.rd-ratio135 .rd-post.rd-767-3c .rd-title a{font-size:14px!important;max-height:calc(3em + 24px);font-weight:400}
+.rd-featured .rd-post.rd-767-2c .rd-details{padding:12px!important}
+.rd-featured .rd-post.rd-767-3c .rd-details{padding:8px!important}
+.rd-featured .rd-post.rd-767-2c .rd-category,.rd-featured .rd-post.rd-767-2c .rd-meta,.rd-featured .rd-post.rd-767-3c .rd-category,.rd-featured .rd-post.rd-767-3c .rd-meta,.rd-featured .rd-post.rd-767-4c .rd-category,.rd-featured .rd-post.rd-767-4c .rd-meta{display:none!important}
+.rd-post-module-3 .rd-excerpt{display:none!important}
+}
+/********************************************************************
+10. Respansive (max-width: 499px)
+*********************************************************************/
+@media (max-width: 499px) {
+.rd-featured.rd-ratio60 .rd-post .rd-title a,.rd-featured.rd-ratio75 .rd-post .rd-title a,.rd-featured.rd-ratio40f .rd-post .rd-title a,.rd-featured.rd-ratio60f .rd-post .rd-title a{font-size:15px!important}
+.rd-featured.rd-ratio100 .rd-post .rd-title a,.rd-featured.rd-ratio135 .rd-post .rd-title a{font-size:18px!important}
+.rd-featured .rd-post .rd-title a{font-size:15px!important}
+.rd-featured .rd-post.rd-499-2c .rd-circular{display:none}
+.rd-featured.rd-ratio60 .rd-post.rd-499-2c .rd-title a,.rd-featured.rd-ratio75 .rd-post.rd-499-2c .rd-title a,.rd-ratio60 .rd-featured .rd-post.rd-499-2c .rd-title a,.rd-ratio75 .rd-featured .rd-post.rd-499-2c .rd-title a{font-size:11px!important;max-height:calc(3em + 24px)}
+.rd-featured.rd-ratio100 .rd-post.rd-499-2c .rd-title a,.rd-featured.rd-ratio135 .rd-post.rd-499-2c .rd-title a{font-size:12px!important}
+.rd-featured .rd-post.rd-499-2c .rd-title a{font-size:12px!important;max-height:calc(3em + 24px)}
+.rd-featured .rd-post.rd-499-2c .rd-category{display:none}
+.rd-post-module-3 .rd-excerpt,.rd-post-module-3 .rd-meta{display:none!important}
+.rd-post-module-3 .rd-details{padding:10px!important}
+}

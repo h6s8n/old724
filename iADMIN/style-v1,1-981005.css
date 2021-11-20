@@ -1,0 +1,322 @@
+.submenu > .item:hover, nav .item.active, nav .item.opened
+{
+	background-color: #364474;
+	background-color: #334171;
+}
+nav .item.opened
+{
+	color: white;
+}
+#right_pane.min nav > .item.active
+{
+	background-position: -10px center;
+}
+.navminmaxbtn
+{
+	font-size: 25px !important;
+	line-height: 59px !important;
+	color: white;
+	float: right;
+	margin-left: 10px;
+	opacity: 0.7;
+	transition: 0.3s;
+	cursor: pointer;
+	height: 59px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+.navminmaxbtn:hover
+{
+	opacity: 1;
+}
+#tooltip
+{
+	padding: 5px 10px;
+	border-radius: 5px;
+	font-size: 14px;
+	color: white;
+	font-weight: 600;
+	background-color: rgba(0,0,0,0.8);
+	white-space: nowrap;
+	position: fixed;
+	top: 0;
+	right: 0;
+	display: none;
+	direction: rtl;
+}
+.tagline
+{
+	margin-top: 14px;
+}
+
+.dashboard_parent
+{
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	padding: 10px;
+}
+.dashboard_column
+{
+	width: calc((100% - 20px)/3);
+	height: 100%;
+	float: right;
+}
+.dashboard_blox
+{
+	margin-bottom: 10px;
+}
+.dashboard_blox:last-child
+{
+	margin-bottom: 0;
+}
+.dashboard_blox .title
+{
+	border-radius: 6px 6px 0 0;
+	background-color: #3a4879;
+	line-height: 40px;
+	padding: 0 15px;
+	color: #dcdcdc;
+	font-weight: 600;
+}
+.dashboard_blox .title > i
+{
+	text-align: center;
+	font-size: 25px !important;
+	display: block;
+	float: right;
+	line-height: 40px !important;
+	margin-left: 10px;
+}
+.dashboard_blox .content
+{
+	width: 100%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	height: calc(100% - 40px);
+	background-color: #dedede;
+	border-radius: 0 0 6px 6px;
+	overflow-y: auto;
+	padding: 10px;
+}
+.dashboard_add
+{
+	display: block;
+	position: relative;
+	float: left;
+	font-size: 14px;
+	font-weight: 400;
+	transition: 0.3s;
+	opacity: 0.5;
+	color: inherit;
+}
+.dashboard_add:hover
+{
+	color: white;
+	opacity: 1;
+}
+.dashboard_add > i
+{
+	display: block;
+	float: right;
+	line-height: 40px !important;
+	margin-left: 5px;
+}
+.routin
+{
+	font-size: 14px;
+	color: #454545;
+}
+.dashboard_row
+{
+	font-size: 14px;
+	color: #1a223a;
+	background-color: #ebebeb;
+	margin-bottom: 5px;
+	line-height: 28px;
+	padding: 0 5px;
+	transition: 0.3s;
+	overflow: hidden;
+	display: block;
+	position: relative;
+	/* white-space: nowrap; */
+	opacity: 0.6;
+}
+.dashboard_row:last-child
+{
+	margin-bottom: 10px;
+}
+.dashboard_row:hover
+{
+	opacity: 1;
+}
+.dashboard_unpublished:after
+{
+	font-family: fontawesome;
+	content: "";
+	display: block;
+	float: left;
+	margin-left: 20px;
+}
+.dashboard_edit
+{
+	display: block;
+	line-height: 28px !important;
+	float: right;
+	transition: 0.3s;
+	color: inherit;
+	margin-right: -17px;
+	margin-left: 5px;
+}
+.dashboard_row:hover .dashboard_edit
+{
+	margin-right: 0;
+}
+.dashboard_date
+{
+	float: left;
+	width: 70px;
+	text-align: left;
+}
+.dashboard_view, .dashboard_photos, .dashboard_film
+{
+	float: left;
+}
+.dashboard_photos, .dashboard_film
+{
+	margin-left: 20px;
+}
+.dashboard_view:before, .dashboard_photos:before, .dashboard_film:before
+{
+	font-family: fontawesome;
+	content: "";
+	display: block;
+	float: left;
+	margin-right: 5px;
+}
+.dashboard_photos:before
+{
+	content: "";
+}
+.dashboard_film:before
+{
+	content: "";
+}
+.dashboard_film
+{
+	direction: ltr;
+}
+
+.daResTable
+{
+	font-size: 14px;
+}
+.daResRow
+{
+	padding: 5px 0
+}
+.daResRow:after
+{
+	content: "";
+	display: block;
+	clear: both;
+}
+.daResFirstRow
+{
+	background-color: #3a4879;
+	border: 4px solid #dedede;
+	border-left-width: 0;
+	border-right-width: 0;
+	color: white;
+	text-shadow: 0 0 1px #291808;
+}
+.daResCell:first-child
+{
+	padding-right: 25px;
+}
+.daResCell:last-child
+{
+	padding-left: 25px;
+}
+.daResCell
+{
+	float: right;
+}
+.responsiveToShow
+{
+	display: none;
+	margin-top: 5px;
+}
+.responsiveToShow span, .badge, .ticketNote
+{
+	background-color: #3a4879;
+	border-radius: 5px;
+	padding: 0 5px;
+	color: white;
+}
+.responsiveToShow:last-of-type
+{
+	margin-bottom: 5px;
+}
+.ticketNote
+{
+	padding: 5px;
+	margin-top: 7px;
+}
+	
+
+@media screen and (max-width: 880px)
+{
+	header .title
+	{
+		width: 100px;
+	}
+	header .title p
+	{
+		display: none;
+	}
+	.tagline
+	{
+		display: none;
+	}
+}
+@media screen and (max-width: 680px)
+{
+	.caution
+	{
+		width: calc(100% - 50px);
+		box-sizing: border-box;
+	}
+	#right_pane, section
+	{
+		width: 100% !important;
+	}
+	#right_pane.min, .responsiveToHide
+	{
+		display: none;
+	}
+	.daTable tr td:first-of-type
+	{
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.responsiveToShow
+	{
+		display: block;
+	}
+	.formTable td
+	{
+		display: block;
+		width: auto !important;
+		height: auto;
+	}
+	.formTable td:first-of-type
+	{
+		padding-bottom: 0;
+	}
+	.formTable td:last-of-type
+	{
+		padding-bottom: 25px;
+	}
+}

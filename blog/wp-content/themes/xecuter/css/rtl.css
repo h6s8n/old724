@@ -1,0 +1,113 @@
+/*//////////////////////////////////////////////////////////////////
+RTL
+/////////////////////////////////////////////////////////////////////*/
+body.rtl,.rtl .rd-column{direction:rtl}
+ 
+.rtl .rd-row-middle,.rtl .rd-wrapper,.rtl a.rd-logo-title,.rtl a.rd-logo-description,.rtl .rd-user,.rtl .rd-bottom-thumb-text .lSGallery li .rd-title a,.rtl .rd-bottom-text .lSGallery li .rd-title,.rtl .rd-author-box,.rtl .rd-widget-login-singin label,.rtl .rd-widget-login-singin .rd-rememberme,.rtl .rd-page-number,.rtl caption,.rtl th,.rtl td{text-align:right}
+.rtl .rd-nav-menu ul li,.rtl .rd-nav-menu ul li a,.rtl .rd-nav-menu .sub-menu,.rtl .rd-nav-menu .sub-menu li,.rtl .rd-nav-menu .sub-menu li a,.rtl .rd-nav-menu ul ul li .fa,.rtl .rd-nav-menu ul ul li .fa,.rtl .rd-user i::before,.rtl .rd-singout-warp li,.rtl .rd-singout-warp li a,.rtl .rd-search-icon,.rtl .rd-searchform,.rtl .rd-search-text,.rtl .rd-social li,.rtl .rd-social li img,.rtl .rd-breadcrumbs,.rtl .rd-breadcrumbs li,.rtl .rd-meta,.rtl .rd-meta li,.rtl .rd-stars-large,.rtl .lSGallery,.rtl .lSGallery li,.rtl .lSGallery li a,.rtl .rd-bottom-thumb .lSGallery .rd-title,.rtl .rd-bottom-thumb-text .lSGallery li .rd-slider-thumb,.rtl .rd-bottom-thumb-text .lSGallery li .rd-slider-thumb a,.rtl .rd-bottom-thumb-text .lSGallery li .rd-title,.rtl .rd-bottom-text .lSGallery li .rd-title,.rtl .rd-bottom-text .vertical .lSGallery li .rd-title a,.rtl .rd-inner-bottom-text .lSGallery li .rd-title,.rtl .rd-inner-bottom-text .lSGallery li .rd-title a,.rtl .rd-single-post .rd-details,.rtl .rd-single-post .rd-title,.rtl .rd-single-post .rd-post-content,.rtl .rd-single-post .rd-thumb,.rtl .rd-single-post.rd-video .rd-post-video,.rtl .rd-tags,.rtl .rd-tags li,.rtl .wp-caption-text,.rtl .rd-review,.rtl .rd-review-details,.rtl .rd-review-title,.rtl .rd-review-excerpt,.rtl .rd-score-details,.rtl .rd-stars-large span,.rtl .rd-stars-score,.rtl .rd-stars-score i,.rtl .rd-stars-full-score,.rtl .rd-stars-full-score i,.rtl .rd-review-short,.rtl .rd-share-post,.rtl .rd-share-post li a,.rtl .rd-share-post .rd-share-social,.rtl .avater,.rtl .rd-author-box,.rtl .rd-author-box .rd-author-name,.rtl .rd-author-thumb,.rtl .rd-author-box .rd-details,.rtl .rd-author-social,.rtl .rd-post-nextprev,.rtl .rd-post-next,.rtl .rd-post-next span,rtl .rd-post-previous span,.rtl .rd-related,.rtl .rd-related h4,.rtl .comment-list.rd-thread li,.rtl .comment-avatar,.rtl .comment-avatar img,.rtl .author-link,.rtl .author-link ol,.rtl .author-link a,.rtl #commentform .required,.rtl #commentform p,.rtl #commentform input,.rtl .rd-text-html,.rtl .rd-widget-text-link,.rtl .rd-social-content .rd-social,.rtl .rd-social-content .rd-social li,.rtl .rd-social-content .rd-social li a,.rtl .rd-social-content .rd-social li img,.rtl .rd-text-html .widget_text,.rtl .rd-widget-login-singin,.rtl .rd-widget-login-singin label,.rtl .rd-login-links,.rtl .rd-widget-login-user,.rtl .rd-author-avatar,.rtl .rd-panel,.rtl .rd-panel a,.rtl .rd-login-user h3,.rtl .rd-login-user ul,.rtl .rd-ads,.rtl .rd-resize.rd-ads img,.rtl .rd-footer-bottom,.rtl .rd-footer-bottom span,.rtl .rd-module-item,.rtl .rd-title-box,.rtl .rd-title-box h4,.rtl .rd-title-box span,.rtl .rd-title-box a,.rtl .rd-module-row,.rtl .rd-post-item,.rtl .rd-col-1-1,.rtl .rd-col-1-2,.rtl .rd-col-1-3,.rtl .rd-col-3-4,.rtl .rd-col-2-5,.rtl .rd-col-1-5,.rtl .rd-col-1-6,.rtl .rd-col-1-8,.rtl .rd-col-2-3,.rtl .rd-col-1-10,.rtl .rd-details,.rtl .rd-title,.rtl .rd-title a,.rtl .rd-category a,.rtl .rd-excerpt,.rtl .rd-thumb,.rtl .rd-pagenavi,.rtl .rd-pagenavi a,.rtl .rd-pagenavi span,.rtl .rd-post-module-2,.rtl .rd-post-module-2 .rd-thumb,.rtl .rd-post-module-2 .rd-post-warp,.rtl .rd-post-module-1,.rtl .rd-post-module-1 .rd-category,.rtl .rd-column:not(.rd-wide) .rd-featured .rd-post-list,.rtl .rd-wide .rd-featured .rd-post-list,.rtl .rd-share-post li,.rtl .rd-post-previous,.rtl .rd-menu-sub-posts .rd-content,.rtl .rd-nav-menu .rd-menu-sub-posts .sub-menu.sub-depth-0,.rtl .rd-nav-menu .rd-menu-sub-posts .sub-menu.sub-depth-0,.rtl .rd-nav-menu ul ul a.fa::before,.rtl .widget:not(.rd-widget) ul li:before,.rtl .rd-post-list,.rtl .rd-tags-box a,.rtl .rd-author-box ul,.rtl #rd-post-pagination a,.rtl #rd-post-pagination span,.rtl .rd-post-module-4 .rd-title a::before{float:right}
+.rtl .rd-post-a1 .rd-thumb,.rtl .rd-post-a2 .rd-thumb{padding-left:0;padding-right:20px;float:left!important}
+.rtl .rd-singout,.rtl .rd-search-button,.rtl .rd-review-stars .stars-large,.rtl .rd-review-score,.rtl .rd-review .rd-circular,.rtl .rd-widget-login-singin #submit,.rtl .rd_wide_slider_featured_8 .rd-col-3-4 .rd-post,.rtl .rd_content_slider_featured_8 .rd-col-3-4 .rd-post,.rtl .rd_main_slider_featured_8 .rd-col-3-4 .rd-post,.rtl .rd-nav-menu ul li.menu-item-has-children > a::after,.rtl  .sticky .rd-title a::before{float:left}
+ .rtl .rd-singin-warp{right:auto;left:0}
+.rtl .rd-nav-menu .sub-menu .rd-sub-indicator,.rtl rd-user i::before{margin-right:5px;margin-left:0}
+.rtl .rd-nav-menu ul ul li.fa::before{padding-left:5px;padding-right:0}
+.rd-nav-menu ul ul li.menu-item-has-children > a::after{content:"\f141"}
+.rtl .rd-nav-menu a::before,.rtl .sticky .rd-title a::before{float:right;margin-left:5px;margin-right:0}
+.rtl .rd-nav-menu .sub-menu,.rtl .rd-thumb .rd-post-thumbnail::before{left:auto;right:0}
+.rtl .rd-nav-menu .sub-menu ul,.rtl .rtl .rd-search-right .rd-search-sub{right:100%;left:0}
+.rtl .rd-searchform i.rd-search-icon,.rtl .rd-module-item .vertical .rd-page-list{right:auto;left:0}
+.rtl .rd-nav-menu .sub-menu a::before{padding-top:0!important}
+.rtl .rd-breadcrumbs li{padding-right:0;padding-left:10px}
+.rtl .rd-meta li::before{margin-left:3px;margin-right:0}
+.rd-nav-menu ul li.menu-item-has-children > a::after{margin-right:2px;margin-left:0;padding-top:2px}
+.rtl .rd-lightbox-loading{right:-48%!important;right:calc(-50% + 22px)!important;left:0!important}
+@media (min-width: 979px) {
+.rtl .rd-nav-menu .rd-menu-sub-posts .sub-menu.sub-depth-0{padding:20px 20px 20px 0 !important}
+}
+@media (max-width: 979px) {
+.rtl .rd-nav-menu .rd-menu-icon,.rtl .rd-nav-menu .rd-menu-down,.rtl .rd-nav-menu ul ul,.rtl .rd-singout-warp li{float:right}
+.rtl .rd-nav-menu .rd-menu-up{float:left}
+.rtl .rd-nav-menu .rd-menu-icon::before{margin-left:0}
+.rtl .rd-nav-menu ul li{text-align:right;padding:0}
+.rtl .rd-nav-menu a::before{padding-top:0!important}
+.rtl .rd-nav-menu .rd-menu-up,.rtl .rd-nav-menu .rd-menu-down{left:0;margin-top:3px;right:auto}
+.rd-nav-menu ul li.menu-item-has-children > a::after{display:none!important}
+}
+.lSSlideOuter.lSrtl{direction:rtl}
+.lSSlideOuter .lightSlider,.lSSlideOuter .lSPager{padding-left:0;list-style:none outside none}
+.lSSlideOuter.lSrtl .lightSlider,.lSSlideOuter.lSrtl .lSPager{padding-right:0}
+.lSSlideOuter .lightSlider > *,.lSSlideOuter .lSGallery li{float:left}
+.lSSlideOuter.lSrtl .lightSlider > *,.lSSlideOuter.lSrtl .lSGallery li{float:right!important}
+.rtl .rd-bottom-thumb-text .lSGallery li .rd-title{padding-right:10px!important;padding-left:0!important}
+.rtl .lSAction > .lSNext{left:10px;right:auto;background-position:0 0}
+.rtl .lSAction > .lSPrev{right:10px;left:auto;background-position:-32px 0}
+.rtl .rd-meta li{margin:0 0 0 7px !important}
+.rtl .rd-meta{margin-right:0!important;margin-left:0!important}
+.rtl .rd-circular{left:0;right:auto}
+.rtl #rd-wrapper .rd-circular span{top:46%}
+.rtl ul ul,.rtl ol ol{margin:0 40px 0 0}
+.rtl ul,.rtl ol{margin-left:0;margin-right:40px}
+.rtl .rd-review-details{margin-left:2%;margin-left:calc(20px)!important;margin-right:0!important}
+@media (max-width: 499px) {
+.rd-author-thumb{margin-left:15px;margin-right:0}
+}
+.rd-lightbox-close::before{right:auto;left:20px}
+.rtl .comment-list.rd-list .children{margin-right:7.5%;margin-left:0}
+.rtl .comment-avatar{margin-right:0;margin-left:15px}
+.rtl .commentmetadata,.rtl .comment-list .reply,.rtl .comment-list .reply a{text-align:left}
+.rtl .widget.widget_rss .rd-title-box h4 a:nth-child(1){padding:5px 15px 5px 5px}
+.rtl .widget.widget_rss .rd-title-box h4 a:nth-child(2){padding:5px 0 5px 15px}
+ .rtl .rd-category a{margin-left:5px;margin-right:0}
+.rtl .widget:not(.rd-widget) ul li::before,.rd-post-module-4 .rd-title a::before{content: "\f341";margin-top: 3px;margin-left:3px;margin-right:0px;}
+
+.rtl .rd-category a:last-child{margin-left:0}
+.rtl .rd-category{padding-bottom:0!important}
+.rtl .widget ul{margin-right:0;margin-left:0}
+.rtl .widget ul ul{margin:0 15px 0 0}
+.rtl .rd-tags-box a{margin:5px 0 0 5px}
+.rtl .rd-login-links li{margin-right:0;margin-left:10px}
+.rtl .rd-post-module-1 .rd-details{padding-left:0;padding-right:20px}
+@media (max-width: 979px) and (min-width: 768px) {
+.rd-main .rd-list .rd-post .rd-details{padding-left:0;padding-right:15px}
+.rd-mini .rd-list .rd-post .rd-details{padding-left:0;padding-right:12px}
+}
+@media (max-width: 767px) {
+.rd-list .rd-post .rd-details{padding-right:15px;padding-left:0}
+}
+ 
+.rtl .rd-author-box .rd-details{padding-right:20px;padding-left:0}
+.rtl .rd-share-post li{margin:6px 0 0 3px}
+
+  @font-face{font-family:'fontiran';src:url('../fonts/iran-webfont.woff') format('woff'),url('../fonts/iranawesome-webfont.ttf') format('truetype');font-weight:normal;font-style:normal}
+
+
+.si-aparat::before{
+	font-family: "fontiran"!important;
+ 	content:"\f007";  font-family: "fontiran";
+  }
+  
+ .si-bisphone::before{
+	font-family: "fontiran"!important;
+ 	content:"\f001";  font-family: "fontiran";
+  }
+  
+.si-bale::before{
+	font-family: "fontiran"!important;
+ 	content:"\f002";  font-family: "fontiran";
+  } 
+.si-wispi::before{
+	font-family: "fontiran"!important;
+ 	content:"\f003";  font-family: "fontiran";
+  } 
+
+.si-igap::before{
+	font-family: "fontiran"!important;
+ 	content:"\f004";  font-family: "fontiran";
+  } 
+  .si-soroush::before{
+	font-family: "fontiran"!important;
+ 	content:"\f005";  font-family: "fontiran";
+  } 
+   .si-eitaa::before{
+	font-family: "fontiran"!important;
+ 	content:"\f006";  font-family: "fontiran";
+  } 

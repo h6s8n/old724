@@ -1,0 +1,2592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Xecuter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 12:30+0430\n"
+"PO-Revision-Date: 2018-03-29 20:48+0430\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+
+#: framework/admin/ui/logo-options.php:44
+msgid " In pixels"
+msgstr "در پیکسل"
+
+#: inc/widgets/widget-featured-1c.php:140
+#: inc/widgets/widget-featured-2c.php:140
+#: inc/widgets/widget-featured-3c.php:130
+msgid " Space in Between Posts"
+msgstr "فاصله بین نوسته ها"
+
+#: framework/builder/builder-options.php:16
+msgid "&"
+msgstr ""
+
+#: functions.php:284
+msgid "0"
+msgstr ""
+
+#: functions.php:285 framework/builder/builder-options.php:20
+#: framework/menu/menu-item-custom-fields-options.php:143
+msgid "1"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:211
+msgid "1.5x"
+msgstr ""
+
+#: framework/category-meta.php:248 framework/builder/block-panel.php:479
+#: framework/builder/block-panel.php:487
+msgid "1/1"
+msgstr ""
+
+#: framework/builder/builder-options.php:29
+msgid "10"
+msgstr ""
+
+#: framework/category-meta.php:260
+msgid "16/6"
+msgstr ""
+
+#: framework/category-meta.php:246 framework/builder/block-panel.php:464
+#: framework/builder/block-panel.php:469 framework/builder/block-panel.php:477
+#: framework/builder/block-panel.php:485
+#: framework/menu/menu-item-custom-fields-options.php:184
+msgid "16/9"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:210
+msgid "1x"
+msgstr ""
+
+#: framework/builder/builder-options.php:21
+#: framework/menu/menu-item-custom-fields-options.php:144
+msgid "2"
+msgstr ""
+
+#: framework/category-meta.php:259
+msgid "2/5"
+msgstr ""
+
+#: framework/builder/builder-options.php:22
+#: framework/menu/menu-item-custom-fields-options.php:145
+msgid "3"
+msgstr ""
+
+#: framework/category-meta.php:249 framework/builder/block-panel.php:488
+msgid "3/5"
+msgstr ""
+
+#: framework/category-meta.php:270
+msgid "300px"
+msgstr ""
+
+#: framework/builder/builder-options.php:23
+#: framework/menu/menu-item-custom-fields-options.php:146
+msgid "4"
+msgstr ""
+
+#: framework/category-meta.php:247 framework/builder/block-panel.php:470
+#: framework/builder/block-panel.php:478 framework/builder/block-panel.php:486
+#: framework/menu/menu-item-custom-fields-options.php:185
+msgid "4/3"
+msgstr ""
+
+#: framework/category-meta.php:271
+msgid "400px"
+msgstr ""
+
+#: framework/builder/builder-options.php:24
+#: framework/menu/menu-item-custom-fields-options.php:147
+msgid "5"
+msgstr ""
+
+#: framework/builder/block-panel.php:463
+msgid "5/2"
+msgstr ""
+
+#: framework/category-meta.php:272
+msgid "500px"
+msgstr ""
+
+#: framework/builder/builder-options.php:25
+#: framework/menu/menu-item-custom-fields-options.php:148
+msgid "6"
+msgstr ""
+
+#: framework/category-meta.php:273
+msgid "600px"
+msgstr ""
+
+#: framework/builder/builder-options.php:26
+msgid "7"
+msgstr ""
+
+#: framework/builder/builder-options.php:27
+msgid "8"
+msgstr ""
+
+#: framework/builder/builder-options.php:28
+msgid "9"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:12
+msgid "Above Content Area"
+msgstr "سطح بالای محتوا"
+
+#: inc/widget.php:281
+msgid "Above Content For Ads"
+msgstr "محتوای بالا برای تبلیغات"
+
+#: framework/admin/ui/ads-settings.php:30
+msgid "Above Main Column Area"
+msgstr "بالای ستون اصلی ستون"
+
+#: inc/widget.php:305
+msgid "Above Main Column For Ads"
+msgstr "بالای ستون اصلی برای تبلیغات"
+
+#: framework/builder/builder.php:23 framework/builder/builder.php:235
+#: framework/builder/builder.php:308
+msgid "Add"
+msgstr "اضافه کردن"
+
+#: framework/builder/builder.php:246
+msgid "Add Box"
+msgstr "اضافه کردن جعبه"
+
+#: framework/admin/ui/general.php:69
+msgid "Add Custom CSS Code"
+msgstr "اضافه کردن سفارشی CSS کد"
+
+#: framework/admin/ui/general.php:62
+msgid "Add Custom Script Code"
+msgstr "اضافه کردن کد سفارشی اسکریپت"
+
+#: framework/custom-sidebar.php:64
+msgid "Add More!"
+msgstr "اضافه کردن بیشتر!"
+
+#: framework/builder/builder.php:191 framework/builder/builder.php:208
+msgid "Add New Row"
+msgstr "اضافه کردن ردیف جدید"
+
+#: framework/admin/class.options_machine.php:619
+msgid "Add New Slide."
+msgstr "اضافه کردن اسلاید جدید"
+
+#: framework/custom-sidebar.php:16
+msgid "Add Sidebar"
+msgstr "اضافه کردن نوار کناری"
+
+#: framework/builder/block-panel.php:210 framework/builder/builder.php:61
+msgid "Add Tab"
+msgstr "اضافه کردن تب"
+
+#: inc/widgets/widget-ads-html.php:10
+msgid "Ads / Html"
+msgstr "تبلیغات / HTML"
+
+#: framework/builder/builder-options.php:15 inc/widgets/widget-ads.php:11
+msgid "Ads Banner"
+msgstr "بنر تبلیغات"
+
+#: inc/widgets/widget-ads-html.php:11
+msgid "Ads Html Code"
+msgstr "کد  تبلیغات به صورت HTML"
+
+#: inc/widgets/widget-ads.php:61
+msgid "Ads Image path:"
+msgstr "مسیر تصویر تبلیغاتی:"
+
+#: framework/builder/block-panel.php:145 framework/builder/builder.php:52
+msgid "Ads link"
+msgstr "لینک تبلیغ"
+
+#: inc/widgets/widget-ads.php:65
+msgid "Ads link:"
+msgstr "لینک تبلیغات:"
+
+#: framework/admin/ui/ads-settings.php:2
+msgid "ADS Settings"
+msgstr "تنظیمات تبلیغات"
+
+#: functions.php:314
+msgid "ago"
+msgstr "قبل"
+
+#: framework/admin/functions.options.php:42
+#: framework/builder/block-panel.php:389 framework/builder/builder.php:33
+#: framework/menu/menu-item-custom-fields-options.php:173
+#: inc/widgets/widget-featured-1c.php:116
+#: inc/widgets/widget-featured-2c.php:116
+#: inc/widgets/widget-featured-3c.php:106 inc/widgets/widget-grid-1c.php:110
+#: inc/widgets/widget-grid-2c.php:107 inc/widgets/widget-list-1c.php:128
+#: inc/widgets/widget-list-2.php:128 inc/widgets/widget-list-3.php:124
+#: inc/widgets/widget-slider.php:130 inc/widgets/widget-text-1c.php:103
+#: inc/widgets/widget-text-2.php:115 inc/widgets/widget-text-3.php:112
+msgid "All Categories"
+msgstr "همه دسته بندی ها"
+
+#: framework/builder/block-panel.php:165 framework/builder/builder.php:59
+#: inc/widgets/widget-slider.php:205
+msgid "Animation Pause Time"
+msgstr " زمان مکث اسلایدر"
+
+#: framework/builder/block-panel.php:161 framework/builder/builder.php:58
+#: inc/widgets/widget-slider.php:201
+msgid "Animation Speed"
+msgstr "سرعت اسلایدر"
+
+#: framework/admin/ui/logo-options.php:124
+msgid "Apple iPad Icon"
+msgstr "آیکون برای آیپد اپل"
+
+#: framework/admin/ui/logo-options.php:118
+msgid "Apple iPhone Icon"
+msgstr "آیکون برای آیفون اپل"
+
+#: framework/admin/ui/sidebars-options.php:67
+msgid "Archive Main Sidebar"
+msgstr "  نوار کناری اصلی برای آرشیوها"
+
+#: framework/admin/ui/sidebars-options.php:62
+msgid "Archive Sidebar"
+msgstr "نوار کناری آرشیو"
+
+#: functions.php:273
+msgid "Archives"
+msgstr "آرشیوها"
+
+#: functions.php:316
+msgid "at"
+msgstr "در"
+
+#: inc/widget.php:221 framework/builder/block-panel.php:118
+#: framework/builder/block-panel.php:458
+msgid "Author"
+msgstr "نویسنده"
+
+#: framework/admin/ui/single-options.php:64
+msgid "Author Box"
+msgstr "جعبه نویسنده"
+
+#: framework/builder/builder.php:44 framework/admin/ui/blog.php:165
+#: framework/admin/ui/single-options.php:77
+msgid "Author Meta"
+msgstr "نمایش نویسنده"
+
+#: functions.php:274
+msgid "Author:"
+msgstr "نویسنده:"
+
+#: framework/metabox.php:215 framework/metabox.php:338
+#: framework/admin/ui/styling-general.php:19
+#: framework/admin/ui/styling-general.php:86
+#: framework/admin/ui/styling-general.php:102
+#: framework/admin/ui/styling-general.php:117
+#: framework/admin/ui/styling-general.php:162
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: framework/admin/ui/styling-general.php:132
+msgid "Background Color Main Row"
+msgstr "رنگ پس زمینه ردیف اصلی"
+
+#: framework/category-meta.php:335 framework/metabox.php:233
+#: framework/metabox.php:356 framework/admin/ui/styling-general.php:38
+msgid "Background Pattern"
+msgstr "پترن پس زمینه"
+
+#: framework/builder/block-panel.php:170 framework/builder/builder.php:68
+msgid "Background Thumb"
+msgstr "رنگ پس زمینه تصاویر کوچک"
+
+#: framework/category-meta.php:315 framework/category-meta.php:323
+#: framework/metabox.php:222 framework/metabox.php:345
+#: framework/admin/ui/styling-general.php:27
+msgid "Background Type"
+msgstr "نوع پس زمینه"
+
+#: framework/builder/builder.php:70 framework/builder/builder.php:329
+msgid "Backround Color"
+msgstr "رنگ پس زمینه"
+
+#: framework/builder/builder.php:69 framework/builder/builder.php:328
+msgid "Backround Image"
+msgstr "تصاویر پس زمینه"
+
+#: framework/admin/functions.options.php:167
+msgid "Backup and Restore Options"
+msgstr "پشتیبان گیری و بازگردانی تنظیمات"
+
+#: framework/admin/class.options_machine.php:740
+#: framework/admin/functions.options.php:161
+msgid "Backup Options"
+msgstr "تنظیمات پشتیبانی"
+
+#: framework/admin/ui/sidebars-options.php:79
+msgid "bbPress Main Sidebar"
+msgstr "نوار کناری اصلی بی بی پرس"
+
+#: framework/admin/ui/sidebars-options.php:74
+msgid "bbPress Sidebar"
+msgstr "نوار کناری بی بی پرس"
+
+#: framework/admin/ui/networking.php:156
+msgid "Behance"
+msgstr "بی نظم"
+
+#: inc/widget.php:329 framework/admin/ui/ads-settings.php:48
+msgid "Below Article Area"
+msgstr "در زیر منطقه مقاله"
+
+#: framework/admin/ui/ads-settings.php:21
+msgid "Below Content Area"
+msgstr "سطح زیر محتوا"
+
+#: inc/widget.php:293
+msgid "Below Content For Ads"
+msgstr "در زیر محتوا برای تبلیغات"
+
+#: inc/widget.php:317 framework/admin/ui/ads-settings.php:39
+msgid "Below Main Column Area"
+msgstr "زیر ستون اصلی ستون"
+
+#: framework/builder/block-panel.php:447
+msgid "Best Reviews"
+msgstr "بهترین امتیاز ها"
+
+#: framework/builder/block-panel.php:448
+msgid "Best Reviews 1 day ago"
+msgstr "بهترین امتیاز ها - 1 روز قبل"
+
+#: framework/builder/block-panel.php:450
+msgid "Best Reviews 1 month ago"
+msgstr "بهترین امتیاز ها - 1 ماه قبل"
+
+#: framework/builder/block-panel.php:449
+msgid "Best Reviews 1 week ago"
+msgstr "بهترین امتیاز ها -  1 هفته قبل"
+
+#: framework/builder/block-panel.php:451
+msgid "Best Reviews 1 year ago"
+msgstr "بهترین امتیاز ها - 1 سال قبل"
+
+#: framework/metabox.php:443
+msgid "Between 0 to 100"
+msgstr "بین 0 تا 100"
+
+#: framework/admin/ui/blog.php:2
+msgid "Blog"
+msgstr "وبلاگ"
+
+#: framework/category-meta.php:298
+msgid "Blog Author Meta"
+msgstr "نمایش نویسنده"
+
+#: framework/category-meta.php:296
+msgid "Blog Categories Meta"
+msgstr "خصوصیات دسته بندی"
+
+#: framework/category-meta.php:301
+msgid "Blog Comments Meta"
+msgstr "نمایش دیدگاه ها"
+
+#: framework/category-meta.php:299
+msgid "Blog Date Meta"
+msgstr "نمایش تاریخ"
+
+#: framework/admin/ui/blog.php:12
+msgid "Blog in Homepage"
+msgstr "وبلاگ در صفحه اصلی"
+
+#: framework/category-meta.php:142 framework/category-meta.php:188
+#: framework/admin/ui/blog.php:30 framework/admin/ui/blog.php:45
+msgid "Blog Layout"
+msgstr "طرح بندی وبلاگ"
+
+#: framework/admin/ui/blog.php:145
+msgid "Blog Post Meta Settings"
+msgstr "تنظیمات خوصیات نوشته در وبلاگ"
+
+#: framework/category-meta.php:297
+msgid "Blog Review Meta"
+msgstr "تنظیمات خوصیات نوشته در وبلاگ"
+
+#: framework/admin/ui/blog.php:21
+msgid "Blog Title"
+msgstr "عنوان وبلاگ"
+
+#: framework/category-meta.php:300
+msgid "Blog Views Meta"
+msgstr "نمایش بازدید ها"
+
+#: framework/admin/ui/styling-general.php:9
+msgid "Body Style"
+msgstr "استایل بدنه"
+
+#: framework/admin/ui/styling-general.php:113
+msgid "Breadcrumbs Style"
+msgstr "نمایش صفحه فعلی"
+
+#. Name of the template
+msgid "Builder Template"
+msgstr "قالب ساز"
+
+#: functions.php:283
+msgid "by"
+msgstr "توسط"
+
+#: framework/builder/builder-options.php:6
+msgid "Carousel"
+msgstr "چرخشی"
+
+#: framework/admin/ui/blog.php:149 framework/admin/ui/single-options.php:93
+msgid "Categories Meta"
+msgstr "نمایش دسته بندی"
+
+#: inc/widget.php:218 framework/builder/block-panel.php:44
+#: framework/builder/block-panel.php:48 framework/builder/builder.php:29
+#: framework/admin/ui/single-options.php:208
+msgid "Category"
+msgstr "دسته بندی"
+
+#: framework/builder/block-panel.php:110 framework/builder/builder.php:41
+msgid "Category Meta"
+msgstr "نمایش دسته بندی"
+
+#: framework/metabox.php:482
+msgid "checkbox Show Featured Video"
+msgstr "نمایش ویدئوهای ویژه"
+
+#: framework/metabox.php:408
+msgid "checkbox Show Review Post"
+msgstr "نمایش جعبه امتیاز بندی"
+
+#: framework/menu/menu-item-custom-fields-options.php:195
+msgid "Choose Icon"
+msgstr "ایکون را انتخاب کنید"
+
+#: framework/category-meta.php:349 framework/metabox.php:248
+#: framework/metabox.php:371 framework/builder/builder.php:74
+msgid "Choose Image"
+msgstr "تصویر را انتخاب کنید"
+
+#: framework/metabox.php:417
+msgid "Circular"
+msgstr "دایره ای"
+
+#: framework/metabox.php:61
+msgid "Circular Review"
+msgstr "امتیاز دایره ای"
+
+#: framework/builder/block-panel.php:153 framework/builder/builder.php:54
+msgid "Code"
+msgstr "کد"
+
+#: inc/widgets/widget-ads-html.php:47
+msgid "Code:"
+msgstr "کد:"
+
+#: framework/admin/ui/logo-options.php:63
+msgid "Color Logo Description"
+msgstr "رنگ شرح سایت  "
+
+#: framework/admin/ui/logo-options.php:50
+msgid "Color Logo Title"
+msgstr "رنگ عنوان لوگو"
+
+#: framework/builder/builder-options.php:8
+msgid "Column"
+msgstr "ستون"
+
+#: framework/category-meta.php:81
+#: framework/menu/menu-item-custom-fields-options.php:142
+#: framework/admin/ui/general.php:21
+msgid "Columns"
+msgstr "ستون ها"
+
+#: functions.php:322
+msgid "Comment Already"
+msgstr "دیدگاه در حال حاضر"
+
+#: inc/widget.php:220 framework/builder/block-panel.php:115
+#: framework/builder/block-panel.php:455
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+#: functions.php:323
+msgid "Comments Already"
+msgstr "دیدگاه در حال حاضر"
+
+#: functions.php:324
+msgid "Comments are Closed."
+msgstr "دیدگاه بسته شده اند"
+
+#: framework/admin/ui/single-options.php:230
+msgid "Comments Layout"
+msgstr "طرح بندی دیدگاه ها"
+
+#: framework/builder/builder.php:47 framework/admin/ui/blog.php:190
+#: framework/admin/ui/single-options.php:109
+msgid "Comments Meta"
+msgstr "نمایش تعداد دیدگاه ها"
+
+#: functions.php:286
+msgid "Comments Off"
+msgstr "دیدگاه غیر فعال شده است"
+
+#: framework/admin/ui/single-options.php:226
+msgid "Comments Settings"
+msgstr "تنظیمات دیدگاه ها"
+
+#: framework/admin/ui/header-options.php:60
+#: framework/admin/ui/header-options.php:85
+msgid ""
+"Controls right (left on RTL) menu padding. Use a number without \"px\", "
+"Example 10"
+msgstr "از عدد بدون «px» استفاده کنید، مثال 10"
+
+#: framework/functions.php:69
+msgid "Create Navigation Menu"
+msgstr "منوی مدیریت را ایجاد کنید"
+
+#: framework/admin/ui/general.php:68
+msgid "CSS Code"
+msgstr "CSS کد"
+
+#: framework/category-meta.php:347
+msgid "Custom Background"
+msgstr "پس زمینه سفارسی"
+
+#: framework/metabox.php:246 framework/metabox.php:369
+#: framework/admin/ui/styling-general.php:52
+msgid "Custom Background Image"
+msgstr "تصویر پس زمینه سفارشی"
+
+#: framework/category-meta.php:136
+msgid "Custom Blog"
+msgstr "وبلاگ سفارسی"
+
+#: framework/admin/ui/logo-options.php:112
+msgid "Custom Favicon"
+msgstr "سفارشی سازی آیکون سایت"
+
+#: framework/category-meta.php:329 framework/metabox.php:228
+#: framework/metabox.php:351 framework/admin/ui/logo-options.php:17
+#: framework/admin/ui/styling-general.php:34
+msgid "Custom Image"
+msgstr "تصویر سفارشی"
+
+#: framework/metabox.php:90
+msgid "Custom Image Ratio"
+msgstr "نسبت تصویر سفارشی"
+
+#: framework/category-meta.php:117 framework/metabox.php:103
+#: framework/metabox.php:287
+msgid "Custom Sidebar"
+msgstr "یک نوار کناری سفارشی"
+
+#: framework/builder/block-panel.php:375 framework/builder/builder.php:35
+msgid "Custom Slides"
+msgstr "اسلایدهای سفارشی"
+
+#: framework/category-meta.php:304
+msgid "Custom Style"
+msgstr "استایل سفارشی"
+
+#: framework/custom-sidebar.php:85
+msgid "Custom-Sidebar"
+msgstr "نوار کناره ای سفارشی"
+
+#: framework/builder/block-panel.php:499
+msgid "Dark"
+msgstr "تاریک"
+
+#: functions.php:289
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: inc/widget.php:219 framework/builder/block-panel.php:117
+#: framework/builder/block-panel.php:457
+#: framework/admin/ui/header-options.php:192
+msgid "Date"
+msgstr "تاریخ"
+
+#: framework/admin/ui/header-options.php:203
+msgid "Date Alignment"
+msgstr "تراز تاریخ حال"
+
+#: framework/builder/builder.php:45 framework/admin/ui/blog.php:173
+#: framework/admin/ui/single-options.php:85
+msgid "Date Meta"
+msgstr "نمایش تاریخ"
+
+#: framework/admin/ui/header-options.php:188
+msgid "Date Options"
+msgstr "تنظیمات تاریخ حال"
+
+#: functions.php:307
+msgid "Day"
+msgstr "روز"
+
+#: functions.php:306
+msgid "Days"
+msgstr "روز"
+
+#: framework/category-meta.php:124 framework/category-meta.php:326
+#: framework/metabox.php:93 framework/metabox.php:106 framework/metabox.php:127
+#: framework/metabox.php:137 framework/metabox.php:147
+#: framework/metabox.php:157 framework/metabox.php:168
+#: framework/metabox.php:180 framework/metabox.php:190
+#: framework/metabox.php:200 framework/metabox.php:225
+#: framework/metabox.php:290 framework/metabox.php:314
+#: framework/metabox.php:324 framework/metabox.php:348
+#: framework/admin/functions.options.php:10
+#: framework/menu/menu-item-custom-fields-options.php:209
+msgid "Default"
+msgstr "پیش فرض"
+
+#: framework/admin/class.options_machine.php:1071
+msgid "Delete"
+msgstr "حذف"
+
+#: framework/admin/class.options_machine.php:1068
+msgid "Description (optional)"
+msgstr "توضیح (اختیاری)"
+
+#: framework/builder/block-panel.php:128
+msgid "Details in Vertical align middle"
+msgstr "جزئیات در وسط عمودی قرار بگیرید"
+
+#: framework/admin/ui/networking.php:78
+msgid "DeviantArt"
+msgstr ""
+
+#: framework/admin/ui/networking.php:113
+msgid "Digg"
+msgstr ""
+
+#: framework/admin/ui/ads-settings.php:17
+#: framework/admin/ui/ads-settings.php:26
+#: framework/admin/ui/ads-settings.php:35
+#: framework/admin/ui/ads-settings.php:44
+#: framework/admin/ui/ads-settings.php:53 framework/admin/ui/blog.php:17
+#: framework/admin/ui/blog.php:116 framework/admin/ui/blog.php:139
+#: framework/admin/ui/blog.php:153 framework/admin/ui/blog.php:161
+#: framework/admin/ui/blog.php:169 framework/admin/ui/blog.php:177
+#: framework/admin/ui/blog.php:186 framework/admin/ui/blog.php:194
+#: framework/admin/ui/general.php:12 framework/admin/ui/header-options.php:16
+#: framework/admin/ui/header-options.php:80
+#: framework/admin/ui/header-options.php:112
+#: framework/admin/ui/header-options.php:142
+#: framework/admin/ui/header-options.php:169
+#: framework/admin/ui/header-options.php:195
+#: framework/admin/ui/sidebars-options.php:15
+#: framework/admin/ui/sidebars-options.php:23
+#: framework/admin/ui/single-options.php:43
+#: framework/admin/ui/single-options.php:51
+#: framework/admin/ui/single-options.php:60
+#: framework/admin/ui/single-options.php:68
+#: framework/admin/ui/single-options.php:81
+#: framework/admin/ui/single-options.php:89
+#: framework/admin/ui/single-options.php:97
+#: framework/admin/ui/single-options.php:105
+#: framework/admin/ui/single-options.php:113
+#: framework/admin/ui/single-options.php:126
+#: framework/admin/ui/single-options.php:134
+#: framework/admin/ui/single-options.php:142
+#: framework/admin/ui/single-options.php:150
+#: framework/admin/ui/single-options.php:158
+#: framework/admin/ui/single-options.php:169
+#: framework/admin/ui/single-options.php:182
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: framework/builder/block-panel.php:18 framework/builder/builder.php:22
+#: framework/builder/builder.php:322 framework/builder/builder.php:355
+msgid "Done"
+msgstr "انجام شده"
+
+#: framework/admin/ui/blog.php:135
+msgid "Donot Load All Page in Pagenavi"
+msgstr ""
+"با فعال کردن این گزینه صفحه بعد شماره مرد نظر نوشته بدون لود دوباره صفحه "
+"قرار میگیرند"
+
+#: framework/admin/ui/networking.php:50
+msgid "dribbble"
+msgstr ""
+
+#: framework/admin/ui/networking.php:64
+msgid "Dropbox"
+msgstr ""
+
+#: functions.php:282
+msgid "Edit"
+msgstr "ویرایش"
+
+#: framework/admin/ui/ads-settings.php:16
+#: framework/admin/ui/ads-settings.php:25
+#: framework/admin/ui/ads-settings.php:34
+#: framework/admin/ui/ads-settings.php:43
+#: framework/admin/ui/ads-settings.php:52 framework/admin/ui/blog.php:16
+#: framework/admin/ui/blog.php:115 framework/admin/ui/blog.php:138
+#: framework/admin/ui/blog.php:152 framework/admin/ui/blog.php:160
+#: framework/admin/ui/blog.php:168 framework/admin/ui/blog.php:176
+#: framework/admin/ui/blog.php:185 framework/admin/ui/blog.php:193
+#: framework/admin/ui/general.php:11 framework/admin/ui/header-options.php:15
+#: framework/admin/ui/header-options.php:79
+#: framework/admin/ui/header-options.php:194
+#: framework/admin/ui/sidebars-options.php:14
+#: framework/admin/ui/sidebars-options.php:22
+#: framework/admin/ui/single-options.php:42
+#: framework/admin/ui/single-options.php:50
+#: framework/admin/ui/single-options.php:59
+#: framework/admin/ui/single-options.php:67
+#: framework/admin/ui/single-options.php:80
+#: framework/admin/ui/single-options.php:88
+#: framework/admin/ui/single-options.php:96
+#: framework/admin/ui/single-options.php:104
+#: framework/admin/ui/single-options.php:112
+#: framework/admin/ui/single-options.php:125
+#: framework/admin/ui/single-options.php:133
+#: framework/admin/ui/single-options.php:141
+#: framework/admin/ui/single-options.php:149
+#: framework/admin/ui/single-options.php:157
+#: framework/admin/ui/single-options.php:168
+#: framework/admin/ui/single-options.php:181
+msgid "Enable"
+msgstr "فعال کردن"
+
+#: framework/admin/ui/ads-settings.php:13
+#: framework/admin/ui/ads-settings.php:31
+msgid "Enable Ads Widget In Above Content"
+msgstr "ابازک تبلیغات را در بالای محتوا فعال کنید"
+
+#: framework/admin/ui/ads-settings.php:49
+msgid "Enable Ads Widget In Below Article"
+msgstr "ابزارک تبلیغات را در زیر مقاله فعال کنید"
+
+#: framework/admin/ui/ads-settings.php:22
+msgid "Enable Ads Widget In Below Content"
+msgstr "ابزارک تبلیغات را در زیر محتوای فعال کنید"
+
+#: framework/admin/ui/ads-settings.php:40
+msgid "Enable Ads Widget In Below Main Column Area"
+msgstr "فعال کردن ابزارک تبلیغات در پایین قسمت اصلی ستون"
+
+#: framework/admin/ui/blog.php:13
+msgid "Enable Blog In The Homepage"
+msgstr "فعال کردن وبلاگ در صفحه اصلی"
+
+#: framework/category-meta.php:138
+msgid "Enable Custom Blog"
+msgstr "فعال کردن وبلاگ سفارشی"
+
+#: framework/category-meta.php:78
+msgid "Enable Custom Columns"
+msgstr "فعال کردن ستون های سفارشی"
+
+#: functions.php:276
+msgid "Error 404"
+msgstr "خطا ۴۰۴"
+
+#: framework/admin/options.php:12
+msgid "Error!"
+msgstr "خطا!"
+
+#: framework/metabox.php:501
+msgid ""
+"Example For Youtuble , Copy \"p1ewg7Xvuo0\" in \"https://www.youtube.com/"
+"watch?v=p1ewg7Xvuo0\""
+msgstr ""
+"مثال برای یوتیوب، کپی \"p1ewg7Xvuo0\" در \"https://www.youtube.com/watch?"
+"v=p1ewg7Xvuo0\""
+
+#: framework/admin/ui/styling-general.php:145
+msgid "Excerpt Color Posts"
+msgstr "رنگ متن گزیده نوشته ها"
+
+#: framework/admin/ui/typography.php:12
+msgid "Exmple Google Font"
+msgstr "مثال گوگل فونت"
+
+#: framework/admin/ui/typography.php:42
+msgid "Exmple Standard Font"
+msgstr "مثال استاندارد فونت"
+
+#: framework/admin/options.php:37
+msgid "Expand"
+msgstr "توسعه دادن"
+
+#: framework/admin/ui/networking.php:20
+msgid "Facebook"
+msgstr "فیس بوک"
+
+#: framework/admin/ui/single-options.php:130
+msgid "Facebook Button"
+msgstr "دکمه فیس بوک "
+
+#: framework/builder/block-panel.php:494
+msgid "Fade"
+msgstr "محو شدن"
+
+#: framework/admin/ui/logo-options.php:125
+msgid "Favicon for Apple iPad (72px x 72px)."
+msgstr "فاویکون برای آی پد اپل (72 پیکسل x 72 پیکسل)."
+
+#: framework/admin/ui/logo-options.php:119
+msgid "Favicon for Apple iPhone (57px x 57px)."
+msgstr "فاویکون برای آیفون اپل (57 پیکسل x 57 پیکسل)."
+
+#: framework/admin/ui/logo-options.php:113
+msgid "Favicon for your Website"
+msgstr "فاویکون برای وب سایت شما"
+
+#: framework/admin/ui/logo-options.php:107
+msgid "Favicon Options"
+msgstr "آیکون سایت"
+
+#: framework/builder/builder-options.php:9
+msgid "Featured"
+msgstr "ویژه"
+
+#: framework/metabox.php:56
+msgid "Featured Image Meta"
+msgstr "خصوصیات تصویر شاخص"
+
+#: framework/metabox.php:479
+msgid "Featured Video"
+msgstr "ویدئو های ویژه"
+
+#: framework/metabox.php:487
+msgid "Featured Video Type"
+msgstr "نوع ویدیوی ویژه"
+
+#: framework/metabox.php:498
+msgid "Featured Video Url"
+msgstr "URL ویدیو ویژه"
+
+#: functions.php:278
+msgid "First"
+msgstr "اولین"
+
+#: framework/admin/ui/networking.php:71
+msgid "Flickr"
+msgstr ""
+
+#: framework/admin/ui/typography.php:23 framework/admin/ui/typography.php:55
+msgid "Font Family Body"
+msgstr "فونت بدنه"
+
+#: framework/admin/ui/typography.php:29 framework/admin/ui/typography.php:61
+msgid "Font Family Logo"
+msgstr "فونت لوگو"
+
+#: framework/admin/ui/typography.php:113
+msgid "Font Line Heights"
+msgstr "ارتفاع خط"
+
+#: framework/admin/ui/typography.php:69
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+#: framework/admin/ui/typography.php:104
+msgid "Font Size Article Text"
+msgstr "اندازه فونت متن عنوان تک نوشته ها"
+
+#: framework/admin/ui/typography.php:88
+msgid "Font Size Breadcrumbs"
+msgstr "اندازه فونت صفحه فعلی"
+
+#: framework/admin/ui/typography.php:74
+msgid "Font Size in Main Head"
+msgstr "اندازه فونت سربرگ اصلی"
+
+#: framework/admin/ui/typography.php:81
+msgid "Font Size in Top Header"
+msgstr "اندازه فونت سربرگ بالایی"
+
+#: framework/admin/ui/logo-options.php:56
+msgid "Font Size Logo Description"
+msgstr "اندازه فونت شرح سایت"
+
+#: framework/admin/ui/logo-options.php:43
+msgid "Font Size Logo Title"
+msgstr "اندازه فونت عنوان"
+
+#: framework/admin/ui/typography.php:95
+msgid "Font Size Title Box"
+msgstr "اندازه فونت عنوان جعبه ها"
+
+#: inc/widget.php:247
+msgid "Footer Column 1"
+msgstr "ستون ۱ برای پاورقی"
+
+#: inc/widget.php:258
+msgid "Footer Column 2"
+msgstr "ستون ۲ برای پاورقی"
+
+#: inc/widget.php:269
+msgid "Footer Column 3"
+msgstr "ستون ۳ برای پاورقی"
+
+#: framework/admin/ui/styling-general.php:157
+msgid "Footer Style"
+msgstr "استایل پاورقی"
+
+#: framework/builder/block-panel.php:149 framework/builder/builder.php:53
+msgid "Full Size Image"
+msgstr "تصویر کامل"
+
+#: inc/widgets/widget-ads.php:69
+msgid "Full Size Image:"
+msgstr "اندازه کامل تصویر:"
+
+#: framework/metabox.php:117 framework/metabox.php:304
+msgid "Full Width Post"
+msgstr "نوشته با عرض کامل"
+
+#: framework/category-meta.php:75 framework/admin/ui/general.php:2
+msgid "General"
+msgstr "عمومی "
+
+#: framework/admin/ui/blog.php:8
+msgid "General Blog Options"
+msgstr "تنظیمات عمومی وبلاگ"
+
+#: framework/metabox.php:5 framework/metabox.php:8
+msgid "General Options"
+msgstr "تنظیمات عمومی"
+
+#: framework/admin/ui/typography.php:8
+msgid "Google Fonts"
+msgstr "فونت های گوگل"
+
+#: framework/admin/ui/networking.php:34
+msgid "Google+"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:138
+msgid "Google+ Button"
+msgstr "Google+ دکمه "
+
+#: framework/builder/builder-options.php:12
+msgid "Grid"
+msgstr "گرید"
+
+#: framework/admin/ui/header-options.php:21
+msgid "Header Height"
+msgstr "ارتفاع سربرگ"
+
+#: framework/admin/ui/header-options.php:2
+msgid "Header Options"
+msgstr "تنظیمات سربرگ"
+
+#: framework/builder/block-panel.php:67 framework/builder/block-panel.php:71
+#: framework/builder/builder.php:63
+msgid "Height"
+msgstr "ارتفاع"
+
+#: framework/metabox.php:138 framework/metabox.php:148
+#: framework/metabox.php:158 framework/metabox.php:169
+#: framework/metabox.php:181 framework/metabox.php:191
+#: framework/metabox.php:201 framework/metabox.php:315
+#: framework/metabox.php:325 framework/admin/ui/general.php:43
+msgid "Hide"
+msgstr "مخفی کردن"
+
+#: framework/metabox.php:165
+msgid "Hide Author Bio"
+msgstr "مخفی کردن نویسنده "
+
+#: framework/metabox.php:187 framework/metabox.php:311
+msgid "Hide Below Ads Widget"
+msgstr "مخفی کردن ویجت تبلیغ زیر"
+
+#: framework/metabox.php:197 framework/metabox.php:321
+msgid "Hide Comments"
+msgstr ""
+
+#: framework/metabox.php:154
+msgid "Hide Next and Previous Post"
+msgstr "مخفی کردن پست بعدی و قبلی"
+
+#: framework/metabox.php:134
+msgid "Hide Post Meta"
+msgstr "مخفی کردن خصوصیات نوشته ها"
+
+#: framework/metabox.php:144
+msgid "Hide Post Share"
+msgstr "مخفی کردن اشتراک گزاری نوشته ها"
+
+#: framework/metabox.php:124
+msgid "Hide Post Tags"
+msgstr "مخفی کردن برچسب ها"
+
+#: framework/metabox.php:177
+msgid "Hide Related Post"
+msgstr "مخفی کردن پست های مرتبط"
+
+#: framework/admin/ui/sidebars-options.php:19
+msgid "Hide Sidebar in Mobile"
+msgstr "پنهان کردن نوار کناری در موبایل"
+
+#: framework/builder/builder.php:31
+msgid "hieght"
+msgstr "ارتفاع"
+
+#: framework/admin/ui/sidebars-options.php:32
+msgid "Home Main Sidebar"
+msgstr "نوار کناری اصلی در خانه"
+
+#: framework/admin/ui/sidebars-options.php:27
+msgid "Home Sidebar"
+msgstr "نوار کناری خانه"
+
+#: functions.php:272
+msgid "Homepage"
+msgstr "صفحه خانگی"
+
+#: functions.php:309
+msgid "Hour"
+msgstr "ساعت"
+
+#: functions.php:308
+msgid "Hours"
+msgstr "ساعت"
+
+#: framework/builder/builder-options.php:17
+msgid "Html"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://rezadeveloper.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://rezadeveloper.com/xecuter"
+msgstr ""
+
+#: framework/menu/menu-item-custom-fields-options.php:207
+msgid "Icon Size"
+msgstr "اندازه آیکون"
+
+#: framework/category-meta.php:267 framework/admin/ui/blog.php:100
+msgid "Image Height"
+msgstr "پیشنمایش ارتفاع تصویر"
+
+#: framework/category-meta.php:243 framework/category-meta.php:256
+#: framework/builder/block-panel.php:75 framework/builder/block-panel.php:78
+#: framework/builder/block-panel.php:81 framework/builder/block-panel.php:84
+#: framework/builder/builder.php:64
+#: framework/menu/menu-item-custom-fields-options.php:182
+#: inc/widgets/widget-featured-1c.php:131
+#: inc/widgets/widget-featured-2c.php:131
+#: inc/widgets/widget-featured-3c.php:121 inc/widgets/widget-grid-1c.php:125
+#: inc/widgets/widget-grid-2c.php:122 inc/widgets/widget-list-1c.php:152
+#: inc/widgets/widget-list-2.php:152 inc/widgets/widget-list-3.php:148
+#: inc/widgets/widget-slider.php:145 inc/widgets/widget-text-2.php:130
+#: inc/widgets/widget-text-3.php:127 framework/admin/ui/blog.php:76
+#: framework/admin/ui/blog.php:88 framework/admin/ui/single-options.php:28
+#: framework/admin/ui/single-options.php:214
+msgid "Image Ratio"
+msgstr "نسبت تصویر سفارشی"
+
+#: framework/category-meta.php:220 framework/category-meta.php:231
+#: framework/builder/block-panel.php:60 framework/builder/block-panel.php:63
+#: framework/builder/builder.php:67 inc/widgets/widget-list-1c.php:143
+#: inc/widgets/widget-list-2.php:143 inc/widgets/widget-list-3.php:139
+#: framework/admin/ui/blog.php:57 framework/admin/ui/blog.php:66
+msgid "Image Size"
+msgstr "اندازه تصویر"
+
+#: framework/admin/class.options_machine.php:1048
+msgid "Image URL"
+msgstr "آدرس تصویر"
+
+#: framework/admin/class.options_machine.php:751
+msgid "Import Options"
+msgstr "ورودی گرفتن دادها"
+
+#: framework/admin/class.options_machine.php:785
+msgid "Import Predefined Styles"
+msgstr "وارد کردن استایل های از پیش تعریف شده"
+
+#: framework/admin/ui/header-options.php:113
+#: framework/admin/ui/header-options.php:143
+#: framework/admin/ui/header-options.php:170
+msgid "in Main Header"
+msgstr "در سربرگ اصلی"
+
+#: framework/admin/ui/logo-options.php:57
+#: framework/admin/ui/logo-options.php:70
+#: framework/admin/ui/logo-options.php:83 framework/admin/ui/typography.php:75
+#: framework/admin/ui/typography.php:82 framework/admin/ui/typography.php:89
+#: framework/admin/ui/typography.php:96 framework/admin/ui/typography.php:105
+#: framework/admin/ui/typography.php:117
+msgid "In pixels"
+msgstr "در پیکسل"
+
+#: framework/admin/ui/header-options.php:114
+#: framework/admin/ui/header-options.php:144
+#: framework/admin/ui/header-options.php:171
+msgid "in Top Header"
+msgstr "در سربرگ بالایی"
+
+#: framework/admin/ui/general.php:56
+msgid "input  Text in Bottom Footer"
+msgstr "متن ورودی در پایانه وارقی"
+
+#: framework/admin/ui/networking.php:157
+msgid ""
+"Insert your custom link to show the Behance icon. Leave blank to hide icon"
+msgstr ""
+"لینک سفارشی خود را برای نمایش نماد Behance بگذارید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:79
+msgid ""
+"Insert your custom link to show the DeviantArt icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را برای نماد DeviantArt نمایش دهید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:114
+msgid "Insert your custom link to show the Digg icon. Leave blank to hide icon"
+msgstr ""
+"لینک سفارشی خود را برای نمایش آیکون Digg وارد کنید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:51
+msgid ""
+"Insert your custom link to show the dribbble icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را وارد کنید تا نماد dribbble نشان داده شود. برای مخفی کردن "
+"نماد خالی بگذارید"
+
+#: framework/admin/ui/networking.php:65
+msgid ""
+"Insert your custom link to show the Dropbox icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را برای نشان دادن نماد Dropbox بگذارید. برای مخفی کردن نماد "
+"خالی بگذارید"
+
+#: framework/admin/ui/networking.php:21
+msgid ""
+"Insert your custom link to show the Facebook icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را برای نمایش آیکون فیس بوک وارد کنید. برای مخفی کردن نماد "
+"خالی بگذارید "
+
+#: framework/admin/ui/networking.php:72
+msgid ""
+"Insert your custom link to show the Flickr icon. Leave blank to hide icon"
+msgstr ""
+"لینک سفارشی خود را برای نمایش نماد فلیکر وارد کنید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:35
+msgid ""
+"Insert your custom link to show the Google+ icon. Leave blank to hide icon"
+msgstr ""
+"پیوند سفارشی خود را برای نمایش آیکون + Google وارد کنید. برای مخفی کردن نماد "
+"خالی بگذارید"
+
+#: framework/admin/ui/networking.php:143
+msgid ""
+"Insert your custom link to show the Instagram icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را برای نماد Instagram نشان دهید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:58
+msgid ""
+"Insert your custom link to show the LinkedIn icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را برای نمایش آیکون LinkedIn وارد کنید. برای مخفی کردن نماد "
+"خالی بگذارید"
+
+#: framework/admin/ui/networking.php:150
+msgid ""
+"Insert your custom link to show the PayPal icon. Leave blank to hide icon"
+msgstr ""
+"پیوند سفارشی خود را برای نماد پی پال نشان دهید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:136
+msgid ""
+"Insert your custom link to show the Pinterest icon. Leave blank to hide icon"
+msgstr ""
+"پیوند دلخواه خود را برای نمایش آیکون Pinterest بگذارید. برای مخفی کردن نماد "
+"خالی بگذارید"
+
+#: framework/admin/ui/networking.php:14
+msgid "Insert your custom link to show the RSS icon. Leave blank to hide icon"
+msgstr ""
+"لینک سفارشی خود را برای نمایش آیکون RSS وارد کنید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:107
+msgid ""
+"Insert your custom link to show the Skype icon. Leave blank to hide icon"
+msgstr ""
+"پیوند سفارشی خود را برای نماد اسکایپ نشان دهید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:121
+msgid ""
+"Insert your custom link to show the StumbleUpon icon. Leave blank to hide "
+"icon"
+msgstr ""
+"لینک دلخواه خود را برای نماد StumbleUpon نمایش دهید. برای مخفی کردن نماد "
+"خالی بگذارید"
+
+#: framework/admin/ui/networking.php:42
+msgid ""
+"Insert your custom link to show the Telegram icon. Leave blank to hide icon"
+msgstr ""
+"لینک سفارشی خود را برای نماد Telegram وارد کنید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:128
+msgid ""
+"Insert your custom link to show the Tumblr icon. Leave blank to hide icon"
+msgstr ""
+"لینک سفارشی خود را برای نماد Tumblr نشان دهید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:28
+msgid ""
+"Insert your custom link to show the Twitter icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را برای نمایش آیکون توییتر وارد کنید. برای مخفی کردن نماد "
+"خالی بگذارید  "
+
+#: framework/admin/ui/networking.php:100
+msgid ""
+"Insert your custom link to show the Vimeo icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را برای نمایش آیکون Vimeo بگذارید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:93
+msgid ""
+"Insert your custom link to show the yahoo icon. Leave blank to hide icon"
+msgstr ""
+"پیوند سفارشی خود را برای نماد یاهو نشان دهید. برای مخفی کردن نماد خالی "
+"بگذارید"
+
+#: framework/admin/ui/networking.php:86
+msgid ""
+"Insert your custom link to show the YouTube icon. Leave blank to hide icon"
+msgstr ""
+"لینک دلخواه خود را برای نمایش آیکون YouTube وارد کنید. برای مخفی کردن نماد "
+"خالی بگذارید"
+
+#: framework/admin/ui/networking.php:142
+msgid "Instagram"
+msgstr ""
+
+#: inc/widget.php:283 inc/widget.php:295 inc/widget.php:307 inc/widget.php:319
+#: inc/widget.php:331
+msgid "just for show ADS widget"
+msgstr "فقط برای نشان دادن ویجت تبلیغ"
+
+#: framework/category-meta.php:224 framework/category-meta.php:236
+#: framework/builder/block-panel.php:399 framework/builder/block-panel.php:407
+#: framework/admin/ui/blog.php:62 framework/admin/ui/blog.php:72
+msgid "Large"
+msgstr "بزرگ"
+
+#: functions.php:279
+msgid "Last"
+msgstr "آخر"
+
+#: framework/admin/class.options_machine.php:739
+msgid "Last Backup :"
+msgstr "آخرین پشتیبان :"
+
+#: framework/admin/ui/header-options.php:72
+#: framework/admin/ui/header-options.php:99
+#: framework/admin/ui/header-options.php:128
+#: framework/admin/ui/header-options.php:155
+#: framework/admin/ui/header-options.php:182
+#: framework/admin/ui/header-options.php:208
+#: framework/admin/ui/logo-options.php:101
+msgid "Left"
+msgstr "چپ"
+
+#: framework/builder/block-panel.php:498
+msgid "Light"
+msgstr "روشن"
+
+#: framework/admin/ui/single-options.php:47
+msgid "Light Box Image"
+msgstr "لایت باکس کردن تصاویر"
+
+#: framework/category-meta.php:289 framework/builder/block-panel.php:106
+#: framework/builder/builder.php:40 inc/widgets/widget-featured-1c.php:159
+#: inc/widgets/widget-featured-2c.php:159 inc/widgets/widget-grid-1c.php:143
+#: inc/widgets/widget-list-1c.php:170 inc/widgets/widget-list-2.php:170
+#: inc/widgets/widget-slider.php:168 inc/widgets/widget-text-1c.php:127
+#: inc/widgets/widget-text-2.php:148 framework/admin/ui/blog.php:127
+msgid "Limit Excerpt length"
+msgstr "محدود کردن طول گزیده"
+
+#: framework/category-meta.php:281 framework/builder/block-panel.php:101
+#: framework/builder/builder.php:39 inc/widgets/widget-featured-1c.php:154
+#: inc/widgets/widget-featured-2c.php:154 inc/widgets/widget-grid-1c.php:138
+#: inc/widgets/widget-grid-2c.php:131 inc/widgets/widget-list-1c.php:165
+#: inc/widgets/widget-list-2.php:165 inc/widgets/widget-list-3.php:158
+#: inc/widgets/widget-slider.php:163 inc/widgets/widget-text-1c.php:122
+#: inc/widgets/widget-text-2.php:143 inc/widgets/widget-text-3.php:136
+#: framework/admin/ui/blog.php:119
+msgid "Limit Title length"
+msgstr "محدود کردن طول عنوان"
+
+#: framework/admin/ui/typography.php:116
+msgid "Line Height Article Text"
+msgstr "خط ارتفاع تک نوشته ها"
+
+#: inc/widgets/widget-text-link.php:49
+msgid "Link"
+msgstr "ارتباط دادن"
+
+#: framework/builder/builder.php:331 framework/admin/ui/styling-general.php:168
+msgid "Link Color"
+msgstr "رنگ متن لینک ها"
+
+#: framework/admin/ui/styling-general.php:140
+msgid "Link Color Title Posts"
+msgstr "رنگ لینک عنوان نوشته ها"
+
+#: framework/admin/class.options_machine.php:1065
+msgid "Link URL (optional)"
+msgstr "آدرس لینک   (اختیاری)"
+
+#: framework/admin/ui/networking.php:57
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:146
+msgid "Linkedin Button"
+msgstr "دکمه Linkedin"
+
+#: framework/builder/builder-options.php:13
+#: framework/admin/ui/single-options.php:235
+msgid "List"
+msgstr "فهرست"
+
+#: functions.php:287
+msgid "Load more"
+msgstr "بیشتر"
+
+#: functions.php:292
+msgid "Log In"
+msgstr "ورود"
+
+#: functions.php:291
+msgid "Log Out"
+msgstr "خروج"
+
+#: inc/widgets/widget-login.php:92
+msgid "Login"
+msgstr "ورود"
+
+#: inc/widgets/widget-login.php:10 framework/admin/ui/header-options.php:108
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: framework/admin/ui/header-options.php:124
+msgid "Login Form Alignment"
+msgstr "تراز فرم ورود"
+
+#: framework/admin/ui/header-options.php:104
+msgid "Login Form Options"
+msgstr "تنظیمات فرم ورود"
+
+#: framework/admin/ui/logo-options.php:97
+msgid "Logo Alignment"
+msgstr "تراز لوگو"
+
+#: framework/admin/ui/logo-options.php:2
+msgid "Logo And Favicon"
+msgstr "لوگو و فاویکون"
+
+#: framework/admin/ui/logo-options.php:82
+msgid "Logo Height"
+msgstr "ارتفاع لوگو"
+
+#: framework/admin/ui/logo-options.php:29
+msgid "Logo Image"
+msgstr "تصویر لوگو"
+
+#: framework/admin/ui/logo-options.php:8
+msgid "Logo Options"
+msgstr "گزینه های لوگو"
+
+#: framework/admin/ui/logo-options.php:13
+msgid "Logo Type"
+msgstr "نوع لوگو"
+
+#: framework/admin/ui/logo-options.php:69
+msgid "Logo Width"
+msgstr "عرض لوگو"
+
+#: functions.php:298
+msgid "Lost Your Password?"
+msgstr "رمز عبور خود را فراموش کرده اید؟"
+
+#: framework/admin/ui/header-options.php:24
+msgid "Main Header Height"
+msgstr "ارتفاع سربرگ اصلی"
+
+#: framework/admin/ui/styling-general.php:82
+msgid "Main Header Style"
+msgstr "استایل سربرگ اصلی"
+
+#: framework/functions.php:45
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+#: framework/admin/ui/header-options.php:68
+msgid "Main Menu Alignment"
+msgstr " تراز منو اصلی"
+
+#: framework/admin/ui/header-options.php:59
+msgid "Main Menu Item Padding"
+msgstr "فاصله بین آیتم های منو در منوی اصلی"
+
+#: framework/category-meta.php:223 framework/category-meta.php:235
+#: framework/builder/block-panel.php:398 framework/builder/block-panel.php:406
+#: framework/admin/ui/blog.php:61 framework/admin/ui/blog.php:71
+msgid "Medium"
+msgstr "متوسط"
+
+#: framework/menu/menu-item-custom-fields-options.php:153
+msgid "Mega Menu"
+msgstr "مگا منو"
+
+#: framework/admin/ui/header-options.php:54
+msgid "Menu Options"
+msgstr "تنظیمات منو"
+
+#: framework/builder/builder.php:333
+msgid "Meta Color"
+msgstr "رنگ متن خصوصیات نوشته ها"
+
+#: functions.php:311
+msgid "Minute"
+msgstr "دقیقه"
+
+#: functions.php:310
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: functions.php:305
+msgid "Month"
+msgstr "ماه"
+
+#: functions.php:304
+msgid "Months"
+msgstr "ماه"
+
+#: framework/builder/block-panel.php:437
+msgid "Most Comments "
+msgstr "بیشترین دیدگاه ها"
+
+#: framework/builder/block-panel.php:438
+msgid "Most Comments 1 day ago"
+msgstr "بیشترین دیدگاه ها 1 روز قبل"
+
+#: framework/builder/block-panel.php:440
+msgid "Most Comments 1 month ago"
+msgstr "بیشترین دیدگاه ها 1 ماه قبل"
+
+#: framework/builder/block-panel.php:439
+msgid "Most Comments 1 week ago"
+msgstr "بیشترین دیدگاه ها 1 هفته  قبل"
+
+#: framework/builder/block-panel.php:441
+msgid "Most Comments 1 year ago"
+msgstr "بیشترین دیدگاه ها 1 سال قبل"
+
+#: framework/builder/block-panel.php:442
+msgid "Most Views"
+msgstr "بیشترین بازدیدها"
+
+#: framework/builder/block-panel.php:443
+msgid "Most Views - 1 day ago"
+msgstr "بیشترین بازدیدها - 1 روز قبل"
+
+#: framework/builder/block-panel.php:445
+msgid "Most Views - 1 month ago"
+msgstr "بیشترین بازدیدها - 1 ماه قبل"
+
+#: framework/builder/block-panel.php:444
+msgid "Most Views - 1 week ago"
+msgstr "بیشترین بازدیدها - 1 هفته قبل"
+
+#: framework/builder/block-panel.php:446
+msgid "Most Views - 1 year ago"
+msgstr "بیشترین بازدیدها - 1 سال قبل"
+
+#: framework/admin/ui/styling-general.php:68
+msgid "Mosue Over"
+msgstr "رنگ نگه داشتن"
+
+#: framework/metabox.php:490
+msgid "Mp4"
+msgstr ""
+
+#: functions.php:281
+msgid "Next"
+msgstr "بعدی"
+
+#: framework/admin/ui/single-options.php:56
+msgid "Next And Previous Post"
+msgstr "نوشته های بعدی و قبلی"
+
+#: functions.php:321
+msgid "No Comments Yet"
+msgstr "بدون دیدگاه"
+
+#: framework/builder/block-panel.php:139 framework/builder/builder.php:50
+msgid "Nofollow"
+msgstr "توسط گوگل دنبال نشود"
+
+#: inc/widgets/widget-ads.php:57
+msgid "Nofollow:"
+msgstr "توسط گوگل دنبال نشود:"
+
+#: framework/category-meta.php:105 framework/category-meta.php:327
+#: framework/metabox.php:59 framework/metabox.php:226 framework/metabox.php:349
+#: inc/widget.php:216 framework/admin/functions.options.php:34
+#: framework/builder/block-panel.php:497
+#: framework/menu/menu-item-custom-fields-options.php:156
+#: framework/admin/ui/styling-general.php:32
+msgid "None"
+msgstr "هیچ"
+
+#: inc/widgets/widget-recent-comments.php:85
+msgid "Number of Comments"
+msgstr "تعداد دیدگاه ها برای نمایش"
+
+#: inc/widgets/widget-featured-1c.php:110
+#: inc/widgets/widget-featured-2c.php:110
+#: inc/widgets/widget-featured-3c.php:100 inc/widgets/widget-grid-1c.php:104
+#: inc/widgets/widget-grid-2c.php:101 inc/widgets/widget-list-1c.php:122
+#: inc/widgets/widget-list-2.php:122 inc/widgets/widget-list-3.php:118
+#: inc/widgets/widget-slider.php:124 inc/widgets/widget-text-1c.php:97
+#: inc/widgets/widget-text-2.php:109 inc/widgets/widget-text-3.php:106
+msgid "Number of Posts"
+msgstr "تعداد نوشته ها"
+
+#: framework/builder/block-panel.php:31
+msgid "Number of Posts to show"
+msgstr "تعداد نوشته ها برای نمایش"
+
+#: framework/builder/builder.php:32
+msgid "Number of posts to show"
+msgstr "تعداد نوشته ها برای نمایش"
+
+#: functions.php:277
+msgid "of"
+msgstr "از"
+
+#: functions.php:326
+msgid "Oops! That Page can&rsquo;t be found."
+msgstr "وای! این صفحه را نمیتوان یافت."
+
+#: framework/builder/block-panel.php:135 framework/builder/builder.php:49
+msgid "Open in New Window"
+msgstr "باز در پنجره جدید"
+
+#: inc/widgets/widget-ads.php:53
+msgid "Open in New Window:"
+msgstr "باز در پنجره جدید:"
+
+#: framework/builder/block-panel.php:18 framework/builder/builder.php:21
+#: framework/builder/builder.php:321 framework/builder/builder.php:349
+msgid "Options"
+msgstr "تنظیمات"
+
+#: framework/admin/options.php:8 framework/admin/options.php:68
+msgid "Options Reset"
+msgstr "تنظیم مجدد"
+
+#: framework/admin/ui/sidebars-options.php:8
+msgid "Options Sidebar"
+msgstr "تنظیمات نوار کناره ای"
+
+#: framework/admin/options.php:4
+msgid "Options Updated"
+msgstr "گزینه ها  به روز شد"
+
+#: framework/builder/block-panel.php:52 framework/builder/builder.php:30
+msgid "Order by"
+msgstr "سفارش توسط"
+
+#: framework/admin/ui/translation.php:2
+msgid "Orginal"
+msgstr "اصلی"
+
+#: functions.php:275
+msgid "Page"
+msgstr "عنوان"
+
+#: framework/builder/builder.php:108
+msgid "Page builder"
+msgstr "سازنده صفحه"
+
+#: framework/admin/ui/sidebars-options.php:55
+msgid "Page Main Sidebar"
+msgstr "نوار کناری اصلی برای برگه ها"
+
+#: framework/admin/ui/sidebars-options.php:50
+msgid "Page Sidebar"
+msgstr "نوار کناری برگه ها"
+
+#: framework/admin/ui/blog.php:134
+msgid "Pagenavi Ajax"
+msgstr "شماره بندی صفحه ها به صورت آژاکس"
+
+#: functions.php:315
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: functions.php:295
+msgid "Password:"
+msgstr "کلمه عبور:"
+
+#: framework/category-meta.php:328 framework/metabox.php:227
+#: framework/metabox.php:350 framework/admin/ui/styling-general.php:33
+msgid "Pattern"
+msgstr "یک پترن برای پس زمینه انتخاب کنید"
+
+#: framework/admin/ui/networking.php:149
+msgid "PayPal"
+msgstr ""
+
+#: functions.php:318
+msgid "Pingback:"
+msgstr "پینگ بک:"
+
+#: framework/admin/ui/networking.php:135
+msgid "Pinterest"
+msgstr ""
+
+#: framework/admin/ui/blog.php:128
+msgid "Please Enter Maximum Number of characters"
+msgstr "لطفا حداکثر تعداد کاراکترها را وارد کنید"
+
+#: framework/admin/ui/blog.php:120
+msgid "Please enter Maximum number of characters"
+msgstr "لطفا حداکثر تعداد کاراکترها را وارد کنید"
+
+#: framework/builder/block-panel.php:120
+msgid "Post"
+msgstr "نوشته"
+
+#: framework/builder/block-panel.php:114 framework/builder/builder.php:42
+msgid "Post Meta"
+msgstr "خصوصیات نوشته "
+
+#: framework/admin/ui/single-options.php:39
+msgid "Post Tags"
+msgstr "برچسبهای نوشته"
+
+#: framework/builder/builder.php:28
+msgid "Post Type"
+msgstr "نوع نوشته"
+
+#: framework/builder/block-panel.php:36
+msgid "Post type"
+msgstr "نوع نوشته"
+
+#: framework/builder/block-panel.php:374 framework/builder/builder.php:34
+#: framework/menu/menu-item-custom-fields-options.php:138
+msgid "Posts"
+msgstr "نوشته ها"
+
+#: inc/widgets/widget-featured-1c.php:11
+msgid "Posts Box Featured 1 Column"
+msgstr "جعبه نوشته ها - ویژه ۱ ستونه"
+
+#: inc/widgets/widget-featured-2c.php:11
+msgid "Posts Box Featured 2 Column"
+msgstr "جعبه نوشته ها - ویژه ۲ ستونه"
+
+#: inc/widgets/widget-featured-3c.php:11
+msgid "Posts Box Featured 3 Column"
+msgstr "جعبه نوشته ها - ویژه ۳ ستونه"
+
+#: inc/widgets/widget-grid-1c.php:11
+msgid "Posts Box Grid 1 Column"
+msgstr "جعبه نوشته ها - گرید ۱ ستونه"
+
+#: inc/widgets/widget-grid-2c.php:11
+msgid "Posts Box Grid 2 Column"
+msgstr "جعبه نوشته ها - گرید ۲ ستونه"
+
+#: inc/widgets/widget-list-1c.php:11
+msgid "Posts Box List 1 Column"
+msgstr "جعبه نوشته ها - لیست ۱ ستونه"
+
+#: inc/widgets/widget-list-2.php:11
+msgid "Posts Box List 2"
+msgstr "جعبه نوشته ها - لیست ۲"
+
+#: inc/widgets/widget-list-3.php:11
+msgid "Posts Box List 3"
+msgstr "جعبه نوشته ها - لیست ۳"
+
+#: inc/widgets/widget-slider.php:11
+msgid "Posts Box Slider"
+msgstr "جعبه نوشته ها - اسلایدر"
+
+#: inc/widgets/widget-text-1c.php:11
+msgid "Posts Box Text 1 Column"
+msgstr "جعبه نوشته ها - متن ۱ ستونه"
+
+#: inc/widgets/widget-text-2.php:11
+msgid "Posts Box Text 2"
+msgstr "جعبه نوشته ها - متن ۲"
+
+#: inc/widgets/widget-text-3.php:11
+msgid "Posts Box Text 3"
+msgstr "جعبه نوشته ها - متن ۳"
+
+#: inc/widgets/widget-featured-1c.php:167
+#: inc/widgets/widget-featured-2c.php:167 inc/widgets/widget-grid-1c.php:151
+#: inc/widgets/widget-grid-2c.php:140 inc/widgets/widget-list-1c.php:178
+#: inc/widgets/widget-list-2.php:178 inc/widgets/widget-list-3.php:166
+#: inc/widgets/widget-slider.php:176 inc/widgets/widget-text-1c.php:131
+#: inc/widgets/widget-text-2.php:156 inc/widgets/widget-text-3.php:146
+msgid "Posts Meta"
+msgstr "خصوصیات نوشته ها"
+
+#: inc/widgets/widget-featured-1c.php:176
+#: inc/widgets/widget-featured-2c.php:176 inc/widgets/widget-grid-1c.php:160
+#: inc/widgets/widget-grid-2c.php:149 inc/widgets/widget-list-1c.php:187
+#: inc/widgets/widget-list-2.php:187 inc/widgets/widget-list-3.php:175
+#: inc/widgets/widget-slider.php:185 inc/widgets/widget-text-1c.php:140
+#: inc/widgets/widget-text-2.php:165 inc/widgets/widget-text-3.php:155
+msgid "Posts Meta 2"
+msgstr "خصوصیات نوشته ها ۲"
+
+#: inc/widgets/widget-featured-1c.php:123
+#: inc/widgets/widget-featured-2c.php:123
+#: inc/widgets/widget-featured-3c.php:113 inc/widgets/widget-grid-1c.php:117
+#: inc/widgets/widget-grid-2c.php:114 inc/widgets/widget-list-1c.php:135
+#: inc/widgets/widget-list-2.php:135 inc/widgets/widget-list-3.php:131
+#: inc/widgets/widget-slider.php:137 inc/widgets/widget-text-1c.php:110
+#: inc/widgets/widget-text-2.php:122 inc/widgets/widget-text-3.php:119
+msgid "Posts Order"
+msgstr "ترتیب نوشته ها"
+
+#: framework/admin/ui/styling-general.php:127
+msgid "Posts Style"
+msgstr "استایل نوشته ها"
+
+#: framework/admin/functions.options.php:184
+msgid "Predefined"
+msgstr "تنظمیات آماده"
+
+#: framework/admin/functions.options.php:189
+#: framework/admin/functions.options.php:213
+msgid "Predefined Layout"
+msgstr "استایل پیشنهادی"
+
+#: functions.php:280
+msgid "Previous"
+msgstr "قبلی"
+
+#: framework/category-meta.php:308 framework/metabox.php:208
+#: framework/metabox.php:331 framework/admin/ui/styling-general.php:13
+msgid "Primary Color"
+msgstr "رنگ اصلی سایت"
+
+#: framework/category-meta.php:125 framework/metabox.php:107
+#: framework/metabox.php:291 inc/widget.php:234
+#: framework/admin/functions.options.php:11
+#: framework/builder/block-panel.php:366
+msgid "Primery Sidebar"
+msgstr "نوار کناری اصلی"
+
+#: framework/admin/ui/single-options.php:202
+msgid "Query Type"
+msgstr "نوع ترتیب"
+
+#: framework/builder/block-panel.php:432
+msgid "Randam"
+msgstr "تصادفی"
+
+#: framework/builder/block-panel.php:433
+msgid "Randam - 1 day ago"
+msgstr "تصادفی - 1 روز قبل"
+
+#: framework/builder/block-panel.php:435
+msgid "Randam - 1 month ago"
+msgstr "تصادفی - 1 ماه قبل"
+
+#: framework/builder/block-panel.php:434
+msgid "Randam - 1 week ago"
+msgstr "تصادفی - 1 هفته قبل"
+
+#: framework/builder/block-panel.php:436
+msgid "Randam - 1 year ago"
+msgstr "تصادفی - 1 سال قبل"
+
+#: framework/menu/menu-item-custom-fields-options.php:140
+#: framework/admin/ui/single-options.php:210
+msgid "Random"
+msgstr "تصادفی"
+
+#: framework/menu/menu-item-custom-fields-options.php:139
+#: framework/admin/ui/single-options.php:207
+msgid "Recent"
+msgstr "اخیر"
+
+#: inc/widgets/widget-recent-comments.php:11
+#: inc/widgets/widget-recent-comments.php:73
+msgid "Recent Comments"
+msgstr "دیدگاه ها اخیر"
+
+#: framework/builder/block-panel.php:431 framework/admin/ui/blog.php:23
+msgid "Recent Posts"
+msgstr "نوشته های اخیر"
+
+#: functions.php:297
+msgid "Register"
+msgstr "ثبت نام"
+
+#: framework/admin/ui/single-options.php:178
+#: framework/admin/ui/single-options.php:195
+msgid "Related Posts"
+msgstr "نوشته های مرتبط"
+
+#: framework/admin/ui/single-options.php:174
+msgid "Related Posts Settings"
+msgstr "تنظیمات   نوشته ها مرتبط"
+
+#: framework/admin/ui/single-options.php:193
+msgid "Related Posts Title"
+msgstr "پست های مرتبط عنوان"
+
+#: functions.php:296
+msgid "Remember Me"
+msgstr "مرا به خاطر بسپار"
+
+#: framework/category-meta.php:353 framework/custom-sidebar.php:50
+#: framework/custom-sidebar.php:59 framework/metabox.php:252
+#: framework/metabox.php:375 framework/admin/class.options_machine.php:978
+#: framework/admin/class.options_machine.php:1054
+#: framework/builder/block-panel.php:342 framework/builder/builder.php:25
+msgid "Remove"
+msgstr "برداشتن"
+
+#: framework/menu/menu-item-custom-fields-options.php:198
+msgid "Remove Icon"
+msgstr "حذف آیکون"
+
+#: framework/admin/ui/general.php:7
+msgid "Responsive Design"
+msgstr "طراحی واکنشگراه"
+
+#. Description of the theme
+msgid "Responsive WordPress Blog Magazine Theme"
+msgstr "قالب وردپرس  خبری و مجله"
+
+#: framework/admin/class.options_machine.php:741
+msgid "Restore Options"
+msgstr "تنظیمات بازیابی"
+
+#: framework/metabox.php:6 inc/widget.php:217
+msgid "Review"
+msgstr "امتیاز"
+
+#: framework/metabox.php:405
+msgid "Review Box"
+msgstr "جعبه امتیاز بندی"
+
+#: framework/metabox.php:431
+msgid "Review Excerpt"
+msgstr "گزیده ای از امتیاز بندی"
+
+#: framework/metabox.php:440
+msgid "Review Score"
+msgstr "نمره امتیاز بندی"
+
+#: framework/builder/block-panel.php:119 framework/builder/block-panel.php:459
+msgid "Review Stars"
+msgstr "نمایش امتیاز ستاره ای"
+
+#: framework/builder/builder.php:43 framework/admin/ui/blog.php:157
+msgid "Review Stars Meta"
+msgstr "نمایش امتیاز ستاره ای"
+
+#: framework/metabox.php:413
+msgid "Review Style"
+msgstr "استایل امتیاز بندی"
+
+#: framework/metabox.php:424
+msgid "Review Title"
+msgstr "عنوان امتیاز بندی"
+
+#. Author of the theme
+msgid "Reza"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:73
+#: framework/admin/ui/header-options.php:100
+#: framework/admin/ui/header-options.php:129
+#: framework/admin/ui/header-options.php:156
+#: framework/admin/ui/header-options.php:183
+#: framework/admin/ui/header-options.php:209
+#: framework/admin/ui/logo-options.php:102
+msgid "Right"
+msgstr "راست"
+
+#: framework/admin/ui/single-options.php:186
+msgid "Rows Per Page To Show"
+msgstr "ردیف در هر صفحه برای نمایش"
+
+#: framework/admin/ui/networking.php:13
+msgid "RSS"
+msgstr ""
+
+#: framework/admin/options.php:43 framework/admin/options.php:67
+msgid "Save All Changes"
+msgstr "همه تغییرات را ذخیره کنید"
+
+#: framework/custom-sidebar.php:71
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: framework/admin/ui/general.php:8
+msgid ""
+"SCheck this box to use the responsive design features. If left unchecked "
+"then the fixed layout is used."
+msgstr ""
+"برای استفاده از ویژگی های طراحی واکنش گرا فعال میشود  , که قالب بر روی تبلت "
+"و موبایل تتظیم می شود"
+
+#: framework/admin/ui/general.php:61
+msgid "Script Code"
+msgstr "کد اسکریپت"
+
+#: framework/admin/ui/header-options.php:138
+msgid "Search Form"
+msgstr "فرم جستجو"
+
+#: framework/admin/ui/header-options.php:134
+msgid "Search Form Options"
+msgstr "تنظیمات فرم جستجو"
+
+#: functions.php:320
+msgid "Search Results for:"
+msgstr "نتایج جستجو برای:"
+
+#: functions.php:319
+msgid "Search..."
+msgstr "جستجو..."
+
+#: framework/admin/ui/header-options.php:151
+msgid "SearchForm Alignment"
+msgstr "تراز فرم جستجو"
+
+#: functions.php:313
+msgid "Second"
+msgstr "ثانیه"
+
+#: functions.php:312
+msgid "Seconds"
+msgstr "ثانیه"
+
+#: framework/builder/block-panel.php:302 framework/builder/builder.php:27
+msgid "Select"
+msgstr "انتخاب کنید"
+
+#: framework/admin/ui/styling-general.php:39
+msgid "Select a background pattern"
+msgstr "یک پترن برای پس زمینه انتخاب کنید"
+
+#: framework/menu/menu-item-custom-fields-options.php:171
+#: inc/widgets/widget-featured-1c.php:114
+#: inc/widgets/widget-featured-2c.php:114
+#: inc/widgets/widget-featured-3c.php:104 inc/widgets/widget-grid-1c.php:108
+#: inc/widgets/widget-grid-2c.php:105 inc/widgets/widget-list-1c.php:126
+#: inc/widgets/widget-list-2.php:126 inc/widgets/widget-list-3.php:122
+#: inc/widgets/widget-slider.php:128 inc/widgets/widget-text-1c.php:101
+#: inc/widgets/widget-text-2.php:113 inc/widgets/widget-text-3.php:110
+msgid "Select a Category"
+msgstr "یک دسته را انتخاب کنید"
+
+#: framework/admin/ui/typography.php:15
+msgid "Select a font"
+msgstr "یک فونت را انتخاب کنید"
+
+#: framework/category-meta.php:121 framework/builder/block-panel.php:174
+#: framework/builder/builder.php:55 framework/builder/builder.php:351
+msgid "Select a Sidebar"
+msgstr "نوار کناری را انتخاب کنید"
+
+#: framework/admin/ui/sidebars-options.php:68
+msgid "Select a sidebar in Archive Main Sidebar"
+msgstr " "
+
+#: framework/admin/ui/sidebars-options.php:80
+msgid "Select a sidebar in bbPress Main Sidebar"
+msgstr "  "
+
+#: framework/admin/ui/sidebars-options.php:33
+msgid "Select a sidebar in Home Main Sidebar"
+msgstr " "
+
+#: framework/admin/ui/sidebars-options.php:56
+msgid "Select a sidebar in Page Main Sidebar"
+msgstr "نوار کناری اصلی برای برگه ها"
+
+#: framework/admin/ui/sidebars-options.php:44
+msgid "Select a sidebar in Single Main Sidebar"
+msgstr "انتخاب کنید یک نوار کناری در تک نوشته"
+
+#: framework/admin/ui/styling-general.php:28
+msgid "Select Background Type Gradient , Pattern And Upload Custom Image"
+msgstr " "
+
+#: framework/category-meta.php:102 framework/admin/ui/general.php:31
+msgid "Select Page Builder"
+msgstr "برگه ای را در صفحه اول سایت قرار دهید"
+
+#: framework/admin/ui/general.php:32
+msgid "Select Page in Front page displays"
+msgstr "انتخاب صفحه نمایش در صفحه اول"
+
+#: framework/admin/functions.options.php:214
+msgid "Select Predefined Layout For install click \"Import Predefined Styles\""
+msgstr ""
+"طرح بندی پیش تعیین شده را انتخاب کنید برای نصب کلیک کنید \"وارد کردن استایل "
+"های از پیش تعیین شده\""
+
+#: framework/menu/menu-item-custom-fields-options.php:195
+msgid "Set Icon"
+msgstr "تنظیم آیکون"
+
+#: framework/admin/ui/single-options.php:118
+msgid "Share Post Settings"
+msgstr "تنظیمات  به اشتراک  گزاری"
+
+#: framework/admin/ui/general.php:42
+msgid "Show"
+msgstr "نمایش"
+
+#: framework/admin/ui/general.php:39
+msgid "Show Breadcrumbs"
+msgstr "نمایش صفحه فعلی"
+
+#: inc/widgets/widget-featured-1c.php:163
+#: inc/widgets/widget-featured-2c.php:163 inc/widgets/widget-grid-1c.php:147
+#: inc/widgets/widget-grid-2c.php:136 inc/widgets/widget-list-1c.php:174
+#: inc/widgets/widget-list-2.php:174 inc/widgets/widget-list-3.php:162
+#: inc/widgets/widget-slider.php:172 inc/widgets/widget-text-2.php:152
+#: inc/widgets/widget-text-3.php:142
+msgid "Show Category Meta"
+msgstr "نمایش دسته بندی"
+
+#: framework/category-meta.php:277 framework/builder/block-panel.php:97
+#: framework/builder/builder.php:38 inc/widgets/widget-featured-1c.php:150
+#: inc/widgets/widget-featured-2c.php:150 inc/widgets/widget-grid-1c.php:134
+#: inc/widgets/widget-list-1c.php:161 inc/widgets/widget-list-2.php:161
+#: inc/widgets/widget-slider.php:159 inc/widgets/widget-text-1c.php:118
+#: inc/widgets/widget-text-2.php:139 framework/admin/ui/blog.php:112
+msgid "Show Excerpt Posts"
+msgstr "نمایش گزیده ای نوشته"
+
+#: framework/builder/block-panel.php:132 framework/builder/builder.php:48
+msgid "Show Load more"
+msgstr "نمایش بارگیری بیشتر"
+
+#: framework/admin/ui/single-options.php:166
+msgid "Show Only in Mobile"
+msgstr "نمایش فقط در موبایل"
+
+#: framework/builder/block-panel.php:93 framework/builder/builder.php:37
+#: inc/widgets/widget-featured-1c.php:146
+#: inc/widgets/widget-featured-2c.php:146 inc/widgets/widget-slider.php:155
+msgid "Show Title Posts"
+msgstr "نمایش عنوان نوشته ها"
+
+#: framework/custom-sidebar.php:48 framework/custom-sidebar.php:57
+msgid "Sidebar"
+msgstr "نوار کناری"
+
+#: framework/custom-sidebar.php:28
+msgid "Sidebar Creator Settings"
+msgstr "تنظیمات  ساخت نوار کناری"
+
+#: framework/custom-sidebar.php:16
+msgid "Sidebar Plugin Optidons"
+msgstr "تنظیمات پلاگین نوار کناری"
+
+#: framework/admin/ui/sidebars-options.php:2
+msgid "Sidebars"
+msgstr "ستون های فرعی"
+
+#: functions.php:293
+msgid "Sing In"
+msgstr "ورود"
+
+#: framework/admin/ui/single-options.php:2
+msgid "Single"
+msgstr "تک نوشته ها"
+
+#: framework/admin/ui/sidebars-options.php:43
+msgid "Single Main Sidebar"
+msgstr "نوار کناری اصلی برای تک نوشته ها"
+
+#: framework/admin/ui/single-options.php:73
+msgid "Single Post Meta Settings"
+msgstr "خصوصیات تک نوشته ها"
+
+#: framework/admin/ui/single-options.php:8
+msgid "Single Post Template"
+msgstr "قالب تک نوشته ها  "
+
+#: framework/admin/ui/sidebars-options.php:38
+msgid "Single Sidebar"
+msgstr "نوار کناری تک نوشته"
+
+#: framework/admin/ui/single-options.php:14
+msgid "Single Template"
+msgstr "قالب تک نوشته ها"
+
+#: framework/metabox.php:66
+msgid "Single template"
+msgstr "قالب تک نوشته "
+
+#: framework/admin/ui/logo-options.php:18
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+#: framework/admin/ui/networking.php:106
+msgid "Skype"
+msgstr ""
+
+#: framework/builder/block-panel.php:493 inc/widgets/widget-slider.php:114
+msgid "Slide"
+msgstr "اسلاید"
+
+#: framework/builder/block-panel.php:39 framework/builder/builder-options.php:7
+#: framework/builder/builder.php:36
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: framework/builder/block-panel.php:157 framework/builder/builder.php:57
+#: inc/widgets/widget-slider.php:193
+msgid "Slider Effect"
+msgstr "افکت اسلایدر"
+
+#: framework/category-meta.php:234 framework/builder/block-panel.php:405
+#: framework/admin/ui/blog.php:70
+msgid "Small"
+msgstr "کوچک"
+
+#: inc/widgets/widget-social.php:55
+msgid "Social"
+msgstr "اجتماعی"
+
+#: inc/widgets/widget-social.php:10
+msgid "Social Icon"
+msgstr "آیکون اجتماعی"
+
+#: framework/admin/ui/header-options.php:161
+msgid "Social Icon Options"
+msgstr "تنظیمات آیکون اجتماعی"
+
+#: framework/admin/ui/header-options.php:165
+msgid "Social Icons"
+msgstr "آیکون های اجتماعی"
+
+#: framework/admin/ui/header-options.php:178
+msgid "Social Icons Alignment"
+msgstr "تراز آیکون های اجتماعی"
+
+#: framework/admin/ui/networking.php:2
+msgid "Social Media"
+msgstr "شبکه های اجتماعی"
+
+#: framework/admin/ui/networking.php:9
+msgid "Social Networking"
+msgstr "شبکه اجتماعی"
+
+#: framework/admin/ui/typography.php:13 framework/admin/ui/typography.php:43
+msgid "Some description font"
+msgstr "برخی از فونت توضیحات"
+
+#: functions.php:327
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr "  "
+
+#: framework/builder/builder.php:73 framework/builder/builder.php:336
+msgid "Space Bottom"
+msgstr "فاصله برای پایین"
+
+#: framework/builder/block-panel.php:88 framework/builder/builder.php:66
+msgid "Space in Between Posts"
+msgstr "فاصله بین نوسته ها"
+
+#: framework/builder/builder.php:72 framework/builder/builder.php:335
+msgid "Space Top"
+msgstr "فاصله برای بالا"
+
+#: framework/admin/ui/typography.php:38
+msgid "Standard Fonts"
+msgstr "فونت های استاندارد"
+
+#: framework/metabox.php:416
+msgid "Stars"
+msgstr "ستاره ای"
+
+#: framework/admin/ui/header-options.php:9
+msgid "Sticky Header"
+msgstr "سربرگ قفل شود"
+
+#: framework/admin/ui/header-options.php:12
+msgid "Sticky Main Header"
+msgstr "سربرگ اصلی قفل شود"
+
+#: framework/admin/ui/sidebars-options.php:11
+msgid "Sticky Main Sidebar"
+msgstr "نوار کناره ای اصلی قفل شود"
+
+#: framework/builder/builder.php:56 framework/builder/builder.php:326
+#: framework/builder/builder.php:352
+msgid "Sticky Sidebar"
+msgstr "نوار چسبنده"
+
+#: framework/admin/ui/networking.php:120
+msgid "StumbleUpon"
+msgstr ""
+
+#: framework/admin/ui/styling-general.php:2
+msgid "Style"
+msgstr "استایل"
+
+#: framework/menu/menu-item-custom-fields-options.php:141
+msgid "Sub Menu"
+msgstr "منوی زیر"
+
+#: framework/builder/block-panel.php:56 framework/builder/builder.php:60
+msgid "Tabs"
+msgstr "برگه ها"
+
+#: functions.php:325
+msgid "Tag Archives:"
+msgstr "بایگانی برچسب ها:"
+
+#: functions.php:301 inc/widgets/widget-tags.php:10
+#: inc/widgets/widget-tags.php:48 framework/admin/ui/single-options.php:209
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: framework/admin/ui/networking.php:41
+msgid "Telegram"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:154
+msgid "Telegram Button"
+msgstr "دکمه Telegram "
+
+#: framework/builder/builder-options.php:14 inc/widgets/widget-text-link.php:45
+msgid "Text"
+msgstr "متن"
+
+#: framework/metabox.php:449
+msgid "Text Appears Under The Total Score"
+msgstr "متن در زیر کل امتیاز نمایش داده می شود"
+
+#: framework/builder/builder.php:332 framework/admin/ui/styling-general.php:75
+#: framework/admin/ui/styling-general.php:87
+#: framework/admin/ui/styling-general.php:103
+#: framework/admin/ui/styling-general.php:118
+#: framework/admin/ui/styling-general.php:174
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: framework/admin/ui/styling-general.php:150
+msgid "Text Color Meta Posts"
+msgstr "رنگ متن خصوصیات نوشته ها"
+
+#: framework/builder/block-panel.php:124 framework/builder/builder.php:62
+msgid "Text in center"
+msgstr "متن در مرکز"
+
+#: framework/builder/builder.php:65
+msgid "Text in Vertical align middle"
+msgstr "متن در وسط عمودی قرار بگیرید"
+
+#: inc/widgets/widget-text-link.php:10
+msgid "Text Link"
+msgstr "لینک متنی"
+
+#: framework/admin/ui/styling-general.php:67
+msgid "Text link Color"
+msgstr "رنگ متن لینک ها"
+
+#: framework/admin/ui/typography.php:17 framework/admin/ui/typography.php:48
+msgid "This is my preview text!"
+msgstr "پیشنمایش متن"
+
+#: framework/admin/ui/blog.php:22
+msgid "This text will display in the page Title Bar of the assigned Blog Page"
+msgstr "این متن در نوار عنوان صفحات وب اختصاص داده شده نمایش داده می شود"
+
+#: framework/admin/ui/single-options.php:194
+msgid "This text will display in title bar Related Posts."
+msgstr "این متن در نوار عنوان نمایش داده می شود."
+
+#: framework/admin/ui/single-options.php:234
+msgid "Thread"
+msgstr "درختی"
+
+#: framework/builder/builder-options.php:10
+msgid "Thumbnails"
+msgstr "عکس کوچک"
+
+#: framework/admin/ui/general.php:52
+msgid "Time Ago Format"
+msgstr "فرمت زمان پیشنهادی"
+
+#: framework/admin/ui/general.php:47
+msgid "Time Format For Post"
+msgstr "فرمت زمان برای نوشته ها"
+
+#: framework/admin/class.options_machine.php:1045
+#: inc/widgets/widget-featured-1c.php:106
+#: inc/widgets/widget-featured-2c.php:106 inc/widgets/widget-featured-3c.php:96
+#: inc/widgets/widget-grid-1c.php:100 inc/widgets/widget-grid-2c.php:97
+#: inc/widgets/widget-list-1c.php:118 inc/widgets/widget-list-2.php:118
+#: inc/widgets/widget-list-3.php:114 inc/widgets/widget-login.php:97
+#: inc/widgets/widget-recent-comments.php:80 inc/widgets/widget-slider.php:120
+#: inc/widgets/widget-social.php:61 inc/widgets/widget-tags.php:53
+#: inc/widgets/widget-text-1c.php:93 inc/widgets/widget-text-2.php:105
+#: inc/widgets/widget-text-3.php:102
+msgid "Title"
+msgstr "عنوان"
+
+#: framework/builder/block-panel.php:274
+msgid "title"
+msgstr "عنوان"
+
+#: framework/admin/ui/logo-options.php:19
+msgid "Title + Description"
+msgstr "عنوان سایت + شرح سایت"
+
+#: framework/builder/block-panel.php:26 framework/builder/builder.php:26
+msgid "Title box"
+msgstr "عنوان جعبه"
+
+#: framework/admin/ui/header-options.php:38
+msgid "Top Header Height"
+msgstr "ارتفاع سربرگ بالایی"
+
+#: framework/admin/ui/styling-general.php:98
+msgid "Top Header Style"
+msgstr "استایل سربرگ بالایی"
+
+#: framework/functions.php:46 framework/admin/ui/header-options.php:77
+msgid "Top Menu"
+msgstr "منوی بالا"
+
+#: framework/admin/ui/header-options.php:94
+msgid "Top Menu Alignment"
+msgstr ""
+
+#: framework/admin/ui/header-options.php:84
+msgid "Top Menu Item Padding"
+msgstr "فاصله بین آیتم های منو در منوی بالایی"
+
+#: framework/admin/ui/general.php:51
+msgid "Traditional"
+msgstr "سنتی"
+
+#: framework/admin/functions.options.php:174
+#: framework/admin/functions.options.php:236
+msgid "Transfer Theme Options Data"
+msgstr "گزینه های انتقال داده ها"
+
+#: framework/admin/ui/translation.php:3 framework/admin/ui/translation.php:10
+msgid "Translation"
+msgstr "ترجمه"
+
+#: framework/admin/ui/networking.php:127
+msgid "Tumblr"
+msgstr ""
+
+#: framework/admin/ui/networking.php:27
+msgid "Twitter"
+msgstr ""
+
+#: framework/admin/ui/single-options.php:122
+msgid "Twitter Button"
+msgstr "دکمه Twitter "
+
+#: framework/admin/ui/typography.php:2
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: framework/admin/class.options_machine.php:982
+msgid "Upgrade your version of WordPress for full media support"
+msgstr "نسخه کامل وردپرس خود را برای پشتیبانی کامل رسانه ها ارتقا دهید"
+
+#: framework/category-meta.php:349 framework/metabox.php:248
+#: framework/metabox.php:371 framework/admin/class.options_machine.php:1051
+#: framework/builder/block-panel.php:338 framework/builder/builder.php:24
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: framework/builder/block-panel.php:142 framework/builder/builder.php:51
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+#: framework/admin/ui/styling-general.php:53
+msgid "Upload images using native media uploader from Wordpress 3.5+"
+msgstr ""
+
+#: framework/admin/ui/logo-options.php:30
+msgid "Upload Select an image file for your logo"
+msgstr "یک فایل تصویری را انتخاب کنید "
+
+#: framework/category-meta.php:349 framework/metabox.php:248
+#: framework/metabox.php:371 framework/builder/builder.php:75
+msgid "Use This Image"
+msgstr "از این تصویر استفاده کنید"
+
+#: functions.php:294
+msgid "Username:"
+msgstr "نام کاربری:"
+
+#: framework/admin/ui/ads-settings.php:9
+msgid "Using Widgets"
+msgstr "با استفاده از ابزارک"
+
+#: framework/builder/builder-options.php:11
+msgid "Vertical"
+msgstr "عمودی"
+
+#: framework/metabox.php:7 framework/metabox.php:60
+msgid "Video"
+msgstr "ویدئو"
+
+#: functions.php:299 inc/widget.php:222
+msgid "View"
+msgstr "بازدید"
+
+#: framework/admin/ui/blog.php:182 framework/admin/ui/single-options.php:101
+msgid "View Meta"
+msgstr "نمایش بازدید"
+
+#: functions.php:300 framework/functions.php:113
+#: framework/builder/block-panel.php:116 framework/builder/block-panel.php:456
+msgid "Views"
+msgstr "بازدید"
+
+#: framework/builder/builder.php:46
+msgid "Views Meta"
+msgstr "نمایش تعداد بازدید"
+
+#: framework/admin/ui/networking.php:99
+msgid "Vimeo"
+msgstr ""
+
+#: framework/admin/options.php:28
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "هشدار - این پنل گزینه به درستی بدون جاوا اسکریپت کار نمی کند!"
+
+#: functions.php:288
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: framework/admin/ui/single-options.php:163
+msgid "WhatsApp Button"
+msgstr "دکمه WhatsApp "
+
+#: framework/builder/builder-options.php:18
+msgid "Widgets"
+msgstr "ابزارک ها"
+
+#. Name of the theme
+msgid "Xecuter"
+msgstr ""
+
+#: framework/admin/ui/networking.php:92
+msgid "Yahoo"
+msgstr ""
+
+#: functions.php:303
+msgid "Year"
+msgstr "سال"
+
+#: functions.php:302
+msgid "Years"
+msgstr "سال"
+
+#: framework/admin/functions.options.php:178
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options"
+msgstr ""
+"شما می توانید داده های تنظیمات ذخیره شده مختلف را با کپی کردن متن داخل کادر "
+"متن انتقال دهید. برای وارد کردن داده ها از نصب دیگر، داده ها را در جعبه متن "
+"با یکی از نصب دیگر جایگزین کنید و روی «گزینه های ورودی گرفتن» کلیک کنید"
+
+#: framework/admin/functions.options.php:240
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\""
+msgstr ""
+"شما می توانید داده های گزینه های ذخیره شده بین نصب های مختلف را با کپی کردن "
+"متن داخل کادر متن انتقال دهید. برای وارد کردن داده ها از نصب دیگر، داده ها "
+"را در جعبه متن با یکی از نصب دیگر جایگزین کنید و روی «گزینه های ورودی گرفتن» "
+"کلیک کنید"
+
+#: framework/admin/functions.options.php:171
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr " شما می توانید از تنظیمات قالب پشیتبانی و بازیابی بگیرید"
+
+#: framework/custom-sidebar.php:22
+msgid "You do not have sufficient permissions to access this page."
+msgstr "برای دسترسی به این صفحه مجوز کافی ندارید"
+
+#: functions.php:317
+msgid "Your Comment is Awaiting Moderation."
+msgstr "دیدگاه  شما در انتظار تایید است"
+
+#: functions.php:290
+msgid "Your Profile"
+msgstr "مشخصات شما"
+
+#: framework/admin/ui/networking.php:85
+msgid "YouTube"
+msgstr ""
+
+#: framework/metabox.php:491
+msgid "Youtube"
+msgstr ""

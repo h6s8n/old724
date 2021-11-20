@@ -1,0 +1,279 @@
+html, body
+{
+	background-color: white;
+}
+
+/* █████████████████████████████████████
+   █                                   █
+   █          THEME BG COLOR           █
+   █                                   █
+   █████████████████████████████████████ */
+
+/* ----- theme color (light-mid-bg) ----- */
+.formTable input[type="text"], .formTable input[type="password"], .formTable textarea, .formTable select, .tagsugs, .tag_plus, .tag_plus_specs, .color_plus
+{
+	background-color: #9ca3bc;
+}
+
+
+/* ----- theme color (another-mid-bg) ----- */
+#cropdot
+{
+	background-color: #818591;
+}
+
+
+/* ----- theme color (mid-bg) ----- */
+nav > .item, .logout_btn
+{
+	background-color: #6a7189;
+}
+
+
+/* ----- theme color (dark-mid-bg) ----- */
+.daTable tr:first-of-type td, .daTable tr:first-of-type:hover td, .add_btn:hover:before, #right_pane, nav > .item.active, nav > .item.opened, .submenu > .item:hover, nav .item:hover, #guide_pane
+{
+	background-color: #3a4879;
+}
+
+
+/* ----- theme color (dark-bg) ----- */
+.add_btn:hover, .logout_btn:hover, .reg_btn:hover, .reg_btn:focus, .crop_again:hover, .gallery_delete:hover, .gallery_featured:hover,
+#loginbox, .tagsugs .item.active
+{
+	background-color: #1a223a;
+}
+
+/* █████████████████████████████████████
+   █                                   █
+   █           THEME  COLOR            █
+   █                                   █
+   █████████████████████████████████████ */
+
+/* ----- theme color (dark-color) ----- */
+.add_btn, .add_btn:visited, .reg_btn, .reg_btn[disabled]:hover, .reg_btn[disabled]:focus, .crop_again, .gallery_delete, .gallery_djcolor, .gallery_featured, #successful,
+.formTable input[type="text"], .formTable input[type="password"], .formTable textarea, .formTable select, .tagsugs, .tag_plus, .tag_plus_specs, .color_plus,
+.info, .daTable tr td, .formTable td, .version, .yympanelicons, .yympanelicons:visited
+{
+	color: #1a223a;
+}
+
+/* █████████████████████████████████████
+   █                                   █
+   █        THEME BORDER COLOR         █
+   █                                   █
+   █████████████████████████████████████ */
+
+/* ----- theme border (transparent-border) ----- */
+#loginbox, #loginbox input[type=text], #loginbox input[type=password], #loginbox input[type=submit]
+{
+	border: 1px solid transparent;
+}
+
+
+/* ----- theme border (another-mid-border) ----- */
+nav .item, .submenu, #croparea
+{
+	border-color: #818591;
+}
+
+
+/* ----- theme border (dark-border) ----- */
+.daTable tr:first-of-type td, #right_pane, nav > .item > div, .logout_btn,
+.formTable input[type="text"], .formTable input[type="password"], .formTable textarea, .formTable select, .tagsugs, .tag_plus, .tag_plus_specs, .color_plus
+{
+	border-color: #1a223a;
+}
+
+/* █████████████████████████████████████
+   █                                   █
+   █          GRAY BG COLOR            █
+   █                                   █
+   █████████████████████████████████████ */
+   
+/* ----- gray color (light-bg) ----- */
+#loginbox input[type=text], #loginbox input[type=password], nav > .item > div, #guide_pane .info a:before
+{
+	background-color: #ffffff;
+}
+
+
+/* ----- gray color (lighter-mid-bg) ----- */
+.daTable tr:nth-of-type(2) td, .daTable tr:nth-of-type(2):hover td, .daTable tr td
+{
+	background-color: #dedede;
+}
+
+
+/* ----- gray color (light-mid-bg) ----- */
+.add_btn, .reg_btn, .reg_btn[disabled]:hover, .reg_btn[disabled]:focus, .crop_again, .gallery_delete, .gallery_djcolor, .gallery_featured, #successful,
+#loginbox input[type=submit], .daTable tr:hover td, .submenu > .item > div
+{
+	background-color: #bdbdbd;
+}
+
+/* █████████████████████████████████████
+   █                                   █
+   █            GRAY  COLOR            █
+   █                                   █
+   █████████████████████████████████████ */
+
+/* ----- gray color (light-color) ----- */
+#loginbox p, #loginbox a, nav .item:hover, nav .item.active, #guide_pane h1, #guide_pane .info a,
+.add_btn:hover, .reg_btn:hover, .reg_btn:focus, .logout_btn, .logout_btn:hover, .crop_again:hover, .gallery_delete:hover, .gallery_featured:hover
+{
+	color: #ffffff;
+}
+
+
+/* ----- gray color (lighter-mid-color) ----- */
+.nav item, #guide_pane .info
+{
+	color: #dedede;
+}
+
+
+/* ----- gray color (dark-mid-color) ----- */
+h1
+{
+	color: #454545;
+}
+
+
+/* ----- gray color (dark-color) ----- */
+#loginbox input[type=text], #loginbox input[type=password], #loginbox input[type=submit]
+{
+	color: #282828;
+}
+
+/* █████████████████████████████████████
+   █                                   █
+   █         GRAY BORDER COLOR         █
+   █                                   █
+   █████████████████████████████████████ */
+
+/* ----- gray border (light-border) ----- */
+.daTable tr td, .add_btn:hover:before
+{
+	border-color: white;
+}
+
+
+/* ----- gray border (lighter-mid-border) ----- */
+.daTable
+{
+	border-color: #dedede;
+}
+
+
+/* ----- gray border (mid-border) ----- */
+.add_btn, .reg_btn, .reg_btn[disabled]:hover, .reg_btn[disabled]:focus, .crop_again, .gallery_delete, .gallery_djcolor, .gallery_featured
+{
+	border-color: #848484;
+}
+
+
+/* ----- gray border (daark-border) ----- */
+.add_btn:hover, .logout_btn:hover, .reg_btn:hover, .reg_btn:focus, .crop_again:hover, .gallery_delete:hover, .gallery_featured:hover, #successful
+{
+	border-color: black;
+}
+
+/* █████████████████████████████████████
+   █                                   █
+   █               MISC.               █
+   █                                   █
+   █████████████████████████████████████ */
+
+/* ----- theme image ----- */
+.logo				{ background-image: url(images/color2/deyhimlogo_login.png); }
+#pane_closebtn 		{ background-image: url(images/color2/pane_closebtn.png); }
+.slide_sort_up		{ background-image: url(images/color2/sort_go_up.png); }
+.slide_sort_down	{ background-image: url(images/color2/sort_go_down.png); }
+.slide_sort_move	{ background-image: url(images/color2/sort_move.png); }
+.slide_sort_move.select_dest	{ background-image: url(images/color2/sort_dropbelow.png); }
+.delete				{ background-image: url(images/color2/delete.png); }
+.edit				{ background-image: url(images/color2/edit.png); }
+
+.submenu > .item.active, nav > .item.active	{ background-image: url(images/color2/nav_active.png); }
+.publish:before, .publish.active:after		{ background-image: url(images/color2/unpublished.png); }
+.publish:after, .publish.active:before		{ background-image: url(images/color2/published.png); }
+
+
+/* ----- theme opacity ----- */
+#loginbox p:nth-child(3) 
+{
+	opacity: 0.5;
+}
+
+
+/* ----- theme opacity ----- */
+#loginbox input[type=text], #loginbox input[type=password]
+{
+	opacity: 0.7;
+}
+
+
+/* ----- theme (header and children and behaviour) ----- */
+header 
+{
+	height: 59px;
+	border-bottom: 5px solid #b0b0b0;
+	background: #1c2954;
+}
+header:before
+{
+	background-color: #192449;
+	position: absolute;
+	top: 2px;
+	left: 0;
+	width: 100%;
+	height: 4px;
+	display: block;
+	content: "";
+}
+.deyhimlogo
+{
+	margin-top: 17px;
+	margin-left: 16px;
+	margin-right: 16px;
+}
+.tagline
+{
+	color: #dcdcdc;
+	margin-top: 12px;
+}
+/* .tagline span
+{
+	color: white;
+} */
+.besmela
+{
+	top: 21px;
+}
+header .title
+{
+	line-height: 59px;
+}
+#right_pane, section, #logintable
+{
+	height: calc(100% - 64px)
+}
+
+
+/* misc. misc. */
+.croped_photo, .gallery_photo
+{
+	margin: 1px;
+	box-shadow: 0 0 0 1px #8c909c;
+	border-color: #cdd1dd;
+}
+.gallery_photo
+{
+	margin-left: 11px;
+	margin-bottom: 11px;
+}
+.mce-panel
+{
+	border-color: #8c909c !important;
+}

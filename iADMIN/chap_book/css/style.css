@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Vazir-FD;
+    font-style: normal;
+    font-weight: normal;
+    src: url('/chap_book/Vazir-FD.eot');
+    src: url('/chap_book/Vazir-FD.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+         url('/chap_book/Vazir-FD.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+         url('/chap_book/Vazir-FD.ttf') format('truetype');
+  }
+ body , div, table, h1 {
+    font-family: Vazir-FD;
+    direction: rtl;
+    text-align: right;
+    overflow: hidden;
+  }
+  /* All styles come here ... */

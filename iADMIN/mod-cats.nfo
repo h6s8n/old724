@@ -1,0 +1,46 @@
+ллллллллллллллллллллллллллллллллллллл
+л  DEYHIM CONTROL CENTER CHANGELOG  л
+л       BY DEYHIMDESIGN.COM         л
+ллллллллллллллллллллллллллллллллллллл
+л CATS                              л
+л pid: 18                           л
+ллллллллллллллллллллллллллллллллллллл
+
+
+
+
+
+V1 (DCC V 0.0.2)
+--------
+DB Fields:
+	ID
+	db
+	title
+	parentID (for sub cats)
+	published
+	
+Activated on these modules: News, Abou_News
+
+To activating cat system for each module you need to:
+	- add db name to valid dbs array in "handler.php" for pid "18 and 180 and 181"
+	- add proper case in "handler.php" for pid "18 and 180 and 181" switchers
+	- add proper case in "functions.php" for "getchildcat_for_table" function switcher
+	- add a default cat row in "misc table" and define the row's `ID` in "handler.php" for "pid 18" and "mod-cats-default.php"
+	- edit pub.php {if ($db=="cats") section of code} for checking this module's default cat
+	- perform a query to set variable: ${db}_has_query in handler.php (before defining blank $pagemetas)
+
+Works with `cats` and `cats_relations` tables
+
+cats_relations DB fields:
+	ID
+	db
+	db_id
+	cat_id
+	
+plans for next versions:
+	edit cat for multiple posts
+	in ajax delete_row script, fade out subcats [for now: fade out is disabled for removing cats and page will refresh after deleting a cat]
+	in ___2.php we can put a table showing subcats with button for create a subcat
+	
+Important bug:
+	after multiple cat select feature, now we don't check is_cat_unpublished and news_author access in ___.php (table view for a module)

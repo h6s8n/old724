@@ -1,0 +1,372 @@
+980717									ллллллллллллллллллллллллллллллллллллллллллл
+										ллллллллллллллллллллллллллллллллллллллллллл
+										лл                                       лл
+										лл  THE CONTROL CENTER (SHORTLY The-CC)  лл
+										лл  (Former Deyhim Control Center)       лл
+										лл                                       лл
+										лл               BY Siavash Norouzi      лл
+										лл                                       лл
+										ллллллллллллллллллллллллллллллллллллллллллл
+										ллллллллллллллллллллллллллллллллллллллллллл
+
+
+
+
+ллллллллллллллллллллллллллллллллллллл
+л                                   л
+л       V 0.0.1 (First Alpha)       л
+л                                   л
+ллллллллллллллллллллллллллллллллллллл
+
+Deyhim Control Center was born for YYM Project.
+
+Modules Included:
+	slide [V1] (With Control of numbers of slides and Sort)
+	news [V1]
+	static_pages [V1] (uses Misc. Table in DB)
+	photo_albums [V1] (without separated descriptions for each photo)
+	videos [V1] (links with aparat videos, 4 screenshot needed + 1 main thumbnail)
+	downloads [V1] (directly uploads a zip file)
+Modules not included: Setting
+
+Features:
+	AJAX Publishing and Deleting in List view
+	AJAX Sort for some modules (separated for each module and not united, only slide have this feature for now)
+	Crop Scripts (activated for news and slide, not suitable for images larger than screen resolution ex. full width slides)
+	Simple Inline Photos solution for News and Static Pages (Uploader.php)
+Other not ready features: Guides, Shortcuts, Progress Bar, UpdateLog
+
+[BUG: there is no "or die" function for queries in some modules]
+
+Plans for next versions:
+	[done only for pass change in v0.1.1] Settings Module
+	[done in v0.0.2] Activating Guides
+	[done in v0.0.2] Shortcuts
+
+
+
+
+ллллллллллллллллллллллллллллллллллллл
+л                                   л
+л        V 0.0.2 - 93/11/11         л
+л                                   л
+ллллллллллллллллллллллллллллллллллллл
+
+Deyhim Control Center customisation for "Steel Rokh"
+Modules Updated:
+	static_pages [V2] (using it's special db table named: "static_pages", automatic listing in DCC's nav pane)
+	slide [V2] (second language support added, minor bug fixed)
+	news [V2] (second language support added, summary field removed) [Bug: LTR for English rich text editor]
+Modules Added:
+	articles [V1] (supports two languages, crop activated, Inline-photos activated)
+	steelrokh_products [V1] (supports two languages, has photo gallery for each product)
+---------------------------------------------------------------------------------------------------
+Deyhim Control Center customisation for "DigPaz"
+Modules Added:
+	digpaz_reviews [V1] (single language, crop activated)
+	digpaz_blog [V1] (single language, crop activated)
+	digpaz_authors [V1] (single language, crop activated)
+	digpaz_togo [V1] (single language)
+Modules Updated:
+	photo_lbums [V2] (sort, tag, body field added to module)
+---------------------------------------------------------------------------------------------------
+Deyhim Control Center customisation for "Gameology"
+Modules Updated:
+	articles [V2] (Tag feature added. Db fields added: likes, authorID) [and some other changes that not synced with orig module, look at plans for next versions]
+Modules Added:
+	game_slide [V1] (single language, crop activated)
+	comments [V1]
+---------------------------------------------------------------------------------------------------
+Deyhim Control Center customisation for "YYM-Panels" [DCC Version is still 0.0.1 for YYM website]
+Modules Added:
+	yym_publishers [V1] (single language, without ___3.php and formController js function)
+	yym_formfields [V1] (single language)
+	yym_schools [V1] (single language, without ___3.php and formController js function)
+	yym_books [V1] (single language, without ___3.php and formController js function)
+CSS Changes:
+	icomoon fontface for 2 icons (publisher details and books button)
+	.yympanelicons class for the buttons with fontface
+	.tag_input width changed from 100 to 250
+JS Changes:
+	[added] yym_formfields_type [for type 2 and 3 we must show other fields]
+	[added] yym_publishers_status [for accept or reject]
+	[added] yym_schools_status [for accept or reject]
+	[added] yym_books_status [for accept or reject]
+---------------------------------------------------------------------------------------------------
+Deyhim Control Center customisation for "Khaierin News"
+Modules Added:
+	news_authors [V1]
+	cats [V1]
+	basiccomments [V1] (public comment system, no account registration needed)
+	khaierin_slide [V1]
+	khaierin_charities [V1] (iran_states table has been added to DCC, has two languages)
+	khaierin_ads [V1] [with IMAGE FIELD in table]
+Modules Updated:
+	News [v3] (Tag Activated. Cat feature added (multiple category select). 2 optional fields added: summary and rutitr. Multiple Authors can add/edit/view news module) [Bug: LTR for English rich text editor]
+---------------------------------------------------------------------------------------------------
+Features added to V 0.0.2:
+	Guides for modules: Slide, News, Articles, steelrokh_products
+	Shortcuts (for steelrokh: Slide, News, Articles)
+	html "msgbox" and "simple_msgbox" system
+	admim can feature a photo in photo_albums module
+	global system for custom/misc ajax pane (ex. news listing by category or news_author, tinyMCE photo uploader and aparat video inserter)
+	Tags
+		- customisation for "Gameology": activated for articles module
+		- no change needed in modules's dbs, just ___2.php and ___3.php must be changed for each module
+		- tag_input and tag_plus classes added to style.css
+		- add_tag_field() function added to scripts.js
+		- tag_activated setting inserted as a row in misc table | but for activating for each module you just need to edit ___2.php and ___3.php
+		- when admin starts typing a tag word, up to 3 top used tags will be shown as suggestions, but there is some bugs...
+		- [Bugs: each post can have repeated tag.]
+		- [Bugs: in front-end when we list posts by tag, an unpublished or deleted post is not specified in tags table in DB]
+			- this bug ^^^ has been solved with inserting two fields to `tags` table : (db_)`published`, `db_sort` | convert_tags.php must executed once for older projects
+	Cats
+		- customisation for "Khaierin news": activated for news module
+		- change needed in modules's ___1.php, ___2.php and ___3.php
+		- no change made in css or javascript
+		- 7 functions added to functions.php
+		- default cat for each module must be stored in misc table in db
+		- a change made in pub.php
+		- activating cat system for each module guide is in mod-cats.nfo
+---------------------------------------------------------------------------------------------------
+Global Changes:
+	------------------------- + upload Inline photo
+	--- tinyMCE upgraded! --- + insert Inline aparat video
+	------------------------- [tinyMCE.v.4]
+	- :)
+	- headlines of index.php that was too much (!) lines of code has been moved to handler.php
+	- sort feature now uses global JS function and global php Handler for all modules
+	- including "functions.php" moved to handler.php
+	- 1 global function added for checking published status by any DB & ID
+	
+Bugs Fixed:
+	bug in pub.php for changing location after deleting an Inline-photo
+	bug in game_slide.php: onclick event code fixed for game_slide sort
+	$_SESSION['admin_done'] now can be -1 that will show not successful operation message
+		
+Plans for next versions:
+	check signed in or not in ___3.php files and other php handlers (indeed we need a mini-handler for other handlers!)
+	event-log system for RSS etc
+	[done in v0.1.1] upgrade articles module according to Gameology articles module
+	build brand new crop system with settings stored in DB
+	attach mysql_error() to all of the queries
+	all settings such as misc rows #9 & #2 ~ #6 can be in a json in database
+	handler and index can use some switcher stored on DB for module on/off status
+	date/time switcher for each module between manual/forced-automatic
+	change sort system for tables that skipes some rows
+	[done in v0.1.0] changing color theme simplifying system
+	
+	
+	
+	
+ллллллллллллллллллллллллллллллллллллл
+л                                   л
+л        V 0.1.0 - 94/10/15         л
+л                                   л
+ллллллллллллллллллллллллллллллллллллл
+
+Deyhim Control Center customisation for "Aboutorabi Rises"
+Modules Added:
+	contactways [V1] (one languages)
+	abou_news [V1] (supports two languages, global crop needed, news type can be external news or official news) [with IMAGE FIELD in table]
+	abou_videos [V1] (one languages, global crop needed, video can uploaded directly or embed from aparat) [with IMAGE FIELD in table]
+HTML Changes:
+	some html inline styles has been moved to css file due to theme changing simplifying system
+CSS Changes:
+	some css rules created and/or changed due to theme changing simplifying system
+---------------------------------------------------------------------------------------------------
+Deyhim Control Center customisation for "Majma Khayerin"
+Modules Added:
+	poll [V1] (one language, 2 tables in DB)
+	linx [V1] (one language)
+	majma_arkaan [V1] (one languages, global crop needed) [with IMAGE FIELD in table]
+Modules Updated:
+	videos [V2] (tag activated, screenshots removed, IMAGE FIELD added to db, global crop needed)
+---------------------------------------------------------------------------------------------------
+Deyhim Control Center customisation for "Daste Jadoo"
+Modules Added:
+	contactsocials [#25-V1]
+	user_accounts [#26/#dj19-V1] for viewing users infos
+	dj_pro_options [#dj10-V1] (one language, 2 tables in DB)
+	dj_products [#dj11-V1] (one language, 2 tables in DB)
+	dj_blog [#dj12-V1] (one language) [with IMAGE FIELD in table]
+	dj_team [#dj13-V1] (one language) [with IMAGE FIELD in table]
+	dj_slide [#dj14-V1] (one language) [with IMAGE FIELD in table]
+	dj_dilution [#dj16-V1] (one language) (tables in DB: "dilution_codes" & "dilution_log")
+	dj_yourpohtos [#dj17-V1] (one language) [with IMAGE FIELD in table named "filename" for coloumn]
+	dj_support [#dj18-V1] (not included in dcc db and portal)
+	dj_orders [#dj15-V1] (not included in dcc db and portal)
+---------------------------------------------------------------------------------------------------
+Deyhim Control Center customisation for "Mohammad Sohrabi"
+Modules Added:
+	sohrabi_books [V1] (one language) [with IMAGE FIELD in table]
+	sohrabi_poems [V1] (one language)
+	sohrabi_slide [V1] (one language) [with IMAGE FIELD in table]
+---------------------------------------------------------------------------------------------------
+Deyhim Control Center customisation for "Mehregan Carpet"
+Modules Added:
+	mehregan_products [V1] (one language) [with IMAGE FIELD in table]
+---------------------------------------------------------------------------------------------------
+Features added to V 0.1.0:
+	theme changing for DCC is now simply possible with another css file that has been built exclusively for this feature
+	
+	
+	
+	
+	
+ллллллллллллллллллллллллллллллллллллл
+л                                   л
+л        V 0.1.1 - 95/11/28         л
+л                                   л
+ллллллллллллллллллллллллллллллллллллл
+
+Deyhim Control Center customisation for "Kanoon Khayerin"
+Modules Added:
+	about [V1] Can be Used as Every Static-Pages including TABS AND BLOX support (one language)
+	kanoon_camps [V0 Not Completed]
+Modules Updated:
+	linx [V2] (banner support added) [added IMAGE FIELD in table]
+Global Changes:
+	UI/UX improved with help of font-awesome icons and a new dashboard including welcome and instruction text
+	(for following improvement, a new CSS file named "style-v1,1" was added and some minor changes happened to index.php)
+	- two DASHBOARDs [V1] added (one with minimal blox of some modules | GLOBAL DASHBOARD with some texts) [NO .nfo DOC for this module]
+	- the RIGHT MENU/PANE turns to an ICONIC MINIMAL menu by-default, and can expand itself. Also it scrolls automatically whit a simple click :D
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+-------------------------------------------------лллллллллл----------------------------------------
+---------- Deyhim Control Center Name Changed to л The-CC л (CC stands for Control Center) --------
+-------------------------------------------------лллллллллл----------------------------------------
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+TheCC customisation for "Syntech-Nutrition.ir - Jahaan Darooye Raazak"
+Modules Added:
+	mod-settings [V1] (only for changing the super-user password)
+	newsletter [V1] (only viewing submitted emails and phones)
+	syntech_products [V1] (one language) [with IMAGE FIELD in table]
+	syntech_events [V1] (one language) [with IMAGE FIELD in table]
+	syntech_coworking [V1] (only viewing submitted coworking forms by users)
+	
+	
+	
+	
+	
+ллллллллллллллллллллллллллллллллллллл
+л                                   л
+л        V 0.1.2 - 96/04/20         л
+л                                   л
+ллллллллллллллллллллллллллллллллллллл
+
+TheCC customisation for "Cassette Head Audio"
+Modules Added:
+	cha_projects [V1] based on syntech-events [NO .nfo DOC for this module] (one language).
+	cha_playlist [ NOT YET :(( ]
+Global Changes:
+	english content support added (works with inline javascript that changes direction of text inputs etc. if row #12 value in "misc" tables set to 1)
+---------------------------------------------------------------------------------------------------
+TheCC customisation for "Sani - Sayeh Gostar"
+Modules Added:
+	sani_products [V1] (one language) [with image gallery for each product]
+---------------------------------------------------------------------------------------------------
+
+GLOBAL CHANGES:
+
+---------------------------------------------------------------------------------------------------
+	- from now on, ALL NEW/UPGRADED Modules must have лthis 4 starting  columnsл in db  ---> ID(Primary+AI) - sort - title - body
+	- from now on, ALL NEW/UPGRADED Modules must have лthis 4 finishing columnsл in db ---> view - image - date - published
+	- ARTICLES module upgraded to [VER 3] (Gameology's latest edits) [MUST EDIT module's .nfo FILE]
+	- added LATIN NUMBER TO FARSI NUMBER CONVERTOR tinyMCE(v.4) button that can convert nums in selected part of text
+	- global SETTING/CHANGE-PASS module [V1] added
+	- makeThumb function in "FUNCTIONS.PHP" can now just RESIZE a photo and not crop it, by giving it's gWidth or gHeight this string: "auto" :)
+	  also this function now supports png BUT NOT TESTED !!
+	- for websites with ENGLISH CONTENT like CassetteHeadAudio now there is #12 row in MISC TABLE in db, that convert direction of all input boxes to LTR including tinyMCE.v.4
+---------------------------------------------------------------------------------------------------
+
+PLANS FOR THE-CC V.1.0.0 :
+
+---------------------------------------------------------------------------------------------------
+	- rebuilt the whole framework with CodeIgniter with default TAG SYSTEM
+	- change misc-table in db to лSETTINGSл table with some json based values for each module
+	- make modules to лREAL MODULESл with a fucking installation system >_<
+	- english version for administration panel
+	- night/dark mode for panel's theme with a simple JS+CSS based switch button on header
+	
+	
+	
+	
+	
+	
+ллллллллллллллллллллллллллллллллллллл
+л                                   л
+л        V 1.0.0 - 98/02/23         л
+л                                   л
+ллллллллллллллллллллллллллллллллллллл
+
+All "mysql" functions changed to "mysqli" In order to upgrading standards to MySQL v5.7 and PHP v7
+In addition to following change, all table columns needs ***DEFAULT VALUE*** now :|
+and also from now on, every php function needs "include connectioni.php" for itself.
+Tables changed for settings "Default Value" and "Primary Key":
+	cha_projects
+	about
+	slide
+	news
+	cats
+	cats_relations
+	articles
+	misc
+	comments
+	dj_yourphotos
+	videos
+	downloads
+	contactways
+	
+
+Bug fixed:
+	background-color bug in firefox for daTable rows fixed (change happened in style.css and style-about.css)
+	
+Bug Added/Founded:
+	all ___3.php files and another stand-alone php files must have mysqli_close($CON) as finishing line
+	fetching next ID for adding posts must be лgreatestID + 1л not num_rows! (fixed in mod-cats, meftah_training, meftah_services, about, discount_codes, slide, news, video, contactsocials)
+	
+Improvements:
+	[change in mod-news2.php, mod-news3.php, mod-news-cats.php] instead of using catID:0 for news with default cat, now the ID for default cat itselft is set for the post, so in front we will have less challenges!
+	[handler.php, index.php] change in tinyMCE inline photos folder path (reads from the url)
+---------------------------------------------------------------------------------------------------
+TheCC customisation for "Meftah Rayaneh Afzar"
+Modules Added:
+	meftah_services [#mf10-V1] (two language)
+	meftah_training [#mf11-V1] (2 tables: meftah_training for module itself, meftah_training_regs for submitted/paid forms by guest-users)
+	meftah_jobs		[#mf12-v1] (one language, category activated)
+	meftah_products	[#mf13-v1] (one language, tag activated, category activated, built from meftah_services and news)
+	online_chat		[#30 - V1]
+	tickets			[#32 - V1] (3tables: tickets, tickets_msgs, ticket_admins) (works with user_accounts)
+	terminology		[#33 - V1]
+Modules Updated:
+	slide [#10-V3] (video support added, image field added)
+	discount_codes [#dj16-V1] (former "dj_dilution") (one table for module itself and one log/history table)
+	downloads [#15-V2] (category support added, `format` column added)
+	comments [#v17 - V1] (anonymous/guest commenting is now available)
+	
+	
+Due to create л MULTIPLE ADMIN PANELS л with different permission and settings, 2 table added to DB: "admin_users" & "activitylog"
+	- change happened to login.php, login2.php, handler.php, functions.php
+	- minor change happened to index.php and logout.php for loging page views and logouts
+	- different panels must be in a different folder, but all panels names must be started with "iADMIN"
+	- folder names must be defined in "admin_users" db table
+---------------------------------------------------------------------------------------------------
+TheCC customisation for "GMATDep"
+Modules Added:
+	site_updates [#gd10-V1] (one language)
+Modules Updated:
+	slide [#10-V4] (video and slide desc and mobile photo is now officialy included and optional [misc table rows #14, #15, #17])
+	dj_support [#dj16-V1] not updated but now is included in thecc's db and portal
+---------------------------------------------------------------------------------------------------
+TheCC customisation for "Oasis IT"
+Modules Added:
+	oit_news [#oi10-V1] (two languages, built from news module)
+---------------------------------------------------------------------------------------------------
+TheCC customisation for "Fanavaran Ertebatat Rastak System - FARSNET"
+Modules Added:
+	farsnet_isos [#fn10-V1] (one languages, built from videos module)
+	farsnet_projects [#fn11-V1] (one languages, built from meftah_products)
+	farsnet_products [#fn12-V1] (one languages, built from meftah_products)
+	

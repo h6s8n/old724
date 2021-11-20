@@ -1,0 +1,47 @@
+@font-face {
+  font-family: Vazir-FD;
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/Vazir-FD.eot');
+  src: url('fonts/Vazir-FD.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+       url('fonts/Vazir-FD.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('fonts/Vazir-FD.ttf') format('truetype');
+}
+* {
+  font-family: Vazir-FD !important;
+  direction: rtl;
+  text-align: right;
+  overflow: hidden;
+}
+form {
+  width: 50%;
+  margin: 20px auto;
+  padding: 15px;
+}
+input {
+  width: 100%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 10px;
+}
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 100px auto;
+}
+th,
+td {
+  height: 50px;
+  vertical-align: center;
+  border: 1px solid black;
+}
+#alert-success , #alert-danger , #alert-warning , #notup 
+, #failed {
+    top: 100px;
+    position: relative;
+}

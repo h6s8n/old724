@@ -1,0 +1,120 @@
+/*//////////////////////////////////////////////////////////////////
+Grid
+/////////////////////////////////////////////////////////////////////
+1. Grid Posts 
+2. Respansive Standard
+3. Respansive (max-width: 1240px)
+4. Respansive (max-width: 1240px) and (min-width: 980px)
+5. Respansive (max-width: 979px)
+6. Respansive (max-width: 979px) and (min-width: 768px)
+7. Respansive (max-width: 767px) and (min-width: 500px)
+8. Respansive (max-width: 499px)
+*/
+/********************************************************************
+1. Grid Posts
+*********************************************************************/
+.rd-post-module-2{float:left;padding:10px;display:inline-flex;display:-webkit-inline-flex;display:-ms-inline-flexbox}
+.rd-post-module-2 .rd-thumb{float:left;position:relative;width:100%!important}
+.rd-post-module-2 .rd-post-thumbnail{padding-bottom:75%;position:relative;height:auto;width:100%;display:block;overflow:hidden}
+.rd-post-module-2:not(.has-post-thumbnail) .rd-details{margin:0!important}
+.rd-post-module-2 .rd-circular{margin:15px}
+.rd-post-module-2 .rd-details{margin-top:0;width:100%!important;margin-top:10px}
+.rd-post-module-2 .rd-post-warp{float:left;width:100%;height:100%}
+.rd-post-module-2 .rd-category{margin:15px 0;padding:0 15px;position:absolute;bottom:0}
+.rd-grid .rd-title-box,#rd_module_blog .rd-title-box{padding:10px}
+.rd-grid .rd-post-item{list-style:none}
+.rd-grid.rd-slider .rd-post-list{display: inline-flex;display: -webkit-inline-flex;display: -ms-inline-flexbox;}
+.rd_content_grid_2c div.rd-row:nth-of-type(4n),.rd_content_grid_3c div.rd-row:nth-of-type(6n),.rd_content_grid_4c div.rd-row:nth-of-type(8n),.rd_content_grid_5c div.rd-row:nth-of-type(10n),.rd_content_grid_6c div.rd-row:nth-of-type(12n),.rd_main_grid_2c div.rd-row:nth-of-type(4n),.rd_main_grid_3c div.rd-row:nth-of-type(6n),.rd_main_grid_4c div.rd-row:nth-of-type(8n),.rd_main_grid_5c div.rd-row:nth-of-type(10n),.rd_main_grid_6c div.rd-row:nth-of-type(12n),.rd_mini_grid_2c div.rd-row:nth-of-type(4n){width:100%}
+/********************************************************************
+2. Respansive Standard
+*********************************************************************/
+.rd-grid .rd-post-1-1 .rd-title a{font-size:29px}
+.rd-grid .rd-post-2-3 .rd-title a{font-size:27px}
+.rd-grid .rd-post-1-2 .rd-title a{font-size:25px}
+.rd-grid .rd-post-1-3 .rd-title a{font-size:19px}
+.rd-grid .rd-post-1-4 .rd-title a{font-size:16px}
+.rd-main .rd-grid .rd-post-1-5 .rd-title a{font-size:15px}
+.rd-grid .rd-post-1-5 .rd-title a{font-size:14px}
+.rd-grid .rd-post-1-6 .rd-title a{font-size:13px}
+.rd-grid .rd-post-1-1 .rd-details{margin-top:15px}
+.rd-grid .rd-post-1-2 .rd-details{margin-top:12px}
+.rd-grid.rd-module-item .rd-post.rd-post-1-1 .rd-meta,.rd-grid.rd-module-item .rd-post.rd-post-2-3 .rd-meta{margin-top:10px}
+.rd-grid.rd-module-item .rd-post.rd-post-1-2 .rd-meta,.rd-grid.rd-module-item .rd-post.rd-post-1-3 .rd-meta{margin-top:9px}
+.rd-grid .rd-post-1-1 .rd-excerpt{font-size:18px; padding-top:2px;}
+.rd-grid .rd-post-2-3 .rd-excerpt{font-size:17px; padding-top:2px;}
+.rd-grid .rd-post-1-2 .rd-excerpt{font-size:16px}
+.rd-grid .rd-post-1-3 .rd-excerpt{font-size:14px}
+.rd-grid .rd-post-1-4 .rd-excerpt{font-size:13px}
+.rd-grid .rd-post-1-5 .rd-excerpt{font-size:12px}
+/********************************************************************
+3. Respansive (max-width: 1240px)
+*********************************************************************/
+@media (max-width: 1240px) {
+.rd-content .rd-grid.rd-module-item{padding:19px 0}
+.rd-grid .rd-post-1-1 .rd-details{margin-top:10px}
+.rd-grid .rd-post-1-2 .rd-details{margin-top:10px}
+}
+/********************************************************************
+4. Respansive (max-width: 1240px) and (min-width: 980px)
+*********************************************************************/
+@media (max-width: 1240px) and (min-width: 980px) {
+.rd-grid .rd-post-1-1 .rd-title a{font-size:28px}
+.rd-grid .rd-post-2-3 .rd-title a{font-size:24px!important}
+.rd-grid .rd-post-1-2 .rd-title a{font-size:20px!important}
+.rd-grid .rd-post-1-3 .rd-title a{font-size:17px}
+.rd-grid .rd-post-1-4 .rd-title a{font-size:14px}
+.rd-grid .rd-post-1-5 .rd-title a{font-size:13px}
+.rd-grid .rd-post-1-6 .rd-title a,.rd-grid .rd-post-1-8 .rd-title a{font-size:12px}
+.rd-grid .rd-post-1-6 .rd-meta,.rd-grid .rd-post-1-8 .rd-meta,.rd-grid .rd-post-1-6 .rd-category,.rd-grid .rd-post-1-8 .rd-category{display:none}
+.rd-grid .rd-post-1-1 .rd-excerpt{font-size:15px}
+.rd-grid .rd-post-2-3 .rd-excerpt{font-size:14px!important}
+.rd-grid .rd-post-1-2 .rd-excerpt{font-size:14px!important}
+.rd-grid .rd-post-1-3 .rd-excerpt{font-size:13px!important}
+.rd-grid .rd-post-1-4 .rd-excerpt{font-size:12px!important}
+.rd-grid .rd-post-1-5 .rd-excerpt,.rd-grid .rd-post-1-6 .rd-excerpt{display:none}
+
+}
+/********************************************************************
+5. Respansive (max-width: 979px)
+*********************************************************************/
+@media (max-width: 979px) {
+body .rd-row-item .rd-space.rd-module-item{padding:10px 0!important}
+.rd-grid.rd-module-item{padding:10px 0!important}
+}
+/********************************************************************
+6. Respansive (max-width: 979px) and (min-width: 768px)
+*********************************************************************/
+@media (max-width: 979px) and (min-width: 768px) {
+.rd-grid div.rd-row{width:0!important}
+.rd-grid .rd-979-1c .rd-title a{font-size:22px!important}
+.rd-grid .rd-979-2c .rd-title a{font-size:18px!important}
+.rd-grid .rd-979-3c .rd-title a{font-size:14px!important}
+.rd-grid .rd-979-4c .rd-title a{font-size:13px!important}
+.rd-grid .rd-979-1c .rd-excerpt{font-size:16px!important}
+.rd-grid .rd-979-2c .rd-excerpt{font-size:13px!important}
+ .rd-grid .rd-979-3c .rd-excerpt,.rd-grid .rd-979-4c .rd-excerpt,.rd-grid .rd-979-4c .rd-meta{display:none}
+.rd-grid div.rd-row.rd-col-979-2c:nth-of-type(4n),.rd-grid div.rd-row.rd-col-979-3c:nth-of-type(6n){width:100%!important}
+}
+/********************************************************************
+7. Respansive  (max-width: 767px) and (min-width: 500px)
+*********************************************************************/
+@media (max-width: 767px) and (min-width: 500px) {
+.rd-grid div.rd-row{width:0!important}
+.rd-grid div.rd-row.rd-col-767-2c:nth-of-type(4n),.rd-grid div.rd-row.rd-col-767-3c:nth-of-type(6n){width:100%!important}
+.rd-grid .rd-post.rd-767-1c .rd-title a{font-size:18px!important}
+.rd-grid .rd-post.rd-767-2c .rd-title a{font-size:15px!important}
+.rd-grid .rd-post.rd-767-3c .rd-title a{font-size:12px!important}
+.rd-grid .rd-excerpt,.rd-grid .rd-post.rd-767-3c .rd-meta,.rd-grid .rd-767-3c.rd-post .rd-category{display:none!important}
+}
+/********************************************************************
+8. Respansive (max-width: 499px)
+*********************************************************************/
+@media (max-width: 499px) {
+.rd-grid .rd-post.rd-499-1c .rd-title a{font-size:15px!important}
+.rd-grid .rd-post.rd-499-2c .rd-title a{font-size:13px!important}
+.rd-grid .rd-post.rd-499-1c .rd-excerpt{font-size:12px!important}
+.rd-grid div.rd-row{width:0!important}
+.rd-grid .rd-row.rd-col-499-1c{width:100%!important}
+.rd-grid div.rd-row.rd-col-499-2c:nth-of-type(4n){width:100%!important}
+.rd-grid div.rd-post.rd-499-2c .rd-category,.rd-grid div.rd-post .rd-excerpt{display:none}
+}

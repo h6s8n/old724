@@ -1,0 +1,954 @@
+#xecuter_builder_metabox .inside {
+	margin: 0px;
+	padding: 0px;
+}
+.rd_builder {
+	border: solid 1px #c6c6c6;
+	box-sizing: border-box;
+	padding: 10px;
+	background: #edeff0;
+}
+#xecuter_builder_metabox{
+	display:none !important;
+}
+.rd-has-page-builder #xecuter_builder_metabox{
+	display:block !important;
+}
+
+.rd-has-page-options .edit-post-layout__content{
+	z-index:999999999999999999;
+}
+.rd-has-page-builder  .editor-block-list__layout,.rd-has-page-builder .wp-editor-expand{
+	display:none !important;
+}
+.rd_builder * {
+	box-sizing: border-box;
+}
+.rd_builder_list {
+	margin: 0;
+}
+.rd_builder_add.button {
+	width: 100%;
+	text-align: center;
+	line-height: 35px;
+	font-weight: 700;
+	font-size: 13px;
+	height: 40px;
+}
+.rd_model_add {
+	background: #0085ba;
+	border-color: #0073aa #006799 #006799;
+	-webkit-box-shadow: 0 1px 0 #006799;
+	box-shadow: 0 1px 0 #006799;
+	color: #fff;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+.rd_builder_add i::before {
+	cursor: pointer;
+	vertical-align: middle;
+	font-size: 2em;
+	font-family: dashicons;
+	height: 100%;
+	margin-right: 5px;
+	content: "\f502";
+	font-style: normal;
+	color: #4AD300;
+}
+.ui-sortable-placeholder {
+	background: rgba(150,150,150,0.15);
+	border: dotted 1px rgba(150,150,150,0.55);
+	visibility: visible !important;
+	height: 30px !important;
+}
+.ui-sortable-placeholder.rd_row_item {
+	background: #E4FAFF;
+	border: dotted 2px #C1E5FF;
+	visibility: visible !important;
+	height: 50px !important;
+}
+.ui-sortable-placeholder.rd_block_item {
+	background: #E4FAFF;
+	border: dotted 2px #C1E5FF;
+	visibility: visible !important;
+	height: 60px !important;
+}
+.rd_media_modal {
+	position: fixed !important;
+	top: 50% !important;
+	left: 50% !important;
+	min-height: 150px !important;
+	padding-bottom: 20px !important;
+	background-color: #fff;
+}
+.rd_model {
+	display: none;
+	position: fixed;
+	pointer-events: all;
+	background: rgba(0,0,0,0.70);
+	top: 0;
+	z-index: 100000;
+	cursor: initial;
+	height: 100%;
+	width: 100%;
+	left: 0;
+}
+.rd_model * {
+	pointer-events: all;
+}
+.rd_model .rd-row-5c {
+	width: 100%;
+	float: left;
+}
+.rd_model.rd_active {
+	display: table;
+	vertical-align: middle
+}
+.rd_model_middle {
+	margin: auto;
+	vertical-align: middle;
+	width: 817px;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	padding: 0 0;
+	top: 50%;
+	left: 50%;
+	overflow: auto;
+	right: auto;
+	max-height: 100%;
+	bottom: auto;
+	transform: translate(-50%, -50%);
+}
+.rd_model_warp {
+	width: 800px;
+	max-height: 450px;
+	background: #fcfcfc;
+	margin: auto;
+}
+.rd_model_title {
+	padding: 10px;
+	font-size: 18px;
+	font-weight: 700;
+	text-align: left;
+	position: sticky;
+	background: rgb(248, 248, 248);
+	box-sizing: border-box;
+	float: left;
+	width: 100%;
+	z-index: 1;
+	top: 0;
+	line-height: 25px;
+}
+.rd_model_close {
+	cursor: pointer;
+}
+.rd_model_close::before {
+	font-size: 2em;
+	font-family: dashicons;
+	height: 100%;
+	float: right;
+	content: "\f335";
+	font-style: normal;
+}
+.rd_model_close:hover {
+	opacity: .6;
+}
+.rd_model_content {
+	overflow-y: auto;
+	float: left;
+	background: #fff;
+	padding: 0;
+	padding: 20px;
+	margin: 0;
+	width: 100%;
+	height: calc(100% - 107px);
+}
+.rd_model_content li {
+	display: inline-block;
+	width: 25%;
+	float: left;
+	padding: 5px;
+	cursor: pointer;
+}
+.rd_model_block .rd_model_content li {
+	width: 20%;
+}
+.rd_model_content li input {
+	display: none;
+}
+.rd_model_content li img {
+	width: 100%;
+	float: left;
+	border: solid 3px rgb(222, 222, 222);
+}
+.rd_model_item.selected img {
+	border: 3px solid #14b8d4;
+}
+.rd_model_item span {
+	margin-top: 5px;
+	float: left;
+	text-align: center;
+	width: 100%;
+}
+.rd_model_bottom {
+	float: right;
+	padding: 15px;
+	background: #fcfcfc;
+	text-align: right;
+	width: 100%;
+}
+
+@media (max-width: 800px) {
+.rd_model_warp {
+	width: 80%;
+	background: #fff;
+}
+}
+
+@media (max-height: 500px) {
+.rd_model_warp {
+	height: 80%;
+}
+}
+.rd_row_item {
+	width: 100%;
+	float: left;
+	text-align: center;
+	cursor: move;
+	margin-bottom: 10px;
+	box-shadow: 0 0 5px #c2c4c8;
+	overflow: hidden;
+	min-height: 50px;
+}
+.rd_row_title {
+	height: 40px;
+	background: #414a5d;
+}
+.rd_row_remove {
+	float: right;
+	background: #fafcfe;
+}
+.rd_row_options::before {
+	cursor: pointer;
+	line-height: 40px;
+	text-decoration: none;
+	float: right;
+	vertical-align: middle;
+	font-size: 1.8em;
+	font-family: dashicons;
+	height: 100%;
+	margin-right: 5px;
+	content: "\f111";
+	font-style: normal;
+	color: #f5f5f5;
+	width: 30px;
+}
+.rd_row_remove::before {
+	width: 40px;
+	cursor: pointer;
+	line-height: 40px;
+	text-decoration: none;
+	float: right;
+	vertical-align: middle;
+	font-size: 1.8em;
+	font-family: dashicons;
+	height: 100%;
+	content: "\f153";
+	font-style: normal;
+	color: #ff1313;
+}
+.rd_row_remove:hover, .rd_row_options:hover {
+	opacity: .6;
+}
+.rd_row_container {
+	width: 100%;
+	min-height: 40px;
+	background: #ddd;
+	cursor: initial;
+	display: -webkit-flex; /* Safari */
+	display: flex;
+}
+.rd_row_item .rd_column {
+	background: #fff;
+	position: relative;
+	padding: 10px;
+	border-right: solid 1px #ddd;
+	border-left: solid 1px #ddd;
+}
+.rd_row_1920 .rd_column_wide {
+	width: 100%;
+}
+.rd_row_1200 .rd_column_content {
+	width: 90%;
+	margin: 0 5%;
+}
+.rd_row_900_300 .rd_column_main {
+	width: 67.5%;
+	margin-left: 5%;
+}
+.rd_row_900_300 .rd_column_mini {
+	width: 22.5%;
+	margin-right: 5%;
+}
+.rd_row_800_400 .rd_column_main {
+	width: 60%;
+	margin-right: 5%;
+}
+.rd_row_800_400 .rd_column_mini {
+	width: 30%;
+	margin-left: 5%;
+}
+.rd_row_300_900 .rd_column_main {
+	width: 67.5%;
+	margin-right: 5%;
+}
+.rd_row_300_900 .rd_column_mini {
+	width: 22.5%;
+	margin-left: 5%;
+}
+.rd_row_400_800 .rd_column_main {
+	width: 60%;
+	margin-left: 5%;
+}
+.rd_row_400_800 .rd_column_mini {
+	width: 30%;
+	margin-right: 5%;
+}
+.rd_row_3c_400 .rd_column_mini {
+	width: 30%;
+}
+.rd_row_3c_400 .rd_column_mini:first-child {
+	margin-right: 05%;
+}
+.rd_row_3c_400 .rd_column_mini:last-child {
+	margin-left: 05%;
+}
+.rd_row_4c_300 .rd_column_mini {
+	width: 22.5%;
+}
+.rd_row_4c_300 .rd_column_mini:first-child {
+	margin-right: 5%;
+}
+.rd_row_4c_300 .rd_column_mini:last-child {
+	margin-left: 5%;
+}
+.rd_add_block, .rd_sidebar_options {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+	width: 30px;
+	opacity: .7;
+	text-decoration: none;
+	background: #fff;
+	border: solid 1px #EDEDED;
+	height: 30px;
+	text-align: center;
+}
+.rd_add_block:hover, .rd_sidebar_options:hover {
+	opacity: 1;
+}
+.rd_add_block::before {
+	vertical-align: bottom;
+	font-size: 25px;
+	font-family: dashicons;
+	content: "\f132";
+	cursor: pointer;
+	font-style: normal;
+	color: rgba(23,195,16,1.00);
+	text-decoration: none;
+	line-height: 30px;
+	opacity: .7;
+	margin: 0;
+}
+.rd_sidebar_options::before {
+	vertical-align: bottom;
+	cursor: pointer;
+	font-size: 25px;
+	font-family: dashicons;
+	content: "\f107";
+	font-style: normal;
+	color: #444;
+	text-decoration: none;
+	line-height: 30px;
+	opacity: .7;
+	margin: 0;
+}
+.rd_block_item {
+	width: 100%;
+	float: left;
+	text-align: center;
+	cursor: move;
+	position: relative;
+	margin-top: 10px;
+	overflow: hidden;
+	background: #f8fafc;
+	height: 64px;
+	border: solid 2px #dedee9;
+}
+.rd_block_item img {
+	width: 110px;
+	float: left;
+	padding: 2px 2px;
+	height: 60px;
+}
+.rd_block_item .rd_block_title {
+	font-size: 13px;
+	font-weight: 700;
+	line-height: 30px;
+	float: left;
+	margin: 0 10px;
+	position: absolute;
+	text-align: left;
+	left: 110px;
+	right: 80px;
+	padding: 10px 0;
+}
+.rd_block_item:first-child {
+	margin-top: 0px;
+}
+.rd_block_options {
+	float: right;
+	background: #ffffff;
+	right: 40px;
+	position: absolute;
+}
+.rd_block_options::before {
+	cursor: pointer;
+	line-height: 60px;
+	text-decoration: none;
+	float: right;
+	vertical-align: middle;
+	font-size: 2.0em;
+	font-family: dashicons;
+	height: 100%;
+	content: "\f111";
+	font-style: normal;
+	color: RGB(102, 102, 102);
+	width: 40px;
+}
+.rd_block_remove {
+	float: right;
+	background: #fff;
+	position: absolute;
+	right: 0px;
+}
+.rd_block_remove::before {
+	cursor: pointer;
+	line-height: 60px;
+	text-decoration: none;
+	float: right;
+	width: 40px;
+	vertical-align: middle;
+	font-size: 2.0em;
+	font-family: dashicons;
+	height: 100%;
+	content: "\f182";
+	font-style: normal;
+	color: RGB(102, 102, 102);
+}
+.rd_block_remove:hover, .rd_block_options:hover {
+	opacity: .6;
+}
+.rd_options {
+	display: none;
+}
+.rd_options {
+	display: none;
+	position: fixed;
+	pointer-events: all;
+	background: rgba(0,0,0,0.70);
+	top: 0;
+	z-index: 100000;
+	cursor: initial;
+	height: 100%;
+	width: 100%;
+	left: 0;
+}
+.rd_options * {
+	pointer-events: all !important;
+}
+.rd_options.rd_active {
+	display: table;
+	vertical-align: middle
+}
+.rd_options_middle {
+	margin: auto;
+	vertical-align: middle;
+	width: 640px;
+	text-align: center;
+	display: inline-block;
+	position: absolute;
+	padding: 0 0;
+	top: 50%;
+	left: 50%;
+	overflow: auto;
+	right: auto;
+	max-height: 100%;
+	bottom: auto;
+	transform: translate(-50%, -50%);
+}
+
+@media (max-width: 800px) {
+.rd_model_warp {
+	width: 80%;
+	background: #fff;
+}
+}
+.rd_options_title {
+	padding: 10px;
+	font-size: 18px;
+	font-weight: 700;
+	text-align: left;
+	position: sticky;
+	background: #f8f8f8;
+	box-sizing: border-box;
+	float: left;
+	width: 100%;
+	z-index: 1;
+	top: 0;
+	line-height: 25px;
+}
+.rd_model_bottom {
+	position: sticky;
+	bottom: 0;
+}
+.rd_options_close {
+	cursor: pointer;
+}
+.rd_options_close::before {
+	cursor: pointer;
+	font-size: 2em;
+	font-family: dashicons;
+	height: 100%;
+	float: right;
+	content: "\f335";
+	font-style: normal;
+}
+.rd_options_close:hover {
+	opacity: .7;
+}
+.rd_options_content {
+	overflow-y: auto;
+	float: left;
+	background: #fff;
+	padding: 0;
+	padding: 20px;
+	margin: 0;
+	width: 100%;
+	height: calc(100% - 107px);
+}
+.rd_options_add {
+	float: right;
+	position: relative;
+}
+.rd_options_item {
+	float: left;
+	width: 100%;
+	padding: 7px 0;
+	margin: 0;
+	border-bottom: solid 1px #f0f0f0;
+}
+.rd_options_name label {
+	float: left;
+}
+.rd_options_content li img {
+	width: 100%;
+	float: left;
+	height: auto;
+	margin-top: 5px;
+}
+.rd_options_bottom {
+	float: right;
+	padding: 15px;
+	background: #f8f8f8;
+	text-align: right;
+	width: 100%;
+}
+.rd_options_name {
+	width: 27.5%;
+	font-size: 12px;
+	font-weight: 400;
+	float: left;
+	height: 23px;
+	line-height: 23px;
+}
+.rd_options_setting {
+	width: 72.5%;
+	float: left;
+}
+.rd_options_setting input {
+	height: 23px;
+	padding: 2px;
+	float: right;
+	width: 100%;
+}
+.rd_options_setting select {
+	height: 23px;
+	line-height: 23px;
+	float: right;
+	font-size: 12px;
+	padding: 0 2px;
+}
+.rd_options_setting select {
+	margin: 0;
+	box-shadow: none;
+	background: url(../images/select.jpg) no-repeat right;
+	display: inline-block;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	cursor: pointer;
+	padding-right: 14px;
+	border: solid 1px #ccc;
+	background-color: #fff;
+}
+.rd_options_setting input[type="number"] {
+	width: 70px;
+	float: right;
+}
+.rd_options_textarea .rd_options_name, .rd_options_textarea .rd_options_setting {
+	width: 100%;
+}
+.rd_options_textarea textarea {
+	width: 100%;
+	height: 150px;
+}
+.rd_sliders {
+	display: none;
+}
+.rd_checkbox {
+	float: right;
+	position: relative;
+	width: 23px;
+	height: 23px;
+}
+.rd_checkbox label {
+	display: inline-block;
+	position: relative;
+	float: left;
+	padding-left: 0px;
+}
+.rd_checkbox label::before {
+	content: "";
+	display: inline-block;
+	position: relative;
+	width: 23px;
+	box-sizing: border-box;
+	height: 23px;
+	border: 1px solid #B0B0B0;
+	background-color: #fff;
+	float: left;
+	-webkit-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+	-o-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+	transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+.rd_checkbox:hover label::before {
+	background-color: #f5f5f5;
+}
+.rd_checkbox label::after {
+	display: inline-block;
+	position: absolute;
+	width: 23px;
+	height: 23px;
+	left: -2px;
+	font-size: 26px;
+	line-height: 24px;
+	text-align: center;
+}
+.rd_checkbox input[type="checkbox"] {
+	display: none;
+	opacity: 0;
+}
+.rd_checkbox input[type="checkbox"]:focus + label::before {
+	outline: thin dotted;
+	outline: 5px auto -webkit-focus-ring-color;
+	outline-offset: -2px;
+}
+.rd_checkbox input[type="checkbox"]:checked + label::after {
+	font-family: dashicons;
+	content: "\f147";
+}
+.rd_checkbox input[type="checkbox"]:disabled + label {
+	opacity: 0.65;
+}
+.rd_checkbox input[type="checkbox"]:disabled + label::before {
+	background-color: #eeeeee;
+	cursor: not-allowed;
+}
+.rd_checkbox_primary input[type="checkbox"]:checked + label::before {
+	background-color: #45ca42;
+	border-color: #089e24;
+}
+.rd_checkbox_primary input[type="checkbox"]:checked + label::after {
+	color: #fff;
+}
+.rd_checkbox_primary:hover input[type="checkbox"]:checked + label::before {
+	background-color: #2ead2b;
+}
+.rd-multicheckbox {
+	float: left;
+	width: 100%;
+}
+.rd-multicheckbox li {
+	float: right;
+	width: auto;
+	margin-left: 5px;
+}
+.rd-multicheckbox .rd_checkbox {
+	float: right;
+	margin-left: 3px;
+}
+.dropdown {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+.rd_dropdown dd, .rd_dropdown dt {
+	margin: 0px;
+	padding: 0px;
+}
+.rd_dropdown ul {
+	margin: -1px 0 0 0;
+}
+.rd_dropdown dd {
+	position: relative;
+}
+.rd_dropdown a, .rd_dropdown a:visited {
+	color: #fff;
+	text-decoration: none;
+	outline: none;
+	font-size: 12px;
+}
+.rd_dropdown dt a {
+	display: block;
+	padding: 0 5px;
+	min-height: 25px;
+	line-height: 24px;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	border: solid 1px #CBCBCB;
+	color: #444;
+	text-align: left;
+}
+.rd_dropdown dt a::after {
+	content: "\f347";
+	font-family: dashicons;
+	color: #545454;
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+	line-height: 28px;
+	padding: 0 3px;
+	box-sizing: border-box;
+}
+.rd_multiSel {
+	margin: 0;
+	padding-right: 15px;
+}
+.rd_dropdown dt a span, .rd_multiSel span {
+	cursor: pointer;
+	display: inline-block;
+	color: #aaa;
+	padding: 0 3px 2px 0;
+	color: #444;
+	font-size: 11px;
+}
+.rd_dropdown dd ul {
+	background-color: #fff;
+	border: 0;
+	color: #393939;
+	display: none;
+	left: 0px;
+	padding: 0 5px;
+	position: absolute;
+	top: 2px;
+	width: 100%;
+	list-style: none;
+	max-height: 250px;
+	overflow: auto;
+	z-index: 1;
+	border: solid 1px #ccc;
+}
+.rd_dropdown span.value {
+	display: none;
+}
+.rd_dropdown dd ul li a {
+	padding: 5px;
+	display: block;
+}
+.rd_dropdown dd ul li a:hover {
+	background-color: #fff;
+}
+.rd_mutliSelect li {
+	float: left;
+	width: 100%;
+	margin: 0;
+	padding: 2px;
+	text-align: left;
+	line-height: 12px;
+}
+.rd_mutliSelect li input, .rd_mutliSelect li label {
+	height: 20px;
+	line-height: 15px;
+	float: left;
+	margin: 0 0 0 2px;
+	font-size: 12px;
+	width: auto;
+}
+.rd_options_tabs .rd_options_setting {
+	width: 100%;
+}
+.rd_tab_item {
+	float: left;
+	width: 100%;
+	padding: 3px;
+	background: #ECECEC;
+	margin: 2px 0px;
+}
+.rd_tab_option {
+	width: 30%;
+	float: left;
+	padding: 0 3px;
+}
+.rd_options_tabs .rd_options_setting input, .rd_options_tabs .rd_options_setting select {
+	width: 100%;
+	float: left;
+}
+.rd_add_tab {
+	float: right !important;
+	height: 23px !important;
+	line-height: 23px !important;
+	padding: 0px 10px !important;
+	font-size: 12px !important;
+}
+.rd_remove_tab {
+	width: 10%;
+	float: right;
+}
+.rd_remove_tab::before {
+	cursor: pointer;
+	line-height: 25px;
+	text-decoration: none;
+	vertical-align: middle;
+	font-size: 18px;
+	font-family: dashicons;
+	height: 100%;
+	content: "\f153";
+	font-style: normal;
+	color: #ff0000;
+}
+.rd_builder .wp-picker-container {
+	float: right;
+	width: 255px
+}
+.rd_builder .wp-color-result::after {
+	line-height: 20px;
+}
+.rd_builder .wp-picker-input-wrap {
+	width: 100%;
+}
+.rd_builder .wp-picker-container input.wp-color-picker[type="text"] {
+	width: 100% !important;
+}
+.rd_builder .wp-picker-holder, .rd_builder .wp-color-result {
+	float: right;
+}
+.rd_builder .cs-alpha-wrap {
+	box-sizing: inherit;
+}
+.rd_builder .wp-picker-input-wrap .button {
+	margin-top: 5px;
+	width: 60px;
+}
+.rd_builder .cs-alpha-text {
+	display: none;
+}
+.rd_builder .ui-slider-vertical.ui-slider {
+	margin-right: 0px;
+}
+
+@media (max-width: 800px) {
+.rd_options_warp {
+	width: 80%;
+	background: #fff;
+}
+}
+
+@media (max-height: 500px) {
+.rd_options_warp {
+	height: 80%;
+}
+}
+/*rtl*/
+.rtl .rd_builder_add i::before, .rtl .rd-multicheckbox li {
+	margin-left: 0px;
+	margin-right: 5px;
+}
+.rtl .rd_model_title, .rtl .rd_block_item .rd_block_title, .rtl .rd_dropdown dt a, .rtl .rd_mutliSelect li, .rtl .rd_options_title {
+	text-align: right;
+}
+.rtl .rd_model_content li, .rtl .rtl .rd_model_item span, .rtl .rd_row_item, .rtl .rd_block_item, .rtl .rd_block_item img, .rtl .rd_block_item .rd_block_title, .rtl .rd_options_title, .rtl .rd_options_name label, .rtl .rd_options_content li img, .rtl .rd_options_name, .rtl .rd_options_setting, .rtl .rd_checkbox label, .rtl .rd_mutliSelect li, .rtl .rd_mutliSelect li input, .rtl .rd_mutliSelect li label, .rtl .rd_tab_item, .rtl .rd_tab_option, .rtl .rd_options_tabs .rd_options_setting input, .rtl .rd_options_tabs .rd_options_setting select {
+	float: right;
+}
+.rtl .rd_model_bottom, .rtl .rd_row_options::before, .rtl .rd_row_remove, .rtl .rd_block_options::before, .rtl .rd_block_remove, .rtl .rd_block_remove::before, .rtl .rd_options_close::before, .rtl .rd_options_add, .rtl .rd_options_bottom, .rtl .rd_options_setting input, .rtl .rd_options_setting select, .rtl .rd_options_setting input[type="number"], .rtl .rd_checkbox, .rtl .rd-multicheckbox .rd_checkbox, .rtl .rd_remove_tab, .rtl .rd_builder .wp-picker-container, .rtl .rd_builder .wp-picker-holder, .rtl .rd_builder .wp-color-result, .rtl .rd-multicheckbox li, .rtl .rd_model_close::before{
+	float: left;
+}
+.rtl .rd_add_tab {
+	float: left !important;
+}
+.rtl .rd_block_options {
+	right: auto;
+	left: 40px;
+}
+.rtl .rd_options_setting select {
+	padding-left: 14px;
+	padding-right: 0;
+}
+.rtl .rd_mutliSelect li input., .rtl .rd_mutliSelect li label {
+ margin:0 2px 0 0;
+}
+.rtl .rd_multiSel {
+	padding-left: 15px;
+	padding-right: 0;
+}
+.rtl .rd_checkbox label::after {
+	right: -2px;
+	left: auto;
+}
+.rtl .rd_dropdown dd ul {
+	right: 0px;
+	left: auto;
+}
+.rtl .rd_dropdown dt a span, .rtl .rd_multiSel span {
+	padding: 0 0px 2px 3px;
+}
+.rtl .rd_block_remove {
+	left: 0;
+	right: auto;
+}
+.rtl .rd_block_item .rd_block_title {
+	left: 80px;
+	right: 110px;
+}
+.rtl .rd_dropdown dt a::after {
+	left: 0;
+	right: auto;
+}
+.rtl .rd_options_setting select {
+	background: url(../images/select.jpg) no-repeat left;
+}
+.rtl .rd-multicheckbox .rd_checkbox {
+	margin-right: 3px;
+	margin-left: 0px;
+}
+.rtl .rd_row_container {
+	direction: rtl;
+}
+
+.rtl .rd_row_item .rd_column {
+	direction: rtl;
+}
