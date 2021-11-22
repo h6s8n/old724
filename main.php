@@ -56,10 +56,10 @@
 						</p>
 						<div class="holder-link wow fadeInUp" data-wow-delay="0.3s">
 							<a href="javascript:void(0)" onclick="sade();" class="default-button">
-								سفارش چاپ ساده
+								محاسبه چاپ ساده
 							</a>
 							<a href="javascript:void(0)" onclick="nafis();" class="default-button">
-								سفارش چاپ نفیس
+								محاسبه چاپ نفیس
 							</a>
 						</div>
 					</div>
@@ -423,7 +423,7 @@
 						
 						<div class="additional_options">
 							<label for="free-sample" style="display: block;">
-								<input id="free-sample" name="free_sample" value="1" type="checkbox" <?php if ($_SESSION['chap_form']['post']['free_sample']==1) echo 'checked'; ?>>
+								<input id="free-sample" name="free_sample" value="1" type="checkbox" <?php if (isset($_SESSION['chap_form']['post']['free_sample']) && $_SESSION['chap_form']['post']['free_sample']==1) echo 'checked'; ?>>
 								درخواست یک نمونه کتاب چاپ شده با مشخصات بالا (رایگان) قبل از چاپ انبوه
 							</label>
 							<label for="free-mojavez" style="display: block;">

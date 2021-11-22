@@ -11,7 +11,7 @@
 	<?php
 	$counter=0;
 	
-	$CON2=mysqli_connect("localhost","cp41534_blogusers","001011111001!@#","cp41534_blog");
+	$CON2=mysqli_connect("localhost","root","","724_blog");
 	// $CON2=mysqli_connect("localhost","root","","seven24_blog");
 	mysqli_query($CON2,"SET NAMES utf8");
 	mysqli_query($CON2,"SET CHARACTER_SET utf8");

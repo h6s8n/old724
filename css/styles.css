@@ -1,14 +1,15 @@
-
 @media screen and (min-width: 769px) {
     #topbartitle {
         padding: 0px 2% 0px !important;
     }
+
     /* .header.header-shrink .nav-link:not(.active)::after */
-    #topbartitleahead:not(.active)::after , .topbartitle:not(.active)::after {
+    #topbartitleahead:not(.active)::after, .topbartitle:not(.active)::after {
         background-color: unset !important;
         color: white;
         font-size: 19px;
     }
+
     .topbartitleahead {
         font-size: 19px !important;
         color: white;
@@ -19,6 +20,7 @@
     #topbartitle {
         display: none;
     }
+
     /* .header.header-shrink .nav-link:not(.active)::after */
     #topbartitleahead {
         display: none;
@@ -37,6 +39,7 @@
         width: 165px !important;
     }
 }
+
 @media screen and (min-width: 769px) {
     .imageLogo {
         width: 165px !important;
@@ -65,5 +68,160 @@
     width: 45px;
     height: 45px;
     border-radius: 50px 50px 0px 0px;
-    left: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+
+.watsap-alo-ph-circle, .watsap-alo-ph-circle-fill {
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%
+}
+
+.watsap-alo-phone {
+    bottom: 180px
+}
+
+.animated.infinite {
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite
+}
+
+.watsap-alo-ph-circle {
+    width: 90px;
+    height: 90px;
+    top: 12px;
+    right: 12px;
+    position: absolute;
+    background-color: transparent;
+    border-radius: 100%;
+    border: 2px solid rgba(30, 30, 30, .4);
+    opacity: .1;
+    opacity: .5
+}
+
+.zoomIn {
+    -webkit-animation-name: zoomIn;
+    animation-name: zoomIn
+}
+
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+}
+
+.watsap-alo-ph-circle-fill {
+    width: 60px;
+    height: 60px;
+    top: 28px;
+    right: 28px;
+    position: absolute;
+    -ms-transition: all .2s ease-in-out;
+    border-radius: 100%;
+    border: 2px solid transparent;
+    -webkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    opacity: .4 !important
+}
+
+.watsap-alo-ph-circle, .watsap-alo-phone:hover .watsap-alo-ph-circle {
+    border-color: #43b91e
+}
+
+
+
+.cquery, .cquery .bg {
+    width: 100%;
+    top: 0;
+    left: 0
+}
+
+.watsap-alo-ph-circle-fill, .watsap-alo-ph-img-circle, .watsap-alo-phone:hover .watsap-alo-ph-circle-fill, .watsap-alo-phone:hover .watsap-alo-ph-img-circle {
+    background-color: #43b91e
+}
+
+.tada {
+    -webkit-animation-name: tada;
+    animation-name: tada
+}
+
+@-webkit-keyframes tada {
+    from, to {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1)
+    }
+    10%, 20% {
+        -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+    }
+    30%, 50%, 70%, 90% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+    }
+    40%, 60%, 80% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+    }
+}
+
+@keyframes tada {
+    from, to {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1)
+    }
+    10%, 20% {
+        -webkit-transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(.9, .9, .9) rotate3d(0, 0, 1, -3deg)
+    }
+    30%, 50%, 70%, 90% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, 3deg)
+    }
+    40%, 60%, 80% {
+        -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg);
+        transform: scale3d(1.1, 1.1, 1.1) rotate3d(0, 0, 1, -3deg)
+    }
+}
+
+@keyframes pulse {
+    from, to {
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1)
+    }
+    50% {
+        -webkit-transform: scale3d(1.05, 1.05, 1.05);
+        transform: scale3d(1.05, 1.05, 1.05)
+    }
+}
+
+@-webkit-keyframes zoomIn {
+    from {
+        opacity: 0;
+        -webkit-transform: scale3d(.3, .3, .3);
+        transform: scale3d(.3, .3, .3)
+    }
+    50% {
+        opacity: 1
+    }
+}
+
+@keyframes zoomIn {
+    from {
+        opacity: 0;
+        -webkit-transform: scale3d(.3, .3, .3);
+        transform: scale3d(.3, .3, .3)
+    }
+    50% {
+        opacity: 1
+    }
+}
+
+.watsap-alo-phone {
+    position: fixed;
+    bottom: 110px;
+    left: 0
 }

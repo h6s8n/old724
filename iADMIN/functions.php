@@ -59,7 +59,9 @@ function makeEscapedTitle($str="")
 
 function activitylog($type=0,$details=[])
 {
-	session_start();
+    if(!isset($_SESSION)) {
+        session_start();
+    }
 	include "../connectioni.php";
 	date_default_timezone_set("Asia/Tehran");
 	switch ($type)

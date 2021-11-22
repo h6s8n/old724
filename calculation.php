@@ -102,7 +102,6 @@ if ($row=="")
 $query=mysqli_query($CON,"SELECT * FROM `chap_parameters_bysize` WHERE `sizeID` = '$ghat' AND `parameterID` = '$pagematerial_gray'");
 $row=mysqli_fetch_assoc($query);
 $price_pages_gray=floatval($row['fee'])*($pagecount_gray/2);
-
 $query=mysqli_query($CON,"SELECT * FROM `chap_parameters_bysize` WHERE `sizeID` = '$ghat' AND `parameterID` = '$pagematerial_color'");
 $row=mysqli_fetch_assoc($query);
 $price_pages_color=floatval($row['fee'])*($pagecount_color/2);
@@ -127,19 +126,21 @@ $sahafi=$_POST['parameter104'];
 $GLOBALS['price_packing']=0;
 $GLOBALS['CON']=$CON;
 $GLOBALS['log']=[];
+
 function sahafiPrice($id=0,$isPacking=false)
 {
+
 	if ($id==0) return false;
 	do
 	{
-		if ($catRow!="") $id=$catRow['title'];
+		if (isset($catRow) && $catRow!="") $id=$catRow['title'];
 		array_push($GLOBALS['log'],'making a query for catID #'.$id.' (isPacking: '.$isPacking.') ...');
 		$catQuery=mysqli_query($GLOBALS['CON'],"SELECT * FROM `cats` WHERE `ID` = '$id' AND `published` = 1");
 		$catRow=mysqli_fetch_assoc($catQuery);
 		array_push($GLOBALS['log'],'catRow #'.$catRow['ID'].' fetched: '.$catRow['title'].'<br>');
 	}
 	while (is_numeric($catRow['title']));
-	
+
 	$catChildrenQuery=mysqli_query($GLOBALS['CON'],"SELECT * FROM `cats` WHERE `parentID` = '".$catRow['ID']."' AND `published` = 1");
 	$catChildrenCount=mysqli_num_rows($catChildrenQuery);
 	$catParametersQuery=mysqli_query($GLOBALS['CON'],"SELECT * FROM `cats_relations` as rels INNER JOIN `chap_parameters` as pars ON rels.`db_id` = pars.`ID` WHERE rels.`catID` = '$id' AND pars.`ID` = '".$_POST['parameter'.$id]."' AND pars.`published` = 1");
@@ -244,7 +245,7 @@ foreach($_POST['services'] as $id=>$val)
 	else
 		$priceServices[$id]=0;
 }
-$returnObj["prices"]["sum"]=number_format((($price_pages+$GLOBALS['price_sahafi'])*$tirazh)+$GLOBALS['price_packing']+$price_tarahi_jeld+$priceServices[57]+$priceServices[58]+$priceServices[59]);
+$returnObj["prices"]["sum"]=number_format((($price_pages+$GLOBALS['price_sahafi'])*$tirazh)+$GLOBALS['price_packing']+/*$price_tarahi_jeld+*/$priceServices[57]+$priceServices[58]+$priceServices[59]);
 
 // $returnObj["log"]=$GLOBALS['log'];
 
