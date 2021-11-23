@@ -102,6 +102,7 @@ if ($row=="")
 $query=mysqli_query($CON,"SELECT * FROM `chap_parameters_bysize` WHERE `sizeID` = '$ghat' AND `parameterID` = '$pagematerial_gray'");
 $row=mysqli_fetch_assoc($query);
 $price_pages_gray=floatval($row['fee'])*($pagecount_gray/2);
+
 $query=mysqli_query($CON,"SELECT * FROM `chap_parameters_bysize` WHERE `sizeID` = '$ghat' AND `parameterID` = '$pagematerial_color'");
 $row=mysqli_fetch_assoc($query);
 $price_pages_color=floatval($row['fee'])*($pagecount_color/2);
@@ -245,7 +246,16 @@ foreach($_POST['services'] as $id=>$val)
 	else
 		$priceServices[$id]=0;
 }
-$returnObj["prices"]["sum"]=number_format((($price_pages+$GLOBALS['price_sahafi'])*$tirazh)+$GLOBALS['price_packing']+/*$price_tarahi_jeld+*/$priceServices[57]+$priceServices[58]+$priceServices[59]);
+
+//request for translate
+$translate_request = 0;
+if (isset($_POST['translate_request'])) {
+    if ($_POST['translate_request']  != 0) {
+        $translate_request = 20000*$pagecount_gray;
+    }
+}
+
+$returnObj["prices"]["sum"]=number_format((($price_pages+$GLOBALS['price_sahafi'])*$tirazh)+$GLOBALS['price_packing']+/*$price_tarahi_jeld+*/$priceServices[57]+$priceServices[58]+$priceServices[59]+$translate_request);
 
 // $returnObj["log"]=$GLOBALS['log'];
 

@@ -320,6 +320,15 @@
 							<?php
 							}
 							?>
+                            <div class="col-lg-6">
+                                <div class="contact-form-group">
+                                    <label for="translate_request">درخواست ترجمه</label>
+                                    <select id="translate_request" class="form-input dropdown" name="translate_request" onchange="calculate()">
+                                        <option value="0">ندارد</option>
+                                        <option value="1" >دارد</option>
+                                    </select>
+                                </div>
+                            </div>
 						</div>
 						
 						<div class="divider"></div>
