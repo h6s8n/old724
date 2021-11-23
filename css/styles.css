@@ -225,3 +225,42 @@
     bottom: 110px;
     left: 0
 }
+
+
+#box-watsapp-icon {
+    cursor: pointer;
+    width: 80px;
+    height: 80px;
+    float: right;
+    text-align: center;
+    padding-top: 10px;
+    position: fixed;
+    bottom: 103px;
+    /*background-color: red;*/
+    right: 20px;
+    z-index: 100;
+}
+
+.widget-icon {
+    transition: all .2s ease!important;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    box-shadow: 0 1px 6px rgb(0 0 0 / 20%), 0 1px 10px rgb(0 0 0 / 15%);
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+}
+.zoom {
+    transition: all .2s ease!important;
+    transition-property: all !important;
+    transition-duration: 0.2s !important;
+    transition-timing-function: ease !important;
+    transition-delay: 0s !important;
+    margin: 0 auto;
+}
+
+.zoom:hover {
+    -ms-transform: scale(0.5); /* IE 9 */
+    -webkit-transform: scale(0.5); /* Safari 3-8 */
+    transform: scale(1.2);
+}
