@@ -92,7 +92,7 @@ else
 		$_SESSION['chap_mobile_orderID']=mysqli_insert_id($CON);
 		
 		include "sms.php";
-		sendsms($_SESSION['chap_mobile'],"کد احراز هویت 724 چاپ: ".$_SESSION['chap_mobile_vfcd']);
+        sendFarazSms($_SESSION['chap_mobile_vfcd'],$_SESSION['chap_mobile']);
 		
 		$returnObj["status"]=1;
 		die(json_encode($returnObj,JSON_UNESCAPED_UNICODE));
