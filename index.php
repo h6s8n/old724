@@ -42,7 +42,7 @@ session_start();
     <link rel="stylesheet" href="mystyle.css">
     <link rel="stylesheet" href="css/frameworks.css">
     <link rel="stylesheet" href="css/style-000326.css">
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/styles.css?v=1">
     <!-- FavIcon -->
     <link rel="shortcut icon" type="image/jpg" href="img/favicon.png"/>
     <!-- Search Console -->
