@@ -279,7 +279,7 @@ switch ($_GET['page']) {
 
     .watsap-icon-circle {
         width: 60px;
-        height:60px;
+        height: 60px;
         top: 10px;
         right: 10px;
         position: absolute;
@@ -1582,26 +1582,10 @@ switch ($_GET['page']) {
         <div class="animatedd infinite pulse mypage-alo-ph-circle-fill"></div>
         <div class="animatedd infinite tada mypage-alo-ph-img-circle"></div>
     </div>
+</a>
 
-<!--    <div class="mypage-alo-whatsapp">-->
-<!--        <!--        <a href=”https://wa.me/919876543210/?text=Hi Sam, Whatsup“>Click to Chat</a>-->-->
-<!--        <a href="https://api.whatsapp.com/send?phone=+989199861744&text=سلام، (٧٢٤ چاپ )را مقايسه كنيد، قيمت ها درست است⚖️%0a-->
-<!--    ١.مشخصات كتابتون و وارد كنيد(براي سفارش بالاي ١٠٠٠ تيراژ تك رنگ و ٥٠٠ تيراژ رنگي، تيكت بگذاريد.)📚%0a-->
-<!--    ٢.پيش فاكتور آنلاين دريافت كنيد🧾%0a-->
-<!--    ٣. مبلغ فاكتور و پرداخت كنيد💳%0a-->
-<!--    ٤.فايلتون و بارگذاري كنيد📤%0a-->
-<!--    ٥.منتظر باشيد در هر نقطه از كشور همكاراي ما به صورت رايگان كتابهاتون و به دستتون ميرسونن📦📭🚛%0a-->
-<!--    🤓موسسات آموزشي و دانشگاهي و سفارشات بالا هم ميتونم از شرايط پرداخت اقساط بدون بهره استفاده كنن، همكارمون ٧ روزه هفته، ٢٤ ساعت ،پشتيبانتون هستن.🤝%0a-->
-<!--    ٧٢٤ چاپ، پيشرو در صنعت چاپ كتاب🖨📚🇮🇷%0a-->
-<!--    https://724chap.com/" title="click to open whatsapp chat" class=""-->
-<!---->
-<!--           style="background: #28a745; padding: 10px 10px 4px 10px; font-size: 19px; color: #fff; border-radius: 41px;">0919-9861744</a>-->
-<!--<!--        <div class="animatedd infinite zoomIn watsap-alo-ph-circle"></div>-->-->
-<!--<!--        <div class="animatedd infinite pulse watsap-alo-ph-circle-fill"></div>-->-->
-<!--        <div class="animatedd infinite tada watsap-alo-ph-img-circle"></div>-->
-<!--    </div>-->
 
-    <a href="https://api.whatsapp.com/send?phone=+989199861744&text=سلام، (٧٢٤ چاپ )را مقايسه كنيد، قيمت ها درست است⚖️%0a
+<a href="https://api.whatsapp.com/send?phone=+989199861744&text=سلام، (٧٢٤ چاپ )را مقايسه كنيد، قيمت ها درست است⚖️%0a
     ١.مشخصات كتابتون و وارد كنيد(براي سفارش بالاي ١٠٠٠ تيراژ تك رنگ و ٥٠٠ تيراژ رنگي، تيكت بگذاريد.)📚%0a
     ٢.پيش فاكتور آنلاين دريافت كنيد🧾%0a
     ٣. مبلغ فاكتور و پرداخت كنيد💳%0a
@@ -1611,25 +1595,25 @@ switch ($_GET['page']) {
     ٧٢٤ چاپ، پيشرو در صنعت چاپ كتاب🖨📚🇮🇷%0a
     https://724chap.com/" title="click to open whatsapp chat" class=""
 
-       style="background: #28a745; padding: 10px 10px 4px 10px; font-size: 19px; color: #fff; border-radius: 41px;">
-        <div id="box-watsapp-icon" class="fadeInUp" style="">
-            <div class="widget-icon ">
-<!--                <img src="./img/watsapp.png" alt="">-->
-                <div class=" tada watsap-icon-circle zoom"></div>
-            </div>
-            <div class="unread-num" style="display: none;"></div>
+   style="background: #28a745; font-size: 19px; color: #fff; border-radius: 41px;">
+    <div id="box-watsapp-icon" class="fadeInUp" style="">
+        <div class="widget-icon ">
+            <!--                <img src="./img/watsapp.png" alt="">-->
+            <div class=" tada watsap-icon-circle zoom"></div>
         </div>
-    </a>
-
-    <div class="photoenlarge" onclick="$(this).fadeOut()">
-        <table cellspacing="0" cellpadding="0">
-            <tr>
-                <td valign="middle">
-                    <img>
-                </td>
-            </tr>
-        </table>
+        <div class="unread-num" style="display: none;"></div>
     </div>
-    <script src="js/responsive.js"></script>
+</a>
+
+<div class="photoenlarge" onclick="$(this).fadeOut()">
+    <table cellspacing="0" cellpadding="0">
+        <tr>
+            <td valign="middle">
+                <img>
+            </td>
+        </tr>
+    </table>
+</div>
+<script src="js/responsive.js"></script>
 </body>
 </html>
