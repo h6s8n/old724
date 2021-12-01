@@ -35,7 +35,8 @@ function sendFarazSms($code, $phone)
 {
     include "connectioni.php";
 
-    $fnum = '90000145';
+//    $fnum = '90000145';
+    $fnum = '5000125475';
     $v1 = $code;
     $tnum = $phone;
 //                $api_key = Config::get('services.loutka.apikey');
